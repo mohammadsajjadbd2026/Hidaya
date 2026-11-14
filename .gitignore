@@ -1,4 +1,4 @@
-raw/
+raw/**/*.jsonl
 data/kashshaf.db
 *.pdf
 scripts/java/*.class
