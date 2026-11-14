@@ -122,8 +122,8 @@ if os.path.exists(sp):
 w('## الفحص اليدوي (20 زوجًا عشوائيًّا)')
 w('')
 if sv:
-    ok = sum(1 for v in sv['verdicts'].values() if v == 'correct')
-    w(f"بذرة العشوائية {SEED}. الصحيح: **{ok} من {len(sv['verdicts'])}**. "
+    ok = sum(1 for p in sample if sv['verdicts'].get(p['hid_id']) == 'correct')
+    w(f"بذرة العشوائية {SEED}. الصحيح: **{ok} من {len(sample)}** (لم يُحكم على {sum(1 for p in sample if p['hid_id'] not in sv['verdicts'])}). "
       f"معيار الصحة: أن يكون امتداد البداية هو موضع المتن نفسه وحدوده لا تزيد ولا تنقص إلا بكلمة ربط.")
     w('')
     w('| معرف الهداية | الحالة | الدرجة | معرف البداية | الحكم |')

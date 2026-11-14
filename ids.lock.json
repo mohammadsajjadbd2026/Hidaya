@@ -1,1 +1,1369 @@
-{"_note":"معرِّفات المسائل المجمَّدة بعد مراجعة كل كتاب (PLAN §3.1). فارغ حتى المرحلة 2.","HID":{},"BID":{},"TAJ":{},"MUK":{}}
+{
+ "_note": "معرِّفات مجمَّدة (PLAN §3.1). كتاب الطهارات جُمِّد في 14-11-2026 بعد قرارات الباحث. أي تقسيم لاحق يضيف لواحق (0034a) ولا يعيد الترقيم.",
+ "HID": {
+  "01": {
+   "frozen": "2026-11-14",
+   "count": 168,
+   "ids": {
+    "HID.01.01.0001": {
+     "page": 11,
+     "matn_sha1": "73832f3b1673"
+    },
+    "HID.01.01.0002": {
+     "page": 11,
+     "matn_sha1": "b9f229369612"
+    },
+    "HID.01.01.0003": {
+     "page": 11,
+     "matn_sha1": "d1563057e083"
+    },
+    "HID.01.01.0004": {
+     "page": 11,
+     "matn_sha1": "9a52cbe24343"
+    },
+    "HID.01.01.0005": {
+     "page": 11,
+     "matn_sha1": "30949ab0914f"
+    },
+    "HID.01.01.0006": {
+     "page": 11,
+     "matn_sha1": "4b39866c9130"
+    },
+    "HID.01.01.0007": {
+     "page": 12,
+     "matn_sha1": "104a83bb9d9e"
+    },
+    "HID.01.01.0008": {
+     "page": 12,
+     "matn_sha1": "cf557d774759"
+    },
+    "HID.01.01.0009": {
+     "page": 12,
+     "matn_sha1": "d9d4976c434d"
+    },
+    "HID.01.01.0010": {
+     "page": 12,
+     "matn_sha1": "00fd2c1858cf"
+    },
+    "HID.01.01.0011": {
+     "page": 12,
+     "matn_sha1": "5d2a29438ae3"
+    },
+    "HID.01.01.0012": {
+     "page": 12,
+     "matn_sha1": "a77ea6a50a20"
+    },
+    "HID.01.01.0013": {
+     "page": 12,
+     "matn_sha1": "1660f2d12416"
+    },
+    "HID.01.01.0014": {
+     "page": 12,
+     "matn_sha1": "acec8098422e"
+    },
+    "HID.01.02.0001": {
+     "page": 14,
+     "matn_sha1": "6680f336b573"
+    },
+    "HID.01.02.0002": {
+     "page": 14,
+     "matn_sha1": "e956840232e8"
+    },
+    "HID.01.02.0003": {
+     "page": 14,
+     "matn_sha1": "2be3738f293b"
+    },
+    "HID.01.02.0004": {
+     "page": 15,
+     "matn_sha1": "62a3bc78bde2"
+    },
+    "HID.01.02.0005": {
+     "page": 15,
+     "matn_sha1": "961a82901736"
+    },
+    "HID.01.02.0006": {
+     "page": 15,
+     "matn_sha1": "e7c962ffd032"
+    },
+    "HID.01.02.0007": {
+     "page": 15,
+     "matn_sha1": "8c96c0035b79"
+    },
+    "HID.01.02.0008": {
+     "page": 15,
+     "matn_sha1": "27a563a79fff"
+    },
+    "HID.01.02.0009": {
+     "page": 15,
+     "matn_sha1": "e9acd0c10fce"
+    },
+    "HID.01.02.0010": {
+     "page": 15,
+     "matn_sha1": "ca1f46caa6a6"
+    },
+    "HID.01.03.0001": {
+     "page": 17,
+     "matn_sha1": "d924e31852d4"
+    },
+    "HID.01.03.0002": {
+     "page": 17,
+     "matn_sha1": "9ca7ccab6289"
+    },
+    "HID.01.03.0003": {
+     "page": 17,
+     "matn_sha1": "4ee98b1c7013"
+    },
+    "HID.01.03.0004": {
+     "page": 17,
+     "matn_sha1": "5bb510d8a9fb"
+    },
+    "HID.01.03.0005": {
+     "page": 17,
+     "matn_sha1": "9497c2d2bda9"
+    },
+    "HID.01.03.0006": {
+     "page": 18,
+     "matn_sha1": "169b65b8d84c"
+    },
+    "HID.01.03.0007": {
+     "page": 18,
+     "matn_sha1": "e63623454f72"
+    },
+    "HID.01.03.0008": {
+     "page": 18,
+     "matn_sha1": "9f6e47c92879"
+    },
+    "HID.01.04.0001": {
+     "page": 19,
+     "matn_sha1": "45732f9174bf"
+    },
+    "HID.01.04.0002": {
+     "page": 19,
+     "matn_sha1": "a3f6dd5d30ca"
+    },
+    "HID.01.04.0003": {
+     "page": 19,
+     "matn_sha1": "1ed450e086c6"
+    },
+    "HID.01.04.0004": {
+     "page": 20,
+     "matn_sha1": "42a98bf6b9a2"
+    },
+    "HID.01.04.0005": {
+     "page": 20,
+     "matn_sha1": "99b8578b7374"
+    },
+    "HID.01.04.0006": {
+     "page": 20,
+     "matn_sha1": "09a9830b39bf"
+    },
+    "HID.01.04.0007": {
+     "page": 20,
+     "matn_sha1": "d2576e770752"
+    },
+    "HID.01.04.0008": {
+     "page": 20,
+     "matn_sha1": "337b7d44cc7e"
+    },
+    "HID.01.04.0009": {
+     "page": 21,
+     "matn_sha1": "f3f12fd3f8cb"
+    },
+    "HID.01.04.0010": {
+     "page": 21,
+     "matn_sha1": "df2cd30fcbe7"
+    },
+    "HID.01.04.0011": {
+     "page": 21,
+     "matn_sha1": "086609c49eff"
+    },
+    "HID.01.04.0012": {
+     "page": 22,
+     "matn_sha1": "4310129b8cc8"
+    },
+    "HID.01.04.0013": {
+     "page": 22,
+     "matn_sha1": "0212ae35baec"
+    },
+    "HID.01.04.0014": {
+     "page": 22,
+     "matn_sha1": "5cb083c3f82b"
+    },
+    "HID.01.04.0015": {
+     "page": 22,
+     "matn_sha1": "cf2a1ed970a2"
+    },
+    "HID.01.05.0001": {
+     "page": 23,
+     "matn_sha1": "f1aaa05967b7"
+    },
+    "HID.01.05.0002": {
+     "page": 23,
+     "matn_sha1": "1670e4dd682b"
+    },
+    "HID.01.05.0003": {
+     "page": 23,
+     "matn_sha1": "bed89b59b1a5"
+    },
+    "HID.01.05.0004": {
+     "page": 23,
+     "matn_sha1": "ad504d0229c2"
+    },
+    "HID.01.05.0005": {
+     "page": 23,
+     "matn_sha1": "fa037d64e261"
+    },
+    "HID.01.05.0006": {
+     "page": 23,
+     "matn_sha1": "25db9c9e3251"
+    },
+    "HID.01.05.0007": {
+     "page": 24,
+     "matn_sha1": "02acef098ec4"
+    },
+    "HID.01.05.0008": {
+     "page": 24,
+     "matn_sha1": "4caf75c68ebc"
+    },
+    "HID.01.05.0009": {
+     "page": 24,
+     "matn_sha1": "ca5ac367c820"
+    },
+    "HID.01.05.0010": {
+     "page": 24,
+     "matn_sha1": "9f2691d9197b"
+    },
+    "HID.01.06.0001": {
+     "page": 25,
+     "matn_sha1": "59d240d7c8c5"
+    },
+    "HID.01.06.0002": {
+     "page": 25,
+     "matn_sha1": "f580b3a4f78a"
+    },
+    "HID.01.06.0003": {
+     "page": 25,
+     "matn_sha1": "40a37ea9c6af"
+    },
+    "HID.01.06.0004": {
+     "page": 26,
+     "matn_sha1": "ba3e302d0809"
+    },
+    "HID.01.06.0005": {
+     "page": 26,
+     "matn_sha1": "d3d6cf11592b"
+    },
+    "HID.01.06.0006": {
+     "page": 26,
+     "matn_sha1": "6d5039e12e26"
+    },
+    "HID.01.06.0007": {
+     "page": 26,
+     "matn_sha1": "c92fa5b417e8"
+    },
+    "HID.01.06.0008": {
+     "page": 26,
+     "matn_sha1": "4d03fa45c936"
+    },
+    "HID.01.06.0009": {
+     "page": 26,
+     "matn_sha1": "6b008bbe7922"
+    },
+    "HID.01.06.0010": {
+     "page": 26,
+     "matn_sha1": "a7ea305f79fc"
+    },
+    "HID.01.06.0011": {
+     "page": 26,
+     "matn_sha1": "e90511288dff"
+    },
+    "HID.01.06.0012": {
+     "page": 26,
+     "matn_sha1": "7a059c8618c6"
+    },
+    "HID.01.06.0013": {
+     "page": 26,
+     "matn_sha1": "500f04c3569d"
+    },
+    "HID.01.07.0001": {
+     "page": 28,
+     "matn_sha1": "c379174446cf"
+    },
+    "HID.01.07.0002": {
+     "page": 28,
+     "matn_sha1": "c2185cdcfdc8"
+    },
+    "HID.01.07.0003": {
+     "page": 28,
+     "matn_sha1": "218201bf2740"
+    },
+    "HID.01.07.0004": {
+     "page": 28,
+     "matn_sha1": "b8ccefc0b89b"
+    },
+    "HID.01.07.0005": {
+     "page": 29,
+     "matn_sha1": "d808f7b35fc8"
+    },
+    "HID.01.07.0006": {
+     "page": 29,
+     "matn_sha1": "b942c863cc0a"
+    },
+    "HID.01.07.0007": {
+     "page": 29,
+     "matn_sha1": "d73c3b698d5e"
+    },
+    "HID.01.07.0008": {
+     "page": 29,
+     "matn_sha1": "b7eabac6f726"
+    },
+    "HID.01.07.0009": {
+     "page": 29,
+     "matn_sha1": "9c09b1661dd8"
+    },
+    "HID.01.07.0010": {
+     "page": 29,
+     "matn_sha1": "73bad5eec1ed"
+    },
+    "HID.01.07.0011": {
+     "page": 29,
+     "matn_sha1": "5b6936afa3a2"
+    },
+    "HID.01.07.0012": {
+     "page": 29,
+     "matn_sha1": "a9597c7a064b"
+    },
+    "HID.01.07.0013": {
+     "page": 29,
+     "matn_sha1": "45a5853855c1"
+    },
+    "HID.01.07.0014": {
+     "page": 30,
+     "matn_sha1": "0551ef4f08e1"
+    },
+    "HID.01.07.0015": {
+     "page": 30,
+     "matn_sha1": "7e58c87a5a92"
+    },
+    "HID.01.07.0016": {
+     "page": 30,
+     "matn_sha1": "9482701f01aa"
+    },
+    "HID.01.07.0017": {
+     "page": 30,
+     "matn_sha1": "3901bd62ca9b"
+    },
+    "HID.01.07.0018": {
+     "page": 30,
+     "matn_sha1": "dd1316f59aad"
+    },
+    "HID.01.07.0019": {
+     "page": 30,
+     "matn_sha1": "d8eac4227aca"
+    },
+    "HID.01.07.0020": {
+     "page": 30,
+     "matn_sha1": "1717817698ec"
+    },
+    "HID.01.07.0021": {
+     "page": 30,
+     "matn_sha1": "d4208f6e02a3"
+    },
+    "HID.01.07.0022": {
+     "page": 30,
+     "matn_sha1": "01db15621eaf"
+    },
+    "HID.01.07.0023": {
+     "page": 31,
+     "matn_sha1": "3fba48d03edf"
+    },
+    "HID.01.07.0024": {
+     "page": 31,
+     "matn_sha1": "e449e0e12a39"
+    },
+    "HID.01.07.0025": {
+     "page": 31,
+     "matn_sha1": "6f52e40a9bcf"
+    },
+    "HID.01.07.0026": {
+     "page": 31,
+     "matn_sha1": "1ede39f84215"
+    },
+    "HID.01.07.0027": {
+     "page": 31,
+     "matn_sha1": "83a358840119"
+    },
+    "HID.01.08.0001": {
+     "page": 32,
+     "matn_sha1": "e7428df7f99a"
+    },
+    "HID.01.08.0002": {
+     "page": 32,
+     "matn_sha1": "a5a4aaecdc5c"
+    },
+    "HID.01.08.0003": {
+     "page": 32,
+     "matn_sha1": "f015e1432c44"
+    },
+    "HID.01.08.0004": {
+     "page": 32,
+     "matn_sha1": "1a3a37af7fad"
+    },
+    "HID.01.08.0005": {
+     "page": 32,
+     "matn_sha1": "cef715c01724"
+    },
+    "HID.01.08.0006": {
+     "page": 32,
+     "matn_sha1": "35f0a1d7c33f"
+    },
+    "HID.01.08.0007": {
+     "page": 32,
+     "matn_sha1": "84b893786ca6"
+    },
+    "HID.01.08.0008": {
+     "page": 32,
+     "matn_sha1": "8bc067e28052"
+    },
+    "HID.01.08.0009": {
+     "page": 32,
+     "matn_sha1": "8fc4840b2080"
+    },
+    "HID.01.08.0010": {
+     "page": 32,
+     "matn_sha1": "c4b39d9e1838"
+    },
+    "HID.01.08.0011": {
+     "page": 32,
+     "matn_sha1": "90b19a15b251"
+    },
+    "HID.01.08.0012": {
+     "page": 32,
+     "matn_sha1": "cd65e3a263ef"
+    },
+    "HID.01.08.0013": {
+     "page": 33,
+     "matn_sha1": "3bf6bfd882b1"
+    },
+    "HID.01.08.0014": {
+     "page": 33,
+     "matn_sha1": "1a14d4602f70"
+    },
+    "HID.01.08.0015": {
+     "page": 33,
+     "matn_sha1": "6f59780c069c"
+    },
+    "HID.01.08.0016": {
+     "page": 33,
+     "matn_sha1": "fdc92dc69fac"
+    },
+    "HID.01.09.0001": {
+     "page": 34,
+     "matn_sha1": "e65a50202836"
+    },
+    "HID.01.09.0002": {
+     "page": 34,
+     "matn_sha1": "ad00762b6d36"
+    },
+    "HID.01.09.0003": {
+     "page": 34,
+     "matn_sha1": "9d30bf81a5ed"
+    },
+    "HID.01.09.0004": {
+     "page": 35,
+     "matn_sha1": "26c377eb9d6b"
+    },
+    "HID.01.09.0005": {
+     "page": 35,
+     "matn_sha1": "c95679ad4cc9"
+    },
+    "HID.01.09.0006": {
+     "page": 35,
+     "matn_sha1": "854813ff8808"
+    },
+    "HID.01.09.0007": {
+     "page": 35,
+     "matn_sha1": "6538bffb417b"
+    },
+    "HID.01.09.0008": {
+     "page": 35,
+     "matn_sha1": "6252fe733e31"
+    },
+    "HID.01.09.0009": {
+     "page": 35,
+     "matn_sha1": "e85e38a7254b"
+    },
+    "HID.01.09.0010": {
+     "page": 35,
+     "matn_sha1": "ea189447b4a1"
+    },
+    "HID.01.09.0011": {
+     "page": 35,
+     "matn_sha1": "fc739602bc68"
+    },
+    "HID.01.09.0012": {
+     "page": 35,
+     "matn_sha1": "02d090dbe0aa"
+    },
+    "HID.01.09.0013": {
+     "page": 35,
+     "matn_sha1": "fb86dbc697aa"
+    },
+    "HID.01.09.0014": {
+     "page": 35,
+     "matn_sha1": "69f229a02502"
+    },
+    "HID.01.09.0015": {
+     "page": 36,
+     "matn_sha1": "baedfefc57f1"
+    },
+    "HID.01.09.0016": {
+     "page": 36,
+     "matn_sha1": "5fbc879f6c11"
+    },
+    "HID.01.09.0017": {
+     "page": 36,
+     "matn_sha1": "6fec76364f79"
+    },
+    "HID.01.09.0018": {
+     "page": 36,
+     "matn_sha1": "17a05e43f0f1"
+    },
+    "HID.01.10.0001": {
+     "page": 37,
+     "matn_sha1": "3d6cebf46ab8"
+    },
+    "HID.01.10.0002": {
+     "page": 37,
+     "matn_sha1": "43a77d81242c"
+    },
+    "HID.01.10.0003": {
+     "page": 37,
+     "matn_sha1": "98687a9228b9"
+    },
+    "HID.01.11.0001": {
+     "page": 39,
+     "matn_sha1": "e10f4591dfaf"
+    },
+    "HID.01.11.0002": {
+     "page": 39,
+     "matn_sha1": "03e29fb4a4f7"
+    },
+    "HID.01.11.0003": {
+     "page": 39,
+     "matn_sha1": "bb6ca1ab0c63"
+    },
+    "HID.01.11.0004": {
+     "page": 39,
+     "matn_sha1": "a897a74f8858"
+    },
+    "HID.01.11.0005": {
+     "page": 39,
+     "matn_sha1": "65d7713a8bfc"
+    },
+    "HID.01.11.0006": {
+     "page": 39,
+     "matn_sha1": "a4661a9d0fe6"
+    },
+    "HID.01.11.0007": {
+     "page": 39,
+     "matn_sha1": "be1f2dae054a"
+    },
+    "HID.01.11.0008": {
+     "page": 39,
+     "matn_sha1": "982bf6311160"
+    },
+    "HID.01.12.0001": {
+     "page": 41,
+     "matn_sha1": "b0082a903aa7"
+    },
+    "HID.01.12.0002": {
+     "page": 41,
+     "matn_sha1": "0a7463ea75b7"
+    },
+    "HID.01.12.0003": {
+     "page": 41,
+     "matn_sha1": "d2e197f730ae"
+    },
+    "HID.01.12.0004": {
+     "page": 41,
+     "matn_sha1": "33a3c25e0b88"
+    },
+    "HID.01.12.0005": {
+     "page": 41,
+     "matn_sha1": "5174c1d5cc12"
+    },
+    "HID.01.12.0006": {
+     "page": 41,
+     "matn_sha1": "1e6fcbdf8917"
+    },
+    "HID.01.12.0007": {
+     "page": 41,
+     "matn_sha1": "ac558758269c"
+    },
+    "HID.01.12.0008": {
+     "page": 42,
+     "matn_sha1": "0264b050db33"
+    },
+    "HID.01.12.0009": {
+     "page": 42,
+     "matn_sha1": "54cb33aa24a9"
+    },
+    "HID.01.12.0010": {
+     "page": 42,
+     "matn_sha1": "d0d1b77ba3eb"
+    },
+    "HID.01.12.0011": {
+     "page": 42,
+     "matn_sha1": "139ea19bbd56"
+    },
+    "HID.01.12.0012": {
+     "page": 42,
+     "matn_sha1": "41767f3277a6"
+    },
+    "HID.01.12.0013": {
+     "page": 43,
+     "matn_sha1": "afb0385d7351"
+    },
+    "HID.01.12.0014": {
+     "page": 43,
+     "matn_sha1": "590d573b6104"
+    },
+    "HID.01.12.0015": {
+     "page": 43,
+     "matn_sha1": "d421d9199fee"
+    },
+    "HID.01.12.0016": {
+     "page": 43,
+     "matn_sha1": "bc6aea8aa466"
+    },
+    "HID.01.12.0017": {
+     "page": 43,
+     "matn_sha1": "f13d50ae381b"
+    },
+    "HID.01.12.0018": {
+     "page": 43,
+     "matn_sha1": "118aa0fad198"
+    },
+    "HID.01.13.0001": {
+     "page": 44,
+     "matn_sha1": "afd812650f37"
+    },
+    "HID.01.13.0002": {
+     "page": 44,
+     "matn_sha1": "4227627b3296"
+    },
+    "HID.01.13.0003": {
+     "page": 44,
+     "matn_sha1": "dd960204558e"
+    },
+    "HID.01.13.0004": {
+     "page": 45,
+     "matn_sha1": "40d313a9262b"
+    },
+    "HID.01.13.0005": {
+     "page": 45,
+     "matn_sha1": "6e0892a2b420"
+    },
+    "HID.01.13.0006": {
+     "page": 45,
+     "matn_sha1": "a04a67bda2a5"
+    },
+    "HID.01.13.0007": {
+     "page": 45,
+     "matn_sha1": "26100d069afd"
+    },
+    "HID.01.13.0008": {
+     "page": 45,
+     "matn_sha1": "3b26e72cc39d"
+    }
+   }
+  }
+ },
+ "BID": {
+  "01": {
+   "frozen": "2026-11-14",
+   "count": 169,
+   "ids": {
+    "BID.01.01.0001": {
+     "page": null,
+     "text_sha1": "35f6beb80eb7"
+    },
+    "BID.01.01.0002": {
+     "page": null,
+     "text_sha1": "f3cc3e4cf7f7"
+    },
+    "BID.01.01.0003": {
+     "page": null,
+     "text_sha1": "7de8067d6227"
+    },
+    "BID.01.01.0004": {
+     "page": null,
+     "text_sha1": "c53df9f08caa"
+    },
+    "BID.01.01.0005": {
+     "page": null,
+     "text_sha1": "7df97a286cb1"
+    },
+    "BID.01.01.0006": {
+     "page": null,
+     "text_sha1": "4b39866c9130"
+    },
+    "BID.01.01.0007": {
+     "page": null,
+     "text_sha1": "f5affcc1788b"
+    },
+    "BID.01.01.0008": {
+     "page": null,
+     "text_sha1": "1ea117419f24"
+    },
+    "BID.01.01.0009": {
+     "page": null,
+     "text_sha1": "5ad0e3f07b74"
+    },
+    "BID.01.01.0010": {
+     "page": null,
+     "text_sha1": "4b7a896c9e99"
+    },
+    "BID.01.01.0011": {
+     "page": null,
+     "text_sha1": "428510262fef"
+    },
+    "BID.01.01.0012": {
+     "page": null,
+     "text_sha1": "582bf17439fe"
+    },
+    "BID.01.01.0013": {
+     "page": null,
+     "text_sha1": "3e903cf5675d"
+    },
+    "BID.01.01.0014": {
+     "page": null,
+     "text_sha1": "4648e087da6e"
+    },
+    "BID.01.02.0001": {
+     "page": null,
+     "text_sha1": "0edf30bd8761"
+    },
+    "BID.01.02.0002": {
+     "page": null,
+     "text_sha1": "dffed13eae5c"
+    },
+    "BID.01.02.0003": {
+     "page": null,
+     "text_sha1": "018be8c09ed2"
+    },
+    "BID.01.02.0004": {
+     "page": null,
+     "text_sha1": "6ede08c56cad"
+    },
+    "BID.01.02.0005": {
+     "page": null,
+     "text_sha1": "29fdd6897f17"
+    },
+    "BID.01.02.0006": {
+     "page": null,
+     "text_sha1": "912b23467c95"
+    },
+    "BID.01.02.0007": {
+     "page": null,
+     "text_sha1": "a0633857aee0"
+    },
+    "BID.01.02.0008": {
+     "page": null,
+     "text_sha1": "90c181e79f52"
+    },
+    "BID.01.02.0009": {
+     "page": null,
+     "text_sha1": "0a6ec328d4b4"
+    },
+    "BID.01.02.0010": {
+     "page": null,
+     "text_sha1": "a6a5b9f1703f"
+    },
+    "BID.01.03.0001": {
+     "page": null,
+     "text_sha1": "a878150a6391"
+    },
+    "BID.01.03.0002": {
+     "page": null,
+     "text_sha1": "19cb54d7566e"
+    },
+    "BID.01.03.0003": {
+     "page": null,
+     "text_sha1": "735b3ce7efeb"
+    },
+    "BID.01.03.0004": {
+     "page": null,
+     "text_sha1": "ff9fb1d5d26a"
+    },
+    "BID.01.03.0005": {
+     "page": null,
+     "text_sha1": "d9e02db876bf"
+    },
+    "BID.01.03.0006": {
+     "page": null,
+     "text_sha1": "ae57fbfebb04"
+    },
+    "BID.01.03.0007": {
+     "page": null,
+     "text_sha1": "9a91a84835d2"
+    },
+    "BID.01.03.0008": {
+     "page": null,
+     "text_sha1": "fe409e8a4f90"
+    },
+    "BID.01.04.0001": {
+     "page": null,
+     "text_sha1": "c0f5b22cdef1"
+    },
+    "BID.01.04.0002": {
+     "page": null,
+     "text_sha1": "4716d470b1ed"
+    },
+    "BID.01.04.0003": {
+     "page": null,
+     "text_sha1": "e09f5484f9ac"
+    },
+    "BID.01.04.0004": {
+     "page": null,
+     "text_sha1": "c0e04487b616"
+    },
+    "BID.01.04.0005": {
+     "page": null,
+     "text_sha1": "2ad5c8ddb1cb"
+    },
+    "BID.01.04.0006": {
+     "page": null,
+     "text_sha1": "d4830ed32c54"
+    },
+    "BID.01.04.0007": {
+     "page": null,
+     "text_sha1": "5734acf07050"
+    },
+    "BID.01.04.0008": {
+     "page": null,
+     "text_sha1": "21e65eea2460"
+    },
+    "BID.01.04.0009": {
+     "page": null,
+     "text_sha1": "293cbdd7264e"
+    },
+    "BID.01.04.0010": {
+     "page": null,
+     "text_sha1": "bfe0eeb46ca8"
+    },
+    "BID.01.04.0011": {
+     "page": null,
+     "text_sha1": "8ad1b0199158"
+    },
+    "BID.01.04.0012": {
+     "page": null,
+     "text_sha1": "a70fbe4a1b7a"
+    },
+    "BID.01.04.0013": {
+     "page": null,
+     "text_sha1": "cae8db9437f1"
+    },
+    "BID.01.04.0014": {
+     "page": null,
+     "text_sha1": "13fb48eaa794"
+    },
+    "BID.01.04.0015": {
+     "page": null,
+     "text_sha1": "93c10c18dcde"
+    },
+    "BID.01.05.0001": {
+     "page": null,
+     "text_sha1": "0c41e15fb951"
+    },
+    "BID.01.05.0002": {
+     "page": null,
+     "text_sha1": "8725a622036e"
+    },
+    "BID.01.05.0003": {
+     "page": null,
+     "text_sha1": "949e24cd03a7"
+    },
+    "BID.01.05.0004": {
+     "page": null,
+     "text_sha1": "16686ad55f43"
+    },
+    "BID.01.05.0005": {
+     "page": null,
+     "text_sha1": "38ab51475d14"
+    },
+    "BID.01.05.0006": {
+     "page": null,
+     "text_sha1": "1f73ef19518b"
+    },
+    "BID.01.05.0007": {
+     "page": null,
+     "text_sha1": "11ef4ebe9e14"
+    },
+    "BID.01.05.0008": {
+     "page": null,
+     "text_sha1": "64ef39b76b3c"
+    },
+    "BID.01.05.0009": {
+     "page": null,
+     "text_sha1": "22db2132bf7c"
+    },
+    "BID.01.05.0010": {
+     "page": null,
+     "text_sha1": "e2fff4a196db"
+    },
+    "BID.01.06.0001": {
+     "page": null,
+     "text_sha1": "f17d5380fa75"
+    },
+    "BID.01.06.0002": {
+     "page": null,
+     "text_sha1": "2d14a4b9a1ad"
+    },
+    "BID.01.06.0003": {
+     "page": null,
+     "text_sha1": "c4adeaf2d8aa"
+    },
+    "BID.01.06.0004": {
+     "page": null,
+     "text_sha1": "23afa421c341"
+    },
+    "BID.01.06.0005": {
+     "page": null,
+     "text_sha1": "ab4c74c8a52f"
+    },
+    "BID.01.06.0006": {
+     "page": null,
+     "text_sha1": "dbb413f5bcb7"
+    },
+    "BID.01.06.0007": {
+     "page": null,
+     "text_sha1": "08e39ef0ac47"
+    },
+    "BID.01.06.0008": {
+     "page": null,
+     "text_sha1": "b51bad4d97d2"
+    },
+    "BID.01.06.0009": {
+     "page": null,
+     "text_sha1": "9464c30f8e48"
+    },
+    "BID.01.06.0010": {
+     "page": null,
+     "text_sha1": "184ab624fe37"
+    },
+    "BID.01.06.0011": {
+     "page": null,
+     "text_sha1": "f951e57e7492"
+    },
+    "BID.01.06.0012": {
+     "page": null,
+     "text_sha1": "a5b938c372dc"
+    },
+    "BID.01.07.0001": {
+     "page": null,
+     "text_sha1": "24feb1ac3d8b"
+    },
+    "BID.01.07.0002": {
+     "page": null,
+     "text_sha1": "f5f63aae506b"
+    },
+    "BID.01.07.0003": {
+     "page": null,
+     "text_sha1": "fc121567072d"
+    },
+    "BID.01.07.0004": {
+     "page": null,
+     "text_sha1": "8dd760896e31"
+    },
+    "BID.01.07.0005": {
+     "page": null,
+     "text_sha1": "299b4df72eb8"
+    },
+    "BID.01.07.0006": {
+     "page": null,
+     "text_sha1": "a60f036d83e5"
+    },
+    "BID.01.07.0007": {
+     "page": null,
+     "text_sha1": "8997d01c5784"
+    },
+    "BID.01.07.0008": {
+     "page": null,
+     "text_sha1": "17c616ab0c83"
+    },
+    "BID.01.07.0009": {
+     "page": null,
+     "text_sha1": "cc34acb903fd"
+    },
+    "BID.01.07.0010": {
+     "page": null,
+     "text_sha1": "3e5afb85e89e"
+    },
+    "BID.01.07.0011": {
+     "page": null,
+     "text_sha1": "e6aea517b373"
+    },
+    "BID.01.07.0012": {
+     "page": null,
+     "text_sha1": "63f13b398b35"
+    },
+    "BID.01.07.0013": {
+     "page": null,
+     "text_sha1": "3a606c3f0f97"
+    },
+    "BID.01.07.0014": {
+     "page": null,
+     "text_sha1": "a45e2f981cd3"
+    },
+    "BID.01.07.0015": {
+     "page": null,
+     "text_sha1": "cb8fbc6f76d1"
+    },
+    "BID.01.07.0016": {
+     "page": null,
+     "text_sha1": "2d6f47ec4714"
+    },
+    "BID.01.07.0017": {
+     "page": null,
+     "text_sha1": "d94c23c76428"
+    },
+    "BID.01.07.0018": {
+     "page": null,
+     "text_sha1": "1a7166b17b7a"
+    },
+    "BID.01.07.0019": {
+     "page": null,
+     "text_sha1": "64637ef14815"
+    },
+    "BID.01.07.0020": {
+     "page": null,
+     "text_sha1": "5bf1a4a0c3c1"
+    },
+    "BID.01.07.0021": {
+     "page": null,
+     "text_sha1": "c59559ad2ba1"
+    },
+    "BID.01.07.0022": {
+     "page": null,
+     "text_sha1": "31a2c79adb5b"
+    },
+    "BID.01.07.0023": {
+     "page": null,
+     "text_sha1": "4dbc248fcce1"
+    },
+    "BID.01.07.0024": {
+     "page": null,
+     "text_sha1": "999072a0e885"
+    },
+    "BID.01.07.0025": {
+     "page": null,
+     "text_sha1": "298465da82a3"
+    },
+    "BID.01.07.0026": {
+     "page": null,
+     "text_sha1": "2da258eb5e88"
+    },
+    "BID.01.07.0027": {
+     "page": null,
+     "text_sha1": "ef362266532c"
+    },
+    "BID.01.08.0001": {
+     "page": null,
+     "text_sha1": "c97758080e8b"
+    },
+    "BID.01.08.0002": {
+     "page": null,
+     "text_sha1": "093302544e9e"
+    },
+    "BID.01.08.0003": {
+     "page": null,
+     "text_sha1": "a062943eb129"
+    },
+    "BID.01.08.0004": {
+     "page": null,
+     "text_sha1": "ccbf9bbbbb13"
+    },
+    "BID.01.08.0005": {
+     "page": null,
+     "text_sha1": "056ccac929b9"
+    },
+    "BID.01.08.0006": {
+     "page": null,
+     "text_sha1": "67345c85d42e"
+    },
+    "BID.01.08.0007": {
+     "page": null,
+     "text_sha1": "449bd490d6da"
+    },
+    "BID.01.08.0008": {
+     "page": null,
+     "text_sha1": "4f69d6b96037"
+    },
+    "BID.01.08.0009": {
+     "page": null,
+     "text_sha1": "3925becd1803"
+    },
+    "BID.01.08.0010": {
+     "page": null,
+     "text_sha1": "1991244ab372"
+    },
+    "BID.01.08.0011": {
+     "page": null,
+     "text_sha1": "e55f0ba79e58"
+    },
+    "BID.01.08.0012": {
+     "page": null,
+     "text_sha1": "4e9b88767f02"
+    },
+    "BID.01.08.0013": {
+     "page": null,
+     "text_sha1": "fba85f558cdb"
+    },
+    "BID.01.08.0014": {
+     "page": null,
+     "text_sha1": "c938a38f50ff"
+    },
+    "BID.01.08.0015": {
+     "page": null,
+     "text_sha1": "4685df9e9447"
+    },
+    "BID.01.08.0016": {
+     "page": null,
+     "text_sha1": "d07f8becde42"
+    },
+    "BID.01.08.0017": {
+     "page": null,
+     "text_sha1": "aac4c2b49863"
+    },
+    "BID.01.08.0018": {
+     "page": null,
+     "text_sha1": "e738bff22449"
+    },
+    "BID.01.09.0001": {
+     "page": null,
+     "text_sha1": "10c184febd95"
+    },
+    "BID.01.09.0002": {
+     "page": null,
+     "text_sha1": "08146193dadd"
+    },
+    "BID.01.09.0003": {
+     "page": null,
+     "text_sha1": "2f3b4b183fbc"
+    },
+    "BID.01.09.0004": {
+     "page": null,
+     "text_sha1": "d0297cca56a8"
+    },
+    "BID.01.09.0005": {
+     "page": null,
+     "text_sha1": "27b8ba7ce4ce"
+    },
+    "BID.01.09.0006": {
+     "page": null,
+     "text_sha1": "fb96bd8627ec"
+    },
+    "BID.01.09.0007": {
+     "page": null,
+     "text_sha1": "51c3e9ab0c65"
+    },
+    "BID.01.09.0008": {
+     "page": null,
+     "text_sha1": "131fba127754"
+    },
+    "BID.01.09.0009": {
+     "page": null,
+     "text_sha1": "f73320d158a9"
+    },
+    "BID.01.09.0010": {
+     "page": null,
+     "text_sha1": "a44d8f2005a2"
+    },
+    "BID.01.09.0011": {
+     "page": null,
+     "text_sha1": "3c7b22d47525"
+    },
+    "BID.01.09.0012": {
+     "page": null,
+     "text_sha1": "e772fe50c174"
+    },
+    "BID.01.09.0013": {
+     "page": null,
+     "text_sha1": "f54ce8ce84b6"
+    },
+    "BID.01.09.0014": {
+     "page": null,
+     "text_sha1": "4c396295f503"
+    },
+    "BID.01.09.0015": {
+     "page": null,
+     "text_sha1": "34387322db54"
+    },
+    "BID.01.09.0016": {
+     "page": null,
+     "text_sha1": "dc463c7c85ea"
+    },
+    "BID.01.09.0017": {
+     "page": null,
+     "text_sha1": "d35bd3bfc8a1"
+    },
+    "BID.01.09.0018": {
+     "page": null,
+     "text_sha1": "5635c6b8c506"
+    },
+    "BID.01.10.0001": {
+     "page": null,
+     "text_sha1": "b779dc66e21b"
+    },
+    "BID.01.10.0002": {
+     "page": null,
+     "text_sha1": "6fa18983ccf5"
+    },
+    "BID.01.10.0003": {
+     "page": null,
+     "text_sha1": "5f165bc85d71"
+    },
+    "BID.01.11.0001": {
+     "page": null,
+     "text_sha1": "8e7b0760546f"
+    },
+    "BID.01.11.0002": {
+     "page": null,
+     "text_sha1": "52ac187274a5"
+    },
+    "BID.01.11.0003": {
+     "page": null,
+     "text_sha1": "dcefd084b397"
+    },
+    "BID.01.11.0004": {
+     "page": null,
+     "text_sha1": "aac072d2a535"
+    },
+    "BID.01.11.0005": {
+     "page": null,
+     "text_sha1": "f08dca8609d7"
+    },
+    "BID.01.11.0006": {
+     "page": null,
+     "text_sha1": "d4ffb17cf2a8"
+    },
+    "BID.01.11.0007": {
+     "page": null,
+     "text_sha1": "19cafa25dbe4"
+    },
+    "BID.01.11.0008": {
+     "page": null,
+     "text_sha1": "008e51aa65be"
+    },
+    "BID.01.12.0001": {
+     "page": null,
+     "text_sha1": "99fbaeffdefe"
+    },
+    "BID.01.12.0002": {
+     "page": null,
+     "text_sha1": "e74e4fae49df"
+    },
+    "BID.01.12.0003": {
+     "page": null,
+     "text_sha1": "7b1f0e848b24"
+    },
+    "BID.01.12.0004": {
+     "page": null,
+     "text_sha1": "58571ae58400"
+    },
+    "BID.01.12.0005": {
+     "page": null,
+     "text_sha1": "750e122e4f51"
+    },
+    "BID.01.12.0006": {
+     "page": null,
+     "text_sha1": "9b8aa21c4fcc"
+    },
+    "BID.01.12.0007": {
+     "page": null,
+     "text_sha1": "ddfaba1b9446"
+    },
+    "BID.01.12.0008": {
+     "page": null,
+     "text_sha1": "eb7de0ce9670"
+    },
+    "BID.01.12.0009": {
+     "page": null,
+     "text_sha1": "1e062253d178"
+    },
+    "BID.01.12.0010": {
+     "page": null,
+     "text_sha1": "c0f3f58a9096"
+    },
+    "BID.01.12.0011": {
+     "page": null,
+     "text_sha1": "3451e95cd2c0"
+    },
+    "BID.01.12.0012": {
+     "page": null,
+     "text_sha1": "da3da7a58c05"
+    },
+    "BID.01.12.0013": {
+     "page": null,
+     "text_sha1": "3f9de43b19c4"
+    },
+    "BID.01.12.0014": {
+     "page": null,
+     "text_sha1": "1af5023dc2a1"
+    },
+    "BID.01.12.0015": {
+     "page": null,
+     "text_sha1": "80606acd7d50"
+    },
+    "BID.01.12.0016": {
+     "page": null,
+     "text_sha1": "65be085e87a5"
+    },
+    "BID.01.12.0017": {
+     "page": null,
+     "text_sha1": "dcc740fb6c81"
+    },
+    "BID.01.12.0018": {
+     "page": null,
+     "text_sha1": "ba91aa1f5645"
+    },
+    "BID.01.13.0001": {
+     "page": null,
+     "text_sha1": "2dd67ae187ac"
+    },
+    "BID.01.13.0002": {
+     "page": null,
+     "text_sha1": "63e37f7791a4"
+    },
+    "BID.01.13.0003": {
+     "page": null,
+     "text_sha1": "4357eb2e0bcf"
+    },
+    "BID.01.13.0004": {
+     "page": null,
+     "text_sha1": "19c33031540b"
+    },
+    "BID.01.13.0005": {
+     "page": null,
+     "text_sha1": "34450e77eae7"
+    },
+    "BID.01.13.0006": {
+     "page": null,
+     "text_sha1": "3d2c8309b7ee"
+    },
+    "BID.01.13.0007": {
+     "page": null,
+     "text_sha1": "65f4fc93225e"
+    },
+    "BID.01.13.0008": {
+     "page": null,
+     "text_sha1": "eb7b5033bcb2"
+    }
+   }
+  }
+ },
+ "TAJ": {},
+ "MUK": {}
+}

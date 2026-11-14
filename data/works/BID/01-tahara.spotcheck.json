@@ -1,7 +1,7 @@
 {
  "seed": 20261114,
  "criterion": "BID span is the same matn passage as the HID unit, boundaries exact up to a connective word",
- "reviewer": "Claude (T2.3), manual reading of 20 sampled pairs",
+ "reviewer": "Claude (T2.3), manual reading of 20 sampled pairs; re-run after researcher decisions (verse as matn, ثم joins): 11 newly sampled pairs reviewed by Claude (coordinator), 14-11-2026",
  "verdicts": {
   "HID.01.02.0003": "correct",
   "HID.01.06.0006": "correct",
@@ -22,6 +22,17 @@
   "HID.01.11.0004": "correct",
   "HID.01.07.0029": "correct",
   "HID.01.08.0004": "correct",
-  "HID.01.07.0001": "correct"
+  "HID.01.07.0001": "correct",
+  "HID.01.12.0001": "correct",
+  "HID.01.12.0010": "correct",
+  "HID.01.09.0012": "correct",
+  "HID.01.09.0018": "correct",
+  "HID.01.09.0001": "correct",
+  "HID.01.08.0012": "correct",
+  "HID.01.12.0017": "correct",
+  "HID.01.11.0006": "correct",
+  "HID.01.08.0002": "correct",
+  "HID.01.08.0006": "correct",
+  "HID.01.05.0010": "correct"
  }
 }

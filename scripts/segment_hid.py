@@ -34,7 +34,7 @@ RX_ATHAR = re.compile(r'(?:قول|عن|قال)\s+(?:علي|عمر|عائشة|ا�
 # بدايات جزء المتن التي تدل على أنه تتمة جملة متنية سابقة لا مسألة جديدة
 RX_CONT_START = re.compile(r'^\s*(?:إلا|إلى|أو\s|أو$|حتى|عند|عندهما|بماء|بطعام|وقال\s+(?:أبو|محمد|زفر|الشافعي|مالك)|وقالا|وكذا\s+عند|وهذا\s+عند|وعندهما|وعنده)')
 # فواتح جمل الشرح المرشحة لتوليد المسائل F1.M4.T1 (خارج علامتي المتن)
-RX_TAWLID = re.compile(r'(?:(?<=[\s.،\r\n])|^)(ولو|وإن|فإن|وكذا|وعلى هذا|ثم)\s')
+RX_TAWLID = re.compile(r'(?:(?<=[\s.،\r\n])|^)(ولو|وإن|فإن|وكذا|وعلى هذا)\s')
 
 
 def load(kitab_no):
@@ -261,13 +261,16 @@ def main():
                 is_new = e['kind'] == 'split'; jrule = 'EXC:' + e['reason']
             elif cur is None:
                 is_new, jrule = True, 'first in unit'
+            elif re.match(r"\s*ثم\s", q["text"]):
+                # قرار الباحث (14-11-2026): «ثم» تفريع داخل المسألة، ولا تُفرد إلا إذا تغير الموضوع (باستثناء split يدوي)
+                is_new, jrule = False, 'J6 ثم: تفريع داخل المسألة'
             elif RX_QALA_BARE.search(q['lead'][-60:]) or q['para_start']:
                 is_new, jrule = True, 'J1 قال:/أول فقرة'
             elif last_matn is not None and len(last_matn['text'].strip()) <= 4:
                 is_new, jrule = False, 'J2 الجزء السابق حرف عطف/نفي قصير'
             elif RX_CONT_START.search(q['text']):
                 is_new, jrule = False, 'J3 بداية تتمة (إلا/إلى/أو/وقال فلان/عنده…)'
-            elif not re.match(r"\s*(?:[وف]|ثم\s)", q["text"]):
+            elif not re.match(r"\s*[وف]", q["text"]):
                 is_new, jrule = False, 'J4 لا يبدأ بواو/فاء: تتمة جملة'
             else:
                 is_new, jrule = True, 'J5 جملة متنية جديدة تبدأ بواو/فاء'
@@ -304,6 +307,19 @@ def main():
             cur = dict(unit=u, start=u['s'], matn=[], quotes=u.pop('pending', []), join=[])
             masail.append(cur)
         cur['end'] = u['e']
+    # مقاطع متن خارج علامات التنصيص (استثناء matn_span بقرار الباحث، مثل الآية في صدر الكتاب)
+    spans = []
+    for ek, e in exc_k.items():
+        if e['kind'] != 'matn_span':
+            continue
+        lib, po = map(int, ek.split(':'))
+        base = next(st[0] for st in starts if st[1] == lib)
+        o = base + po
+        if not text.startswith(e['prefix'], o):
+            sys.exit(f'matn_span {ek} prefix mismatch: {text[o:o+30]!r}')
+        ce = (text.index(e['until'], o) + len(e['until'])) if e.get('until') else o + len(e['prefix'])
+        spans.append(dict(text=text[o:ce], char_start=o, char_end=ce, page=lib, virtual_open=False, matn_span=e['reason']))
+        used_exc.add(ek)
     # تقليم المسافات في آخر كل مسألة (تبقى ضمن الشريحة الحرفية بلا تغيير)
     out = []
     seqs = {}
@@ -319,6 +335,7 @@ def main():
         frags = [dict(text=q['text'][q.get('skip', 0):], char_start=q['o'] + 1 + q.get('skip', 0), char_end=q['c'],
                       page=page_at(starts, q['o'] + 1)[1], virtual_open=q['virtual_open'],
                       **({'skipped_prefix': q['text'][:q['skip']]} if q.get('skip') else {})) for q in m['matn']]
+        frags = sorted(frags + [sp for sp in spans if s <= sp['char_start'] < e], key=lambda f: f['char_start'])
         flags = []
         if u['how'] == 'virtual' and seq == 1:
             flags.append(f'heading_virtual: عنوان «{u["title"]}» من فهرس الشاملة ولا يظهر في نص الصفحة')
