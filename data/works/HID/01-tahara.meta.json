@@ -1,0 +1,127 @@
+{
+ "source": "S1",
+ "kitab_no": 1,
+ "kitab": "كتاب الطهارات",
+ "text_def": "kitab_text = \"\\n\".join(page.body) للصفحات 11..45، مقطوعًا عند عنوان الكتاب التالي",
+ "kitab_text_len": 47650,
+ "kitab_text_sha1": "da7b47489d5af4856d5cc9e03634edf52a3aa4e2",
+ "units": [
+  {
+   "no": 1,
+   "title": "باب: الوضوء",
+   "bab": "باب: الوضوء",
+   "fasl": null,
+   "heading": "virtual",
+   "char_start": 55,
+   "char_end": 3477
+  },
+  {
+   "no": 2,
+   "title": "فصل: في نواقض الوضوء",
+   "bab": "باب: الوضوء",
+   "fasl": "فصل: في نواقض الوضوء",
+   "heading": "span",
+   "char_start": 3538,
+   "char_end": 7602
+  },
+  {
+   "no": 3,
+   "title": "فصل: في الغسل",
+   "bab": "باب: الوضوء",
+   "fasl": "فصل: في الغسل",
+   "heading": "span",
+   "char_start": 7656,
+   "char_end": 10514
+  },
+  {
+   "no": 4,
+   "title": "باب: الماء الذي يجوز به الوضوء وما لا يجوز",
+   "bab": "باب: الماء الذي يجوز به الوضوء وما لا يجوز",
+   "fasl": null,
+   "heading": "span",
+   "char_start": 10596,
+   "char_end": 17480
+  },
+  {
+   "no": 5,
+   "title": "فصل: في البئر",
+   "bab": "باب: الماء الذي يجوز به الوضوء وما لا يجوز",
+   "fasl": "فصل: في البئر",
+   "heading": "span",
+   "char_start": 17534,
+   "char_end": 21309
+  },
+  {
+   "no": 6,
+   "title": "فصل: في الأسآر وغيرها",
+   "bab": "باب: الماء الذي يجوز به الوضوء وما لا يجوز",
+   "fasl": "فصل: في الأسآر وغيرها",
+   "heading": "span",
+   "char_start": 21371,
+   "char_end": 24634
+  },
+  {
+   "no": 7,
+   "title": "باب: التيمم",
+   "bab": "باب: التيمم",
+   "fasl": null,
+   "heading": "span",
+   "char_start": 24686,
+   "char_end": 30641
+  },
+  {
+   "no": 8,
+   "title": "باب: المسح على الخفين",
+   "bab": "باب: المسح على الخفين",
+   "fasl": null,
+   "heading": "virtual",
+   "char_start": 30641,
+   "char_end": 33801
+  },
+  {
+   "no": 9,
+   "title": "باب: الحيض والاستحاضة",
+   "bab": "باب: الحيض والاستحاضة",
+   "fasl": null,
+   "heading": "span",
+   "char_start": 33863,
+   "char_end": 37659
+  },
+  {
+   "no": 10,
+   "title": "فصل: في الاستحاضة",
+   "bab": "باب: الحيض والاستحاضة",
+   "fasl": "فصل: في الاستحاضة",
+   "heading": "span",
+   "char_start": 37717,
+   "char_end": 39346
+  },
+  {
+   "no": 11,
+   "title": "فصل: في النفاس",
+   "bab": "باب: الحيض والاستحاضة",
+   "fasl": "فصل: في النفاس",
+   "heading": "span",
+   "char_start": 39401,
+   "char_end": 40745
+  },
+  {
+   "no": 12,
+   "title": "باب: الأنجاس وتطهيرها",
+   "bab": "باب: الأنجاس وتطهيرها",
+   "fasl": null,
+   "heading": "span",
+   "char_start": 40807,
+   "char_end": 46352
+  },
+  {
+   "no": 13,
+   "title": "فصل: في الاستنجاء",
+   "bab": "باب: الأنجاس وتطهيرها",
+   "fasl": "فصل: في الاستنجاء",
+   "heading": "span",
+   "char_start": 46410,
+   "char_end": 47650
+  }
+ ]
+}

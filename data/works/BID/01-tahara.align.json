@@ -1,0 +1,4683 @@
+{
+ "meta": {
+  "task": "T2.3",
+  "hid_file": "data/works/HID/01-tahara.matn.txt",
+  "provisional_hid": false,
+  "method": "difflib.SequenceMatcher(autojunk=False) global monotonic alignment over normalized tokens; see scripts/align_bid_hid.py docstring",
+  "threshold": 0.6,
+  "absorb_gap_tokens": 2,
+  "extent": {
+   "start_lib_page": 1,
+   "start_body_offset": 88,
+   "end_lib_page": 10,
+   "end_body_offset_exclusive": 520,
+   "kitab_salat_heading_lib_page": 10,
+   "kitab_salat_heading_offset": 521,
+   "concat_length": 14021
+  },
+  "page_break_marker": "\\n (between page bodies in concat text)",
+  "headings": [
+   {
+    "concat_start": 0,
+    "concat_end": 58,
+    "text": "كتاب الطَّهَارَة",
+    "level": "kitab"
+   },
+   {
+    "concat_start": 733,
+    "concat_end": 795,
+    "text": "فصل فِي نواقض الْوضُوء",
+    "level": "fasl"
+   },
+   {
+    "concat_start": 1504,
+    "concat_end": 1559,
+    "text": "فصل فِي الْغسْل",
+    "level": "fasl"
+   },
+   {
+    "concat_start": 2221,
+    "concat_end": 2274,
+    "text": "بَاب المَاء الَّذِي يجوز بِهِ الْوضُوء وَمَا لَا يجوز",
+    "level": "bab"
+   },
+   {
+    "concat_start": 3658,
+    "concat_end": 3714,
+    "text": "فصل فِي الْبِئْر",
+    "level": "fasl"
+   },
+   {
+    "concat_start": 4997,
+    "concat_end": 5061,
+    "text": "فصل فِي الأسآر وَغَيرهَا",
+    "level": "fasl"
+   },
+   {
+    "concat_start": 5533,
+    "concat_end": 5549,
+    "text": "بَاب التَّيَمُّم",
+    "level": "bab"
+   },
+   {
+    "concat_start": 8126,
+    "concat_end": 8155,
+    "text": "بَاب الْمسْح على الْخُفَّيْنِ",
+    "level": "bab"
+   },
+   {
+    "concat_start": 9419,
+    "concat_end": 9441,
+    "text": "بَاب الْحيض والاستحاضة",
+    "level": "bab"
+   },
+   {
+    "concat_start": 10797,
+    "concat_end": 10833,
+    "text": "فصل",
+    "level": "fasl"
+   },
+   {
+    "concat_start": 11160,
+    "concat_end": 11175,
+    "text": "فصل فِي النّفاس",
+    "level": "fasl"
+   },
+   {
+    "concat_start": 11814,
+    "concat_end": 11835,
+    "text": "بَاب الأنجاس وتطهيرها",
+    "level": "bab"
+   },
+   {
+    "concat_start": 13712,
+    "concat_end": 13774,
+    "text": "فصل فِي الِاسْتِنْجَاء",
+    "level": "fasl"
+   }
+  ]
+ },
+ "pairs": [
+  {
+   "hid_id": "HID.01.01.0001",
+   "hid_matn": "ففرض الطهارة غسل الأعضاء الثلاثة ومسح الرأس",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 15,
+    "page_end": 15,
+    "lib_page_start": 11,
+    "lib_page_end": 11
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 7,
+   "matched_tokens": 7,
+   "bid_id": "BID.01.01.0002",
+   "bid_text": "فَفرض الطَّهَارَة غسل الْأَعْضَاء الثَّلَاثَة وَمسح الرَّأْس",
+   "concat_char_start": 166,
+   "concat_char_end": 226,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.01.0002",
+   "hid_matn": "والمرفقان والكعبان يدخلان في الغسل",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 15,
+    "page_end": 15,
+    "lib_page_start": 11,
+    "lib_page_end": 11
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 5,
+   "matched_tokens": 5,
+   "bid_id": "BID.01.01.0003",
+   "bid_text": "والمرفقان والكعبان يدخلَانِ فِي الْغسْل",
+   "concat_char_start": 227,
+   "concat_char_end": 266,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.01.0003",
+   "hid_matn": "والمفروض في مسح الرأس مقدار الناصية وهو ربع الرأس",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 15,
+    "page_end": 15,
+    "lib_page_start": 11,
+    "lib_page_end": 11
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 9,
+   "matched_tokens": 9,
+   "bid_id": "BID.01.01.0004",
+   "bid_text": "والمفروض فِي مسح الرَّأْس مِقْدَار الناصية وَهُوَ ربع الرَّأْس",
+   "concat_char_start": 267,
+   "concat_char_end": 329,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.01.0004",
+   "hid_matn": "وسنن الطهارة: غسل اليدين قبل إدخالهما الإناء إذا استيقظ المتوضئ من نومه",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 15,
+    "page_end": 15,
+    "lib_page_start": 11,
+    "lib_page_end": 11
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 12,
+   "matched_tokens": 12,
+   "bid_id": "BID.01.01.0005",
+   "bid_text": "وَسنَن الطَّهَارَة غسل الْيَدَيْنِ قبل إدخالهما الْإِنَاء إِذا اسْتَيْقَظَ المتوضىء من نَومه",
+   "concat_char_start": 330,
+   "concat_char_end": 422,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.01.0005",
+   "hid_matn": "وتسمية الله تعالى في ابتداء الوضوء",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 15,
+    "page_end": 15,
+    "lib_page_start": 11,
+    "lib_page_end": 11
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 6,
+   "matched_tokens": 6,
+   "bid_id": "BID.01.01.0006",
+   "bid_text": "وَتَسْمِيَة الله تَعَالَى فِي ابْتِدَاء الْوضُوء",
+   "concat_char_start": 423,
+   "concat_char_end": 471,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.01.0006",
+   "hid_matn": "والسواك",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 15,
+    "page_end": 16,
+    "lib_page_start": 11,
+    "lib_page_end": 12
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 1,
+   "matched_tokens": 1,
+   "bid_id": "BID.01.01.0007",
+   "bid_text": "والسواك",
+   "concat_char_start": 472,
+   "concat_char_end": 479,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.01.0007",
+   "hid_matn": "والمضمضة والاستننشاق",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 16,
+    "page_end": 16,
+    "lib_page_start": 12,
+    "lib_page_end": 12
+   },
+   "status": "approx",
+   "score": 0.7372,
+   "tok_ratio": 0.5,
+   "char_ratio": 0.9744,
+   "hid_tokens": 2,
+   "matched_tokens": 1,
+   "bid_id": "BID.01.01.0008",
+   "bid_text": "والمضمضة وَالِاسْتِنْشَاق",
+   "concat_char_start": 480,
+   "concat_char_end": 505,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.01.0008",
+   "hid_matn": "ومسح الأذنين",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 16,
+    "page_end": 16,
+    "lib_page_start": 12,
+    "lib_page_end": 12
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 2,
+   "matched_tokens": 2,
+   "bid_id": "BID.01.01.0009",
+   "bid_text": "وَمسح الْأُذُنَيْنِ",
+   "concat_char_start": 506,
+   "concat_char_end": 525,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.01.0009",
+   "hid_matn": "وتخليل اللحية",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 16,
+    "page_end": 16,
+    "lib_page_start": 12,
+    "lib_page_end": 12
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 2,
+   "matched_tokens": 2,
+   "bid_id": "BID.01.01.0010",
+   "bid_text": "وتخليل اللِّحْيَة",
+   "concat_char_start": 526,
+   "concat_char_end": 543,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.01.0010",
+   "hid_matn": "وتخليل الأصابع",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 16,
+    "page_end": 16,
+    "lib_page_start": 12,
+    "lib_page_end": 12
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 2,
+   "matched_tokens": 2,
+   "bid_id": "BID.01.01.0011",
+   "bid_text": "وتخليل الْأَصَابِع",
+   "concat_char_start": 544,
+   "concat_char_end": 562,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.01.0011",
+   "hid_matn": "وتكرار الغسل إلى الثلاث",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 16,
+    "page_end": 16,
+    "lib_page_start": 12,
+    "lib_page_end": 12
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 4,
+   "matched_tokens": 4,
+   "bid_id": "BID.01.01.0012",
+   "bid_text": "وتكرار الْغسْل إِلَى الثَّلَاث",
+   "concat_char_start": 563,
+   "concat_char_end": 593,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.01.0012",
+   "hid_matn": "ويستحب للمتوضئ أن ينوي الطهارة",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 16,
+    "page_end": 16,
+    "lib_page_start": 12,
+    "lib_page_end": 12
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 5,
+   "matched_tokens": 5,
+   "bid_id": "BID.01.01.0013",
+   "bid_text": "وَيسْتَحب للمتوضىء أَن يَنْوِي الطَّهَارَة",
+   "concat_char_start": 594,
+   "concat_char_end": 636,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.01.0013",
+   "hid_matn": "ويستوعب رأسه بالمسح",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 16,
+    "page_end": 16,
+    "lib_page_start": 12,
+    "lib_page_end": 12
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 3,
+   "matched_tokens": 3,
+   "bid_id": "BID.01.01.0014",
+   "bid_text": "ويستوعب رَأسه بِالْمَسْحِ",
+   "concat_char_start": 637,
+   "concat_char_end": 662,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.01.0014",
+   "hid_matn": "ويرتب الوضوء فيبدأ بما بدأ الله تعالى بذكره وبالميامن",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 16,
+    "page_end": 17,
+    "lib_page_start": 12,
+    "lib_page_end": 13
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 9,
+   "matched_tokens": 9,
+   "bid_id": "BID.01.01.0015",
+   "bid_text": "ويرتب الْوضُوء فَيبْدَأ بِمَا بَدَأَ الله تَعَالَى بِذكرِهِ وبالميامن",
+   "concat_char_start": 663,
+   "concat_char_end": 732,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.02.0001",
+   "hid_matn": "المعاني الناقضة للوضوء كل ما يخرج من السبيلين",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 17,
+    "page_end": 17,
+    "lib_page_start": 14,
+    "lib_page_end": 14
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 8,
+   "matched_tokens": 8,
+   "bid_id": "BID.01.02.0001",
+   "bid_text": "الْمعَانِي الناقضة للْوُضُوء كل مَا يخرج من السَّبِيلَيْنِ",
+   "concat_char_start": 796,
+   "concat_char_end": 854,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.02.0002",
+   "hid_matn": "والدم والقيح إذا خرجا من البدن فتجاوزا إلى موضع يلحقه حكم التطهير والقي ملء الفم",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 17,
+    "page_end": 17,
+    "lib_page_start": 14,
+    "lib_page_end": 14
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 15,
+   "matched_tokens": 15,
+   "bid_id": "BID.01.02.0002",
+   "bid_text": "وَالدَّم والقيح إِذا خرجا من الْبدن فتجاوزا الى مَوضِع يلْحقهُ حكم التَّطْهِير والقيء ملْء الْفَم",
+   "concat_char_start": 855,
+   "concat_char_end": 952,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.02.0003",
+   "hid_matn": "وهذا إذا قاء مرة أو طعاما أو ماء فإن قاء بلغما فغير ناقض",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 17,
+    "page_end": 18,
+    "lib_page_start": 14,
+    "lib_page_end": 15
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 13,
+   "matched_tokens": 13,
+   "bid_id": "BID.01.02.0003",
+   "bid_text": "وَهَذَا إِذا قاء مرّة أَو طَعَاما أَو مَاء فان قاء بلغما فَغير نَاقض",
+   "concat_char_start": 953,
+   "concat_char_end": 1021,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.02.0004",
+   "hid_matn": "ولو قاء دما هو علق يعتبر فيه ملء الفم لأنه سودءا محترقة",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 18,
+    "page_end": 18,
+    "lib_page_start": 15,
+    "lib_page_end": 15
+   },
+   "status": "approx",
+   "score": 0.9536,
+   "tok_ratio": 0.9167,
+   "char_ratio": 0.9905,
+   "hid_tokens": 12,
+   "matched_tokens": 11,
+   "bid_id": "BID.01.02.0004",
+   "bid_text": "وَلَو قاء دَمًا وَهُوَ علق يعْتَبر فِيهِ ملْء الْفَم لِأَنَّهُ سَوْدَاء محترقة",
+   "concat_char_start": 1022,
+   "concat_char_end": 1100,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.02.0005",
+   "hid_matn": "ولو نزل … إلى ما لأن من الأنف نقض بالإتفاق",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 18,
+    "page_end": 18,
+    "lib_page_start": 15,
+    "lib_page_end": 15
+   },
+   "status": "approx",
+   "score": 0.9054,
+   "tok_ratio": 0.8235,
+   "char_ratio": 0.9873,
+   "hid_tokens": 9,
+   "matched_tokens": 7,
+   "bid_id": "BID.01.02.0005",
+   "bid_text": "وَلَو نزل إِلَى مالان من الْأنف نقض بالِاتِّفَاقِ",
+   "concat_char_start": 1101,
+   "concat_char_end": 1150,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.02.0006",
+   "hid_matn": "والنوم مضطجعا أو متطئا أو مستندا إلى شيء لو أزيل عنه لسقط",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 18,
+    "page_end": 18,
+    "lib_page_start": 15,
+    "lib_page_end": 15
+   },
+   "status": "approx",
+   "score": 0.907,
+   "tok_ratio": 0.8696,
+   "char_ratio": 0.9444,
+   "hid_tokens": 12,
+   "matched_tokens": 10,
+   "bid_id": "BID.01.02.0006",
+   "bid_text": "وَالنَّوْم مُضْطَجعا أَو مُتكئا أَو مُسْتَندا إِلَى شَيْء لَو أزيل لسقط",
+   "concat_char_start": 1151,
+   "concat_char_end": 1222,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.02.0007",
+   "hid_matn": "والغلبة على العقل بالإغماء والجنون",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 18,
+    "page_end": 18,
+    "lib_page_start": 15,
+    "lib_page_end": 15
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 5,
+   "matched_tokens": 5,
+   "bid_id": "BID.01.02.0007",
+   "bid_text": "وَالْغَلَبَة على الْعقل بالاغماء وَالْجُنُون",
+   "concat_char_start": 1223,
+   "concat_char_end": 1267,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.02.0008",
+   "hid_matn": "والقهقهة في كل صلاة ذات ركوع وسجود",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 18,
+    "page_end": 18,
+    "lib_page_start": 15,
+    "lib_page_end": 15
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 7,
+   "matched_tokens": 7,
+   "bid_id": "BID.01.02.0008",
+   "bid_text": "والقهقهة فِي كل صَلَاة ذَات رُكُوع وَسُجُود",
+   "concat_char_start": 1268,
+   "concat_char_end": 1311,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.02.0009",
+   "hid_matn": "والدابة تخرج من الدبر ناقضة فإن خرجت من رأس الجرح أو سقط اللحم لا تنقض",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 18,
+    "page_end": 18,
+    "lib_page_start": 15,
+    "lib_page_end": 15
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 15,
+   "matched_tokens": 15,
+   "bid_id": "BID.01.02.0009",
+   "bid_text": "وَالدَّابَّة تخرج من الدبر ناقضة فان خرجت من رَأس الْجرْح أَو سقط اللَّحْم لَا تنقض",
+   "concat_char_start": 1312,
+   "concat_char_end": 1395,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 2,
+    "printed_page_start": 3,
+    "printed_page_end": 3
+   }
+  },
+  {
+   "hid_id": "HID.01.02.0010",
+   "hid_matn": "فإن قشرت نقطة فسال منها ماء أو صديد أو غيره إن سال عن رأس الجرح نقض وإن لم يسل لا ينقض",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 18,
+    "page_end": 19,
+    "lib_page_start": 15,
+    "lib_page_end": 16
+   },
+   "status": "approx",
+   "score": 0.9703,
+   "tok_ratio": 0.9524,
+   "char_ratio": 0.9882,
+   "hid_tokens": 21,
+   "matched_tokens": 20,
+   "bid_id": "BID.01.02.0010",
+   "bid_text": "فان قشرت\nنفطة فَسَالَ مِنْهَا مَاء أَو صديد أَو غَيره إِن سَالَ عَن رَأس الْجرْح نقض وَإِن لم يسل لَا ينْقض",
+   "concat_char_start": 1396,
+   "concat_char_end": 1503,
+   "bid_ref": {
+    "lib_page_start": 2,
+    "lib_page_end": 3,
+    "printed_page_start": 3,
+    "printed_page_end": 4
+   }
+  },
+  {
+   "hid_id": "HID.01.03.0001",
+   "hid_matn": "وفرض الغسل: المضمضة والاستنشاق وغسل سائر البدن",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 19,
+    "page_end": 19,
+    "lib_page_start": 17,
+    "lib_page_end": 17
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 7,
+   "matched_tokens": 7,
+   "bid_id": "BID.01.03.0001",
+   "bid_text": "وَفرض الْغسْل الْمَضْمَضَة وَالِاسْتِنْشَاق وَغسل سَائِر الْبدن",
+   "concat_char_start": 1560,
+   "concat_char_end": 1623,
+   "bid_ref": {
+    "lib_page_start": 3,
+    "lib_page_end": 3,
+    "printed_page_start": 4,
+    "printed_page_end": 4
+   }
+  },
+  {
+   "hid_id": "HID.01.03.0002",
+   "hid_matn": "وسنته أن يبدأ المغتسل فيغسل يديه وفرجه ويزيل نجاسة إن كانت على بدنه ثم يتوضأوضوءه للصلاة إلا رجليه ثم يفيض الماء على رأسه وسائر جسده ثلاثا ثم يتنحى عن ذلك المكان فيغسل رجليه",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 19,
+    "page_end": 19,
+    "lib_page_start": 17,
+    "lib_page_end": 17
+   },
+   "status": "approx",
+   "score": 0.9583,
+   "tok_ratio": 0.9254,
+   "char_ratio": 0.9913,
+   "hid_tokens": 33,
+   "matched_tokens": 31,
+   "bid_id": "BID.01.03.0002",
+   "bid_text": "وسننه أَن يبْدَأ المغتسل فَيغسل يَدَيْهِ وفرجه ويزيل نَجَاسَة إِن كَانَت على بدنه ثمَّ يتَوَضَّأ وضوءه للصَّلَاة إِلَّا رجلَيْهِ ثمَّ يفِيض المَاء على رَأسه وَسَائِر جسده ثَلَاثًا ثمَّ يتَنَحَّى عَن ذَلِك الْمَكَان فَيغسل رجلَيْهِ",
+   "concat_char_start": 1624,
+   "concat_char_end": 1854,
+   "bid_ref": {
+    "lib_page_start": 3,
+    "lib_page_end": 3,
+    "printed_page_start": 4,
+    "printed_page_end": 4
+   }
+  },
+  {
+   "hid_id": "HID.01.03.0003",
+   "hid_matn": "وليس على المرأة أن تنقض ضفائرها في الغسل إذا بلغ الماء أصول الشعر",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 19,
+    "page_end": 19,
+    "lib_page_start": 17,
+    "lib_page_end": 17
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 13,
+   "matched_tokens": 13,
+   "bid_id": "BID.01.03.0003",
+   "bid_text": "وَلَيْسَ على الْمَرْأَة أَن تنقض ضفائرها فِي الْغسْل إِذا بلغ المَاء أصُول الشّعْر",
+   "concat_char_start": 1855,
+   "concat_char_end": 1937,
+   "bid_ref": {
+    "lib_page_start": 3,
+    "lib_page_end": 3,
+    "printed_page_start": 4,
+    "printed_page_end": 4
+   }
+  },
+  {
+   "hid_id": "HID.01.03.0004",
+   "hid_matn": "والمعاني الموجبة للغسل إنزال المني على وجه الدفق والشهوة من الرجل والمرأة حالة النوم واليقظة",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 19,
+    "page_end": 19,
+    "lib_page_start": 17,
+    "lib_page_end": 17
+   },
+   "status": "approx",
+   "score": 0.9639,
+   "tok_ratio": 0.9333,
+   "char_ratio": 0.9945,
+   "hid_tokens": 15,
+   "matched_tokens": 14,
+   "bid_id": "BID.01.03.0004",
+   "bid_text": "والمعاني الْمُوجبَة للْغسْل أنزل الْمَنِيّ على وَجه الدفق والشهوة من الرجل وَالْمَرْأَة حَالَة النّوم واليقظة",
+   "concat_char_start": 1938,
+   "concat_char_end": 2047,
+   "bid_ref": {
+    "lib_page_start": 3,
+    "lib_page_end": 3,
+    "printed_page_start": 4,
+    "printed_page_end": 4
+   }
+  },
+  {
+   "hid_id": "HID.01.03.0005",
+   "hid_matn": "والتقاء الختانين من غير إنزال",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 19,
+    "page_end": 20,
+    "lib_page_start": 17,
+    "lib_page_end": 18
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 5,
+   "matched_tokens": 5,
+   "bid_id": "BID.01.03.0005",
+   "bid_text": "والتقاء الختانين من غير إِنْزَال",
+   "concat_char_start": 2048,
+   "concat_char_end": 2080,
+   "bid_ref": {
+    "lib_page_start": 3,
+    "lib_page_end": 3,
+    "printed_page_start": 4,
+    "printed_page_end": 4
+   }
+  },
+  {
+   "hid_id": "HID.01.03.0006",
+   "hid_matn": "والحيض",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 20,
+    "page_end": 20,
+    "lib_page_start": 18,
+    "lib_page_end": 18
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 1,
+   "matched_tokens": 1,
+   "bid_id": "BID.01.03.0006",
+   "bid_text": "وَالْحيض وَالنّفاس",
+   "concat_char_start": 2081,
+   "concat_char_end": 2099,
+   "bid_ref": {
+    "lib_page_start": 3,
+    "lib_page_end": 3,
+    "printed_page_start": 4,
+    "printed_page_end": 4
+   }
+  },
+  {
+   "hid_id": "HID.01.03.0007",
+   "hid_matn": "وسن رسول الله ﷺ الغسل للجمعة والعيدين وعرفة والإحرام",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 20,
+    "page_end": 20,
+    "lib_page_start": 18,
+    "lib_page_end": 18
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 8,
+   "matched_tokens": 8,
+   "bid_id": "BID.01.03.0007",
+   "bid_text": "وَسن رَسُول الله ﷺ الْغسْل للْجُمُعَة وَالْعِيدَيْنِ وعرفة والاحرام",
+   "concat_char_start": 2100,
+   "concat_char_end": 2167,
+   "bid_ref": {
+    "lib_page_start": 3,
+    "lib_page_end": 3,
+    "printed_page_start": 4,
+    "printed_page_end": 4
+   }
+  },
+  {
+   "hid_id": "HID.01.03.0008",
+   "hid_matn": "وليس في المذي والودي غسل وفيهما الوضوء",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 20,
+    "page_end": 20,
+    "lib_page_start": 18,
+    "lib_page_end": 18
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 7,
+   "matched_tokens": 7,
+   "bid_id": "BID.01.03.0008",
+   "bid_text": "وَلَيْسَ فِي الْمَذْي والودى غسل وَفِيهِمَا الْوضُوء",
+   "concat_char_start": 2168,
+   "concat_char_end": 2220,
+   "bid_ref": {
+    "lib_page_start": 3,
+    "lib_page_end": 3,
+    "printed_page_start": 4,
+    "printed_page_end": 4
+   }
+  },
+  {
+   "hid_id": "HID.01.04.0001",
+   "hid_matn": "الطهارة من الأحداث جائزة بماء السماء والأودية والعيون والآبار والبحار",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 20,
+    "page_end": 20,
+    "lib_page_start": 19,
+    "lib_page_end": 19
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 10,
+   "matched_tokens": 10,
+   "bid_id": "BID.01.04.0001",
+   "bid_text": "الطَّهَارَة من الاحداث جَائِزَة بِمَاء السَّمَاء والأودية والعيون والآبار والبحار",
+   "concat_char_start": 2275,
+   "concat_char_end": 2356,
+   "bid_ref": {
+    "lib_page_start": 3,
+    "lib_page_end": 3,
+    "printed_page_start": 4,
+    "printed_page_end": 4
+   }
+  },
+  {
+   "hid_id": "HID.01.04.0002",
+   "hid_matn": "ولا يجوز بما اعتصر من الشجر والثمر",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 20,
+    "page_end": 20,
+    "lib_page_start": 19,
+    "lib_page_end": 19
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 7,
+   "matched_tokens": 7,
+   "bid_id": "BID.01.04.0002",
+   "bid_text": "وَلَا يجوز بِمَا اعتصر من الشّجر وَالثَّمَر",
+   "concat_char_start": 2357,
+   "concat_char_end": 2400,
+   "bid_ref": {
+    "lib_page_start": 3,
+    "lib_page_end": 3,
+    "printed_page_start": 4,
+    "printed_page_end": 4
+   }
+  },
+  {
+   "hid_id": "HID.01.04.0003",
+   "hid_matn": "ولا … بماء غلب عليه غيره فأخرجه عن طبع الماء كالأشربة والخل وماء الباقلا والمرق وماء الورد وماء الزردج",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 20,
+    "page_end": 21,
+    "lib_page_start": 19,
+    "lib_page_end": 20
+   },
+   "status": "approx",
+   "score": 0.9737,
+   "tok_ratio": 0.973,
+   "char_ratio": 0.9744,
+   "hid_tokens": 18,
+   "matched_tokens": 18,
+   "bid_id": "BID.01.04.0003",
+   "bid_text": "وَلَا يجوز بِمَاء غلب عَلَيْهِ غَيره فَأخْرجهُ عَن طبع المَاء كالأشربة والخل وَمَاء الباقلا والمرق وَمَاء الْورْد وَمَاء الزردج",
+   "concat_char_start": 2401,
+   "concat_char_end": 2528,
+   "bid_ref": {
+    "lib_page_start": 3,
+    "lib_page_end": 3,
+    "printed_page_start": 4,
+    "printed_page_end": 4
+   }
+  },
+  {
+   "hid_id": "HID.01.04.0004",
+   "hid_matn": "وتجوز الطهارة بماء خالطه شيء طاهر فغير أحد أوصافه كماء المد والماء الذي اختلط به اللبن أو الزعفران أو الصابون أو الأشنان",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 21,
+    "page_end": 21,
+    "lib_page_start": 20,
+    "lib_page_end": 20
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 22,
+   "matched_tokens": 22,
+   "bid_id": "BID.01.04.0004",
+   "bid_text": "وَتجوز الطَّهَارَة بِمَاء خالطه شَيْء طَاهِر فَغير أحد أَوْصَافه كَمَاء الْمَدّ وَالْمَاء الَّذِي اخْتَلَط بِهِ اللَّبن أَو الزَّعْفَرَان أَو الصابون أَو الاشنان",
+   "concat_char_start": 2529,
+   "concat_char_end": 2690,
+   "bid_ref": {
+    "lib_page_start": 3,
+    "lib_page_end": 3,
+    "printed_page_start": 4,
+    "printed_page_end": 4
+   }
+  },
+  {
+   "hid_id": "HID.01.04.0005",
+   "hid_matn": "فإن تغير بالطبخ بعدما خلط به غيره لا يجوز التوضي به",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 21,
+    "page_end": 21,
+    "lib_page_start": 20,
+    "lib_page_end": 20
+   },
+   "status": "approx",
+   "score": 0.9299,
+   "tok_ratio": 0.8696,
+   "char_ratio": 0.9903,
+   "hid_tokens": 11,
+   "matched_tokens": 10,
+   "bid_id": "BID.01.04.0005",
+   "bid_text": "فان تغير بالطبخ بعد مَا خلط بِهِ غَيره لَا يجوز التوضىء بِهِ",
+   "concat_char_start": 2691,
+   "concat_char_end": 2751,
+   "bid_ref": {
+    "lib_page_start": 3,
+    "lib_page_end": 3,
+    "printed_page_start": 4,
+    "printed_page_end": 4
+   }
+  },
+  {
+   "hid_id": "HID.01.04.0006",
+   "hid_matn": "وكل ماء وقعت فيها لنجاسة لم يجز الوضوء به قليلا كانت النجاسة أو كثيرا",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 21,
+    "page_end": 21,
+    "lib_page_start": 20,
+    "lib_page_end": 20
+   },
+   "status": "approx",
+   "score": 0.9211,
+   "tok_ratio": 0.8571,
+   "char_ratio": 0.9851,
+   "hid_tokens": 14,
+   "matched_tokens": 12,
+   "bid_id": "BID.01.04.0006",
+   "bid_text": "وكل مَاء وَقعت فِيهِ النَّجَاسَة لم يجز الْوضُوء بِهِ قَلِيلا كَانَت النَّجَاسَة أَو كثيرا",
+   "concat_char_start": 2752,
+   "concat_char_end": 2842,
+   "bid_ref": {
+    "lib_page_start": 3,
+    "lib_page_end": 3,
+    "printed_page_start": 4,
+    "printed_page_end": 4
+   }
+  },
+  {
+   "hid_id": "HID.01.04.0007",
+   "hid_matn": "والماء الجاري إذا وقعت فيه نجاسة جاز الوضوء منه إذا لم ير لها أثر لأنها لا تستقر مع جريان الماء",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 21,
+    "page_end": 21,
+    "lib_page_start": 20,
+    "lib_page_end": 20
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 20,
+   "matched_tokens": 20,
+   "bid_id": "BID.01.04.0007",
+   "bid_text": "وَالْمَاء الْجَارِي إِذا وَقعت فِيهِ نَجَاسَة جَازَ الْوضُوء مِنْهُ إِذا لم ير لَهَا أثر لِأَنَّهَا لَا تَسْتَقِر\nمَعَ جَرَيَان المَاء",
+   "concat_char_start": 2843,
+   "concat_char_end": 2977,
+   "bid_ref": {
+    "lib_page_start": 3,
+    "lib_page_end": 4,
+    "printed_page_start": 4,
+    "printed_page_end": 5
+   }
+  },
+  {
+   "hid_id": "HID.01.04.0008",
+   "hid_matn": "والغدير العظيم الذي لا يتحرك أحد طرفيه بتحريك الطرف الآخر إذا وقعت نجاسة في أحد جانبيه جاز الوضوء من الجانب الآخر، لأن الظاهر أن النجاسة لا تصل إليه",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 21,
+    "page_end": 22,
+    "lib_page_start": 20,
+    "lib_page_end": 21
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 28,
+   "matched_tokens": 28,
+   "bid_id": "BID.01.04.0008",
+   "bid_text": "والغدير الْعَظِيم الَّذِي لَا يَتَحَرَّك أحد طَرفَيْهِ بتحريك الطّرف الآخر إِذا وَقعت نَجَاسَة فِي أحد جانبيه جَازَ الْوضُوء من الْجَانِب الآخر لِأَن الظَّاهِر أَن النَّجَاسَة لَا تصل اليه",
+   "concat_char_start": 2978,
+   "concat_char_end": 3166,
+   "bid_ref": {
+    "lib_page_start": 4,
+    "lib_page_end": 4,
+    "printed_page_start": 5,
+    "printed_page_end": 5
+   }
+  },
+  {
+   "hid_id": "HID.01.04.0009",
+   "hid_matn": "وموت ما ليس له نفس سائلة في الماء لا ينجسه كالبق والذباب والزنابير والعقرب ونحوها",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 22,
+    "page_end": 22,
+    "lib_page_start": 21,
+    "lib_page_end": 21
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 15,
+   "matched_tokens": 15,
+   "bid_id": "BID.01.04.0009",
+   "bid_text": "وَمَوْت مَا لَيْسَ لَهُ نفس سَائِلَة فِي المَاء لَا يُنجسهُ كالبق والذباب والزنابير وَالْعَقْرَب وَنَحْوهَا",
+   "concat_char_start": 3167,
+   "concat_char_end": 3274,
+   "bid_ref": {
+    "lib_page_start": 4,
+    "lib_page_end": 4,
+    "printed_page_start": 5,
+    "printed_page_end": 5
+   }
+  },
+  {
+   "hid_id": "HID.01.04.0010",
+   "hid_matn": "وموت ما يعيش في الماء فيه لا يفسده كالسمك والضفدع والسرطان",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 22,
+    "page_end": 22,
+    "lib_page_start": 21,
+    "lib_page_end": 21
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 11,
+   "matched_tokens": 11,
+   "bid_id": "BID.01.04.0010",
+   "bid_text": "وَمَوْت مَا يعِيش فِي المَاء فِيهِ لَا يُفْسِدهُ كالسمك والضفدع والسرطان",
+   "concat_char_start": 3275,
+   "concat_char_end": 3347,
+   "bid_ref": {
+    "lib_page_start": 4,
+    "lib_page_end": 4,
+    "printed_page_start": 5,
+    "printed_page_end": 5
+   }
+  },
+  {
+   "hid_id": "HID.01.04.0011",
+   "hid_matn": "والماء المستعمل لا يجوز استعماله في طهارة الأحداث",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 22,
+    "page_end": 22,
+    "lib_page_start": 21,
+    "lib_page_end": 21
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 8,
+   "matched_tokens": 8,
+   "bid_id": "BID.01.04.0011",
+   "bid_text": "وَالْمَاء الْمُسْتَعْمل لَا يجوز اسْتِعْمَاله فِي طَهَارَة الاحداث",
+   "concat_char_start": 3348,
+   "concat_char_end": 3414,
+   "bid_ref": {
+    "lib_page_start": 4,
+    "lib_page_end": 4,
+    "printed_page_start": 5,
+    "printed_page_end": 5
+   }
+  },
+  {
+   "hid_id": "HID.01.04.0012",
+   "hid_matn": "والماء المستعمل: هو ماء أزيل به حدث أو استعمل في البدن على وجه القربة",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 23,
+    "page_end": 23,
+    "lib_page_start": 22,
+    "lib_page_end": 22
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 14,
+   "matched_tokens": 14,
+   "bid_id": "BID.01.04.0012",
+   "bid_text": "وَالْمَاء الْمُسْتَعْمل هُوَ مَاء أزيل بِهِ حدث أَو اسْتعْمل فِي الْبدن على وَجه الْقرْبَة",
+   "concat_char_start": 3415,
+   "concat_char_end": 3505,
+   "bid_ref": {
+    "lib_page_start": 4,
+    "lib_page_end": 4,
+    "printed_page_start": 5,
+    "printed_page_end": 5
+   }
+  },
+  {
+   "hid_id": "HID.01.04.0013",
+   "hid_matn": "وكل إهاب دبغ فقد طهر وجازت الصلاة فيه والوضوء منه إلا جلد الخنزير والآدمي",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 23,
+    "page_end": 23,
+    "lib_page_start": 22,
+    "lib_page_end": 22
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 14,
+   "matched_tokens": 14,
+   "bid_id": "BID.01.04.0013",
+   "bid_text": "وكل أهاب دبغ فقد طهر وَجَازَت الصَّلَاة فِيهِ وَالْوُضُوء مِنْهُ إِلَّا جلد الْخِنْزِير والآدمي",
+   "concat_char_start": 3506,
+   "concat_char_end": 3601,
+   "bid_ref": {
+    "lib_page_start": 4,
+    "lib_page_end": 4,
+    "printed_page_start": 5,
+    "printed_page_end": 5
+   }
+  },
+  {
+   "hid_id": "HID.01.04.0014",
+   "hid_matn": "وشعر الميتة وعظمها طاهر",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 23,
+    "page_end": 23,
+    "lib_page_start": 22,
+    "lib_page_end": 22
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 4,
+   "matched_tokens": 4,
+   "bid_id": "BID.01.04.0014",
+   "bid_text": "وَشعر الْميتَة وعظمها طَاهِر",
+   "concat_char_start": 3602,
+   "concat_char_end": 3630,
+   "bid_ref": {
+    "lib_page_start": 4,
+    "lib_page_end": 4,
+    "printed_page_start": 5,
+    "printed_page_end": 5
+   }
+  },
+  {
+   "hid_id": "HID.01.04.0015",
+   "hid_matn": "وشعر الإنسان وعظمه طاهر",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 23,
+    "page_end": 23,
+    "lib_page_start": 22,
+    "lib_page_end": 22
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 4,
+   "matched_tokens": 4,
+   "bid_id": "BID.01.04.0015",
+   "bid_text": "وَشعر الانسان وعظمه طَاهِر",
+   "concat_char_start": 3631,
+   "concat_char_end": 3657,
+   "bid_ref": {
+    "lib_page_start": 4,
+    "lib_page_end": 4,
+    "printed_page_start": 5,
+    "printed_page_end": 5
+   }
+  },
+  {
+   "hid_id": "HID.01.05.0001",
+   "hid_matn": "وإذا وقعت في البئر نجاسة نزحت وكان نزح ما فيها من الماء طهارة لها",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 24,
+    "page_end": 24,
+    "lib_page_start": 23,
+    "lib_page_end": 23
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 14,
+   "matched_tokens": 14,
+   "bid_id": "BID.01.05.0001",
+   "bid_text": "وَإِذا وَقعت فِي الْبِئْر نَجَاسَة نزحت وَكَانَ نزح مَا فِيهَا من المَاء طَهَارَة لَهَا",
+   "concat_char_start": 3715,
+   "concat_char_end": 3802,
+   "bid_ref": {
+    "lib_page_start": 4,
+    "lib_page_end": 4,
+    "printed_page_start": 5,
+    "printed_page_end": 5
+   }
+  },
+  {
+   "hid_id": "HID.01.05.0002",
+   "hid_matn": "فإن وقعت فيها بعرة أو بعرتان من بعر الإبل أو الغنم لم تفسد الماء",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 24,
+    "page_end": 24,
+    "lib_page_start": 23,
+    "lib_page_end": 23
+   },
+   "status": "approx",
+   "score": 0.9563,
+   "tok_ratio": 0.9286,
+   "char_ratio": 0.9841,
+   "hid_tokens": 14,
+   "matched_tokens": 13,
+   "bid_id": "BID.01.05.0002",
+   "bid_text": "فان وَقعت فِيهَا بَعرَة أَو بعرتان من بقر الابل أَو الْغنم لم تفْسد المَاء",
+   "concat_char_start": 3803,
+   "concat_char_end": 3877,
+   "bid_ref": {
+    "lib_page_start": 4,
+    "lib_page_end": 4,
+    "printed_page_start": 5,
+    "printed_page_end": 5
+   }
+  },
+  {
+   "hid_id": "HID.01.05.0003",
+   "hid_matn": "فإن وقع فيها خرء الحمام أو العصفور لا يفسده",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 24,
+    "page_end": 24,
+    "lib_page_start": 23,
+    "lib_page_end": 23
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 9,
+   "matched_tokens": 9,
+   "bid_id": "BID.01.05.0003",
+   "bid_text": "فان وَقع فِيهَا خرء الْحمام أَو العصفور لَا يُفْسِدهُ",
+   "concat_char_start": 3878,
+   "concat_char_end": 3931,
+   "bid_ref": {
+    "lib_page_start": 4,
+    "lib_page_end": 4,
+    "printed_page_start": 5,
+    "printed_page_end": 5
+   }
+  },
+  {
+   "hid_id": "HID.01.05.0004",
+   "hid_matn": "فإن بالت فيها شاة نزح الماء كله عند أبي حنيفة وأبي يوسف رحمهما الله وقال محمد ﵀ لا ينزح إلا إذا غلب على الماء فيخرج من أن يكون طهورا",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 24,
+    "page_end": 24,
+    "lib_page_start": 23,
+    "lib_page_end": 23
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 28,
+   "matched_tokens": 28,
+   "bid_id": "BID.01.05.0004",
+   "bid_text": "فان بَالَتْ فِيهَا شَاة نزح المَاء كُله عِنْد أبي حنيفَة وَأبي يُوسُف رحمهمَا الله وَقَالَ مُحَمَّد ﵀ لَا ينْزح إِلَّا إِذا غلب على المَاء فَيخرج من أَن يكون طهُورا",
+   "concat_char_start": 3932,
+   "concat_char_end": 4096,
+   "bid_ref": {
+    "lib_page_start": 4,
+    "lib_page_end": 4,
+    "printed_page_start": 5,
+    "printed_page_end": 5
+   }
+  },
+  {
+   "hid_id": "HID.01.05.0005",
+   "hid_matn": "وإن ماتت فيها فأرة أو عصفورة أو صعوة أو سودانية أو سام أبرص نزح منها ما بين عشرين دلوا إلى ثلاثين بحسب كبر الدلو وصغرها",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 24,
+    "page_end": 24,
+    "lib_page_start": 23,
+    "lib_page_end": 23
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 25,
+   "matched_tokens": 25,
+   "bid_id": "BID.01.05.0005",
+   "bid_text": "وَإِن مَاتَت فِيهَا فَأْرَة أَو عصفورة أَو صعوة أَو سودانية أَو سَام أبرص نزح مِنْهَا مَا بَين عشْرين دلوا الى ثَلَاثِينَ بِحَسب كبر الدَّلْو وصغرها",
+   "concat_char_start": 4097,
+   "concat_char_end": 4245,
+   "bid_ref": {
+    "lib_page_start": 4,
+    "lib_page_end": 4,
+    "printed_page_start": 5,
+    "printed_page_end": 5
+   }
+  },
+  {
+   "hid_id": "HID.01.05.0006",
+   "hid_matn": "فإن ماتت فيها حمامة أو نحوها كالدجاجة والسنور نزح منها ما بين أربعين دلوا إلى ستين وفي الجامع الصغير أربعون أو خمسون",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 24,
+    "page_end": 25,
+    "lib_page_start": 23,
+    "lib_page_end": 24
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 22,
+   "matched_tokens": 22,
+   "bid_id": "BID.01.05.0006",
+   "bid_text": "فان مَاتَت فِيهَا حمامة أَو نَحْوهَا كالدجاجة والسنور نزح مِنْهَا مَا بَين أَرْبَعِينَ دلوا الى سِتِّينَ وَفِي الْجَامِع الصَّغِير أَرْبَعُونَ أَو خَمْسُونَ",
+   "concat_char_start": 4246,
+   "concat_char_end": 4402,
+   "bid_ref": {
+    "lib_page_start": 4,
+    "lib_page_end": 4,
+    "printed_page_start": 5,
+    "printed_page_end": 5
+   }
+  },
+  {
+   "hid_id": "HID.01.05.0007",
+   "hid_matn": "وإن ماتت فيها شاة أو كلب أو آدمي نزح جميع ما فيها من الماء",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 25,
+    "page_end": 25,
+    "lib_page_start": 24,
+    "lib_page_end": 24
+   },
+   "status": "approx",
+   "score": 0.8672,
+   "tok_ratio": 0.8571,
+   "char_ratio": 0.8772,
+   "hid_tokens": 14,
+   "matched_tokens": 12,
+   "bid_id": "BID.01.05.0007",
+   "bid_text": "وان مَاتَت فِيهَا شَاة أَو آدَمِيّ أَو كلب نزح جَمِيع مَا فِيهَا من المَاء",
+   "concat_char_start": 4403,
+   "concat_char_end": 4477,
+   "bid_ref": {
+    "lib_page_start": 4,
+    "lib_page_end": 4,
+    "printed_page_start": 5,
+    "printed_page_end": 5
+   }
+  },
+  {
+   "hid_id": "HID.01.05.0008",
+   "hid_matn": "فإن انتفخ الحيوان فيها أو تفسخ نزح جميع ما فيها صغر الحيوان أو كبر",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 25,
+    "page_end": 25,
+    "lib_page_start": 24,
+    "lib_page_end": 24
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 14,
+   "matched_tokens": 14,
+   "bid_id": "BID.01.05.0008",
+   "bid_text": "فان انتفخ الْحَيَوَان فِيهَا أَو تفسخ نزح جَمِيع مَا فِيهَا صغر الْحَيَوَان أَو كبر",
+   "concat_char_start": 4478,
+   "concat_char_end": 4561,
+   "bid_ref": {
+    "lib_page_start": 4,
+    "lib_page_end": 4,
+    "printed_page_start": 5,
+    "printed_page_end": 5
+   }
+  },
+  {
+   "hid_id": "HID.01.05.0009",
+   "hid_matn": "وإن كانت البئر معينا لا يمكن نزحها أخرجوا مقدار ما كان فيها من الماء",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 25,
+    "page_end": 25,
+    "lib_page_start": 24,
+    "lib_page_end": 24
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 14,
+   "matched_tokens": 14,
+   "bid_id": "BID.01.05.0009",
+   "bid_text": "وَإِن كَانَت الْبِئْر معينا لَا يُمكن نزحها أخرجُوا مِقْدَار مَا كَانَ فِيهَا من المَاء",
+   "concat_char_start": 4562,
+   "concat_char_end": 4649,
+   "bid_ref": {
+    "lib_page_start": 4,
+    "lib_page_end": 4,
+    "printed_page_start": 5,
+    "printed_page_end": 5
+   }
+  },
+  {
+   "hid_id": "HID.01.05.0010",
+   "hid_matn": "وإن وجدوا في البئر فأرة أو غيرها ولا يدري متى وقعت ولم تنتفخ ولم تتفسخ أعادوا صلاة يوم وليلة إذا كانوا توضئوا منها وغسلوا كل شيء أصابه ماؤها وإن كانت قد إنتفخت أو تفسخت أعادوا صلاة ثلاثة أيام ولياليها وهذا عند أبي حنيفة ﵀ وقالا ليس عليهم إعادة شيء حتى يتتحققوا متى وقعت",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 25,
+    "page_end": 25,
+    "lib_page_start": 24,
+    "lib_page_end": 24
+   },
+   "status": "approx",
+   "score": 0.9789,
+   "tok_ratio": 0.9615,
+   "char_ratio": 0.9962,
+   "hid_tokens": 52,
+   "matched_tokens": 50,
+   "bid_id": "BID.01.05.0010",
+   "bid_text": "وَإِن وجدوا فِي الْبِئْر فَأْرَة أَو غَيرهَا وَلَا يدْرِي مَتى وَقعت وَلم تنتفخ وَلم تتفسخ أعادوا صَلَاة يَوْم وَلَيْلَة إِذا كَانُوا توضؤا مِنْهَا\nوغسلوا كل شَيْء أَصَابَهُ مَاؤُهَا وَإِن كَانَت قد انتفخت أَو تفسخت أعادوا صَلَاة ثَلَاثَة أَيَّام ولياليها وَهَذَا عِنْد أبي حنيفَة وَقَالا لَيْسَ عَلَيْهِم إِعَادَة شَيْء حَتَّى يتحققوا مَتى وَقعت",
+   "concat_char_start": 4650,
+   "concat_char_end": 4996,
+   "bid_ref": {
+    "lib_page_start": 4,
+    "lib_page_end": 5,
+    "printed_page_start": 5,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.06.0001",
+   "hid_matn": "وعرق كل شيء معتبر بسؤره",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 25,
+    "page_end": 25,
+    "lib_page_start": 25,
+    "lib_page_end": 25
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 5,
+   "matched_tokens": 5,
+   "bid_id": "BID.01.06.0001",
+   "bid_text": "وعرق كل شَيْء مُعْتَبر بسؤره",
+   "concat_char_start": 5062,
+   "concat_char_end": 5090,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.06.0002",
+   "hid_matn": "وسؤر الآدمي وما يؤكل لحمه طاهر",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 25,
+    "page_end": 25,
+    "lib_page_start": 25,
+    "lib_page_end": 25
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 6,
+   "matched_tokens": 6,
+   "bid_id": "BID.01.06.0002",
+   "bid_text": "وسؤر الْآدَمِيّ وَمَا يُؤْكَل لَحْمه طَاهِر",
+   "concat_char_start": 5091,
+   "concat_char_end": 5134,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.06.0003",
+   "hid_matn": "وسؤر الكلب نجس",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 25,
+    "page_end": 26,
+    "lib_page_start": 25,
+    "lib_page_end": 26
+   },
+   "status": "unmatched",
+   "score": 0.0,
+   "tok_ratio": 0.0,
+   "char_ratio": 0.0,
+   "hid_tokens": 3,
+   "matched_tokens": 0,
+   "bid_id": null
+  },
+  {
+   "hid_id": "HID.01.06.0004",
+   "hid_matn": "وسؤر الخنزير نجس",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 26,
+    "page_end": 26,
+    "lib_page_start": 26,
+    "lib_page_end": 26
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 3,
+   "matched_tokens": 3,
+   "bid_id": "BID.01.06.0003",
+   "bid_text": "وسؤر الْخِنْزِير نجس",
+   "concat_char_start": 5135,
+   "concat_char_end": 5155,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.06.0005",
+   "hid_matn": "وسؤر سباع البهائم نجس",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 26,
+    "page_end": 26,
+    "lib_page_start": 26,
+    "lib_page_end": 26
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 4,
+   "matched_tokens": 4,
+   "bid_id": "BID.01.06.0004",
+   "bid_text": "وسؤر سِبَاع الْبَهَائِم نجس",
+   "concat_char_start": 5156,
+   "concat_char_end": 5183,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.06.0006",
+   "hid_matn": "وسؤر الهرة طاهر مكروه",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 26,
+    "page_end": 26,
+    "lib_page_start": 26,
+    "lib_page_end": 26
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 4,
+   "matched_tokens": 4,
+   "bid_id": "BID.01.06.0005",
+   "bid_text": "وسؤر الْهِرَّة طَاهِر مَكْرُوه",
+   "concat_char_start": 5184,
+   "concat_char_end": 5214,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.06.0007",
+   "hid_matn": "و … الدجاجة المخلاة",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 26,
+    "page_end": 26,
+    "lib_page_start": 26,
+    "lib_page_end": 26
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 2,
+   "matched_tokens": 2,
+   "bid_id": "BID.01.06.0006",
+   "bid_text": "والدجاجة المخلاة",
+   "concat_char_start": 5215,
+   "concat_char_end": 5231,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.06.0008",
+   "hid_matn": "و … سباع الطير",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 26,
+    "page_end": 26,
+    "lib_page_start": 26,
+    "lib_page_end": 26
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 2,
+   "matched_tokens": 2,
+   "bid_id": "BID.01.06.0007",
+   "bid_text": "وسباع الطير",
+   "concat_char_start": 5232,
+   "concat_char_end": 5243,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.06.0009",
+   "hid_matn": "و … ما يسكن البيوت كالحية والفأرة مكروه",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 26,
+    "page_end": 26,
+    "lib_page_start": 26,
+    "lib_page_end": 26
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 6,
+   "matched_tokens": 6,
+   "bid_id": "BID.01.06.0008",
+   "bid_text": "وَمَا يسكن الْبيُوت كالحية والفأرة مَكْرُوه",
+   "concat_char_start": 5244,
+   "concat_char_end": 5287,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.06.0010",
+   "hid_matn": "وسؤر الحمار والبغل مشكوك فيه",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 26,
+    "page_end": 26,
+    "lib_page_start": 26,
+    "lib_page_end": 26
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 5,
+   "matched_tokens": 5,
+   "bid_id": "BID.01.06.0009",
+   "bid_text": "وسؤر الْحمار والبغل مَشْكُوك فِيهِ",
+   "concat_char_start": 5288,
+   "concat_char_end": 5322,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.06.0011",
+   "hid_matn": "فإن لم يجد غيرهما يتوضأ بهما ويتيمم ويجوز أيهما قدم",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 26,
+    "page_end": 26,
+    "lib_page_start": 26,
+    "lib_page_end": 26
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 10,
+   "matched_tokens": 10,
+   "bid_id": "BID.01.06.0010",
+   "bid_text": "فان لم يجد غَيرهمَا يتَوَضَّأ بهما وَيتَيَمَّم وَيجوز أَيهمَا قدم",
+   "concat_char_start": 5323,
+   "concat_char_end": 5388,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.06.0012",
+   "hid_matn": "وسؤر الفرس طاهر عندهما … وكذا عنده في الصحيح",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 26,
+    "page_end": 26,
+    "lib_page_start": 26,
+    "lib_page_end": 26
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 8,
+   "matched_tokens": 8,
+   "bid_id": "BID.01.06.0011",
+   "bid_text": "وسؤر الْفرس طَاهِر عِنْدهمَا وَكَذَا عِنْده فِي الصَّحِيح",
+   "concat_char_start": 5389,
+   "concat_char_end": 5446,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.06.0013",
+   "hid_matn": "فإن لم يجد إلا نبيذ التمر. قال أبو حنيفة رحمه الله تعالى يتوضأبه ولا يتيمم",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 26,
+    "page_end": 27,
+    "lib_page_start": 26,
+    "lib_page_end": 27
+   },
+   "status": "approx",
+   "score": 0.828,
+   "tok_ratio": 0.7857,
+   "char_ratio": 0.8702,
+   "hid_tokens": 15,
+   "matched_tokens": 11,
+   "bid_id": "BID.01.06.0012",
+   "bid_text": "فان لم يجد إِلَّا نَبِيذ التَّمْر قَالَ أَبُو حنيفَة ﵀ يتَوَضَّأ بِهِ وَلَا يتَيَمَّم",
+   "concat_char_start": 5447,
+   "concat_char_end": 5532,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0001",
+   "hid_matn": "ومن لم يجد ماء وهو مسافر أو خارج المصر بينه وبين المصر نحو ميل أو أكثر يتيمم بالصعيد",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 27,
+    "page_end": 27,
+    "lib_page_start": 28,
+    "lib_page_end": 28
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 18,
+   "matched_tokens": 18,
+   "bid_id": "BID.01.07.0001",
+   "bid_text": "وَمن لم يجد مَاء وَهُوَ مُسَافر أَو خَارج الْمصر بَينه وَبَين الْمصر نَحْو ميل أَو أَكثر يتَيَمَّم بالصعيد",
+   "concat_char_start": 5550,
+   "concat_char_end": 5656,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0002",
+   "hid_matn": "ولو كان يجد الماء إلا أنه مريض يخاف إن استعمل الماء اشتد مرضه يتيمم",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 27,
+    "page_end": 27,
+    "lib_page_start": 28,
+    "lib_page_end": 28
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 14,
+   "matched_tokens": 14,
+   "bid_id": "BID.01.07.0002",
+   "bid_text": "وَلَو كَانَ يجد المَاء إِلَّا أَنه مَرِيض يخَاف ان اسْتعْمل المَاء اشْتَدَّ مَرضه يتَيَمَّم",
+   "concat_char_start": 5657,
+   "concat_char_end": 5748,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0003",
+   "hid_matn": "ولو خاف الجنب إن اغتسل أن يقتله البرد أو يمرضه يتيمم بالصعيد",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 27,
+    "page_end": 27,
+    "lib_page_start": 28,
+    "lib_page_end": 28
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 12,
+   "matched_tokens": 12,
+   "bid_id": "BID.01.07.0003",
+   "bid_text": "وَلَو خَافَ الْجنب ان اغْتسل أَن يقْتله الْبرد أَو يمرضه يتَيَمَّم بالصعيد",
+   "concat_char_start": 5749,
+   "concat_char_end": 5823,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0004",
+   "hid_matn": "والتيمم ضربتان: يمسح بإحداهما وجهه وبالأخرى يديه إلى المرفقين",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 27,
+    "page_end": 28,
+    "lib_page_start": 28,
+    "lib_page_end": 29
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 9,
+   "matched_tokens": 9,
+   "bid_id": "BID.01.07.0004",
+   "bid_text": "وَالتَّيَمُّم ضربتان يمسح باحداهما وَجهه وبالأخرى يَدَيْهِ الى الْمرْفقين",
+   "concat_char_start": 5824,
+   "concat_char_end": 5897,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0005",
+   "hid_matn": "والحديث والجنابة فيه سواء",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 28,
+    "page_end": 28,
+    "lib_page_start": 29,
+    "lib_page_end": 29
+   },
+   "status": "approx",
+   "score": 0.8644,
+   "tok_ratio": 0.75,
+   "char_ratio": 0.9787,
+   "hid_tokens": 4,
+   "matched_tokens": 3,
+   "bid_id": "BID.01.07.0005",
+   "bid_text": "وَالْحَدَث والجنابة فِيهِ سَوَاء",
+   "concat_char_start": 5898,
+   "concat_char_end": 5930,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0006",
+   "hid_matn": "ويجوز التيمم عند أبي حنيفة ومحمد رحمهما الله بكل ما كان من جنس الأرض كالتراب والرمل والحجر والجص والنورة والكحل والزرنيخ وقال أبو يوسف لا يجوز إلا بالتراب والرمل",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 28,
+    "page_end": 28,
+    "lib_page_start": 29,
+    "lib_page_end": 29
+   },
+   "status": "approx",
+   "score": 0.9824,
+   "tok_ratio": 0.9831,
+   "char_ratio": 0.9817,
+   "hid_tokens": 29,
+   "matched_tokens": 29,
+   "bid_id": "BID.01.07.0006",
+   "bid_text": "وَيجوز التَّيَمُّم عِنْد أبي حنيفَة وَمُحَمّد رحمهمَا الله تَعَالَى بِكُل مَا كَانَ من جنس الأَرْض كالتراب والرمل وَالْحجر والجص والنورة والكحل والزرنيخ وَقَالَ أَبُو يُوسُف لَا يجوز إِلَّا بِالتُّرَابِ والرمل",
+   "concat_char_start": 5931,
+   "concat_char_end": 6140,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0007",
+   "hid_matn": "ثم لا يشترط أن يكون عليه غبار عند أبي حنيفة ﵀",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 28,
+    "page_end": 28,
+    "lib_page_start": 29,
+    "lib_page_end": 29
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 10,
+   "matched_tokens": 10,
+   "bid_id": "BID.01.07.0007",
+   "bid_text": "ثمَّ لَا يشْتَرط أَن يكون عَلَيْهِ غُبَار عِنْد أبي حنيفَة",
+   "concat_char_start": 6141,
+   "concat_char_end": 6199,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0008",
+   "hid_matn": "وكذا يجوز بالغبار مع القدرة على الصعيد عند أبي حنيفة ومحمد رحمهما الله",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 28,
+    "page_end": 28,
+    "lib_page_start": 29,
+    "lib_page_end": 29
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 13,
+   "matched_tokens": 13,
+   "bid_id": "BID.01.07.0008",
+   "bid_text": "وَكَذَا يجوز بالغبار مَعَ الْقُدْرَة على الصَّعِيد عِنْد أبي حنيفَة وَمُحَمّد رحمهمَا الله",
+   "concat_char_start": 6202,
+   "concat_char_end": 6292,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0009",
+   "hid_matn": "والنية فرض في التيمم",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 28,
+    "page_end": 28,
+    "lib_page_start": 29,
+    "lib_page_end": 29
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 4,
+   "matched_tokens": 4,
+   "bid_id": "BID.01.07.0009",
+   "bid_text": "وَالنِّيَّة فرض فِي التَّيَمُّم",
+   "concat_char_start": 6293,
+   "concat_char_end": 6324,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0010",
+   "hid_matn": "ثم إذا نوى الطهارة أو استباحة الصلاة أجزأه ولا يشترط نية التيمم للحدث أو للجنابة",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 28,
+    "page_end": 28,
+    "lib_page_start": 29,
+    "lib_page_end": 29
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 15,
+   "matched_tokens": 15,
+   "bid_id": "BID.01.07.0010",
+   "bid_text": "ثمَّ إِذا نوى الطَّهَارَة أَو اسْتِبَاحَة الصَّلَاة اجزأه وَلَا يشْتَرط نِيَّة التَّيَمُّم للْحَدَث أَو للجنابة",
+   "concat_char_start": 6325,
+   "concat_char_end": 6436,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 5,
+    "printed_page_start": 6,
+    "printed_page_end": 6
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0011",
+   "hid_matn": "فإن تيمم نصراني يريد به الإسلام ثم أسلم لم يكن متيمما عند أبي حنيفة ومحمد رحمهما الله وقال أبو يوسف ﵀ هو متيمم",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 28,
+    "page_end": 28,
+    "lib_page_start": 29,
+    "lib_page_end": 29
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 22,
+   "matched_tokens": 22,
+   "bid_id": "BID.01.07.0011",
+   "bid_text": "فان تيَمّم نَصْرَانِيّ يُرِيد بِهِ الاسلام ثمَّ\nأسلم لم يكن متيمما عِنْد أبي حنيفَة وَمُحَمّد رحمهمَا الله وَقَالَ أَبُو يُوسُف ﵀ هُوَ متيمم",
+   "concat_char_start": 6437,
+   "concat_char_end": 6577,
+   "bid_ref": {
+    "lib_page_start": 5,
+    "lib_page_end": 6,
+    "printed_page_start": 6,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0012",
+   "hid_matn": "وإن توضأ لا يريد به الإسلام ثم أسلم فهو متوضئ",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 28,
+    "page_end": 28,
+    "lib_page_start": 29,
+    "lib_page_end": 29
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 10,
+   "matched_tokens": 10,
+   "bid_id": "BID.01.07.0012",
+   "bid_text": "وَإِن تَوَضَّأ لَا يُرِيد بِهِ الْإِسْلَام ثمَّ أسلم فَهُوَ متوضى",
+   "concat_char_start": 6578,
+   "concat_char_end": 6643,
+   "bid_ref": {
+    "lib_page_start": 6,
+    "lib_page_end": 6,
+    "printed_page_start": 7,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0013",
+   "hid_matn": "فإن تيمم مسلم ثم ارتد ثم أسلم فهو على تيممه",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 28,
+    "page_end": 28,
+    "lib_page_start": 29,
+    "lib_page_end": 29
+   },
+   "status": "approx",
+   "score": 0.8845,
+   "tok_ratio": 0.9091,
+   "char_ratio": 0.86,
+   "hid_tokens": 10,
+   "matched_tokens": 10,
+   "bid_id": "BID.01.07.0013",
+   "bid_text": "فان تيَمّم مُسلم ثمَّ ارْتَدَّ وَالْعِيَاذ بِاللَّه ثمَّ أسلم فَهُوَ على تيَمّمه",
+   "concat_char_start": 6644,
+   "concat_char_end": 6724,
+   "bid_ref": {
+    "lib_page_start": 6,
+    "lib_page_end": 6,
+    "printed_page_start": 7,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0014",
+   "hid_matn": "وينقض التيمم كل شيء ينقض الوضوء",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 28,
+    "page_end": 28,
+    "lib_page_start": 29,
+    "lib_page_end": 29
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 6,
+   "matched_tokens": 6,
+   "bid_id": "BID.01.07.0014",
+   "bid_text": "وينقض التَّيَمُّم كل شَيْء ينْقض الْوضُوء",
+   "concat_char_start": 6725,
+   "concat_char_end": 6766,
+   "bid_ref": {
+    "lib_page_start": 6,
+    "lib_page_end": 6,
+    "printed_page_start": 7,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0015",
+   "hid_matn": "وينقضه أيضا رؤية الماء إذا قدر على استعماله",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 28,
+    "page_end": 29,
+    "lib_page_start": 29,
+    "lib_page_end": 30
+   },
+   "status": "approx",
+   "score": 0.9316,
+   "tok_ratio": 0.875,
+   "char_ratio": 0.9882,
+   "hid_tokens": 8,
+   "matched_tokens": 7,
+   "bid_id": "BID.01.07.0015",
+   "bid_text": "وينقضه أَيْضا رُؤْيَة المَاء إِذا أقدر على اسْتِعْمَاله",
+   "concat_char_start": 6767,
+   "concat_char_end": 6822,
+   "bid_ref": {
+    "lib_page_start": 6,
+    "lib_page_end": 6,
+    "printed_page_start": 7,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0016",
+   "hid_matn": "ولا يتيمم إلا بصعيد طاهر",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 29,
+    "page_end": 29,
+    "lib_page_start": 30,
+    "lib_page_end": 30
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 5,
+   "matched_tokens": 5,
+   "bid_id": "BID.01.07.0016",
+   "bid_text": "وَلَا يتَيَمَّم إِلَّا بصعيد طَاهِر",
+   "concat_char_start": 6823,
+   "concat_char_end": 6858,
+   "bid_ref": {
+    "lib_page_start": 6,
+    "lib_page_end": 6,
+    "printed_page_start": 7,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0017",
+   "hid_matn": "ويستحب لعادم الماء وهو يرجوه أن يؤخر الصلاة إلى آخر الوقت فإن وجد الماء توضأ وإلا تيمم وصلى",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 29,
+    "page_end": 29,
+    "lib_page_start": 30,
+    "lib_page_end": 30
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 18,
+   "matched_tokens": 18,
+   "bid_id": "BID.01.07.0017",
+   "bid_text": "وَيسْتَحب لعادم المَاء وَهُوَ يرجوه أَن يُؤَخر الصَّلَاة إِلَى آخر الْوَقْت فَإِن وجد المَاء تَوَضَّأ وَإِلَّا تيَمّم وَصلى",
+   "concat_char_start": 6859,
+   "concat_char_end": 6982,
+   "bid_ref": {
+    "lib_page_start": 6,
+    "lib_page_end": 6,
+    "printed_page_start": 7,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0018",
+   "hid_matn": "ويصلى بتيممه ما شاء من الفرائض والنوافل",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 29,
+    "page_end": 29,
+    "lib_page_start": 30,
+    "lib_page_end": 30
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 7,
+   "matched_tokens": 7,
+   "bid_id": "BID.01.07.0018",
+   "bid_text": "وَيصلى بتيممه مَا شَاءَ من الْفَرَائِض والنوافل",
+   "concat_char_start": 6983,
+   "concat_char_end": 7030,
+   "bid_ref": {
+    "lib_page_start": 6,
+    "lib_page_end": 6,
+    "printed_page_start": 7,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0019",
+   "hid_matn": "ويتيمم الصحيح في المصر إذا حضرت جنازة والولي غيره فخاف إن اشتغل بالطهارة أن تفوته الصلاة",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 29,
+    "page_end": 29,
+    "lib_page_start": 30,
+    "lib_page_end": 30
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 16,
+   "matched_tokens": 16,
+   "bid_id": "BID.01.07.0019",
+   "bid_text": "وَيتَيَمَّم الصَّحِيح فِي الْمصر إِذا حضرت جَنَازَة وَالْوَلِيّ غَيره فخاف أَن اشْتغل بِالطَّهَارَةِ أَن تفوته الصَّلَاة",
+   "concat_char_start": 7031,
+   "concat_char_end": 7151,
+   "bid_ref": {
+    "lib_page_start": 6,
+    "lib_page_end": 6,
+    "printed_page_start": 7,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0020",
+   "hid_matn": "وكذا من حضر العبد فخاف إن اشتغل بالطهارة أن يفوته العيد يتيمم",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 29,
+    "page_end": 29,
+    "lib_page_start": 30,
+    "lib_page_end": 30
+   },
+   "status": "approx",
+   "score": 0.9501,
+   "tok_ratio": 0.9167,
+   "char_ratio": 0.9836,
+   "hid_tokens": 12,
+   "matched_tokens": 11,
+   "bid_id": "BID.01.07.0020",
+   "bid_text": "وَكَذَا من حضر الْعِيد فخاف إِن اشْتغل بِالطَّهَارَةِ أَن يفوتهُ الْعِيد يتَيَمَّم",
+   "concat_char_start": 7152,
+   "concat_char_end": 7234,
+   "bid_ref": {
+    "lib_page_start": 6,
+    "lib_page_end": 6,
+    "printed_page_start": 7,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0021",
+   "hid_matn": "وإن أحدث الإمام أو المقتدي في صلاة العيد تيمم وبنى عند أبي حنيفة رحمه الله تعالى وقالا لا يتيمم",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 29,
+    "page_end": 29,
+    "lib_page_start": 30,
+    "lib_page_end": 30
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 19,
+   "matched_tokens": 19,
+   "bid_id": "BID.01.07.0021",
+   "bid_text": "وَإِن أحدث الإِمَام أَو المقتدى فِي صَلَاة الْعِيد تيَمّم وَبنى عِنْد أبي حنيفَة رَحمَه الله تَعَالَى وَقَالا لَا يتَيَمَّم",
+   "concat_char_start": 7235,
+   "concat_char_end": 7358,
+   "bid_ref": {
+    "lib_page_start": 6,
+    "lib_page_end": 6,
+    "printed_page_start": 7,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0022",
+   "hid_matn": "ولا يتيمم للجمعة وإن خاف الفوت لو توضأ فإن أدرك الجمعة صلاها وإلا صلى الظهر أربعا",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 29,
+    "page_end": 29,
+    "lib_page_start": 30,
+    "lib_page_end": 30
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 16,
+   "matched_tokens": 16,
+   "bid_id": "BID.01.07.0022",
+   "bid_text": "وَلَا يتَيَمَّم للْجُمُعَة وَإِن خَافَ الْفَوْت لَو تَوَضَّأ فَإِن أدْرك الْجُمُعَة صلاهَا وَإِلَّا صلى الظّهْر أَرْبعا",
+   "concat_char_start": 7359,
+   "concat_char_end": 7478,
+   "bid_ref": {
+    "lib_page_start": 6,
+    "lib_page_end": 6,
+    "printed_page_start": 7,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0023",
+   "hid_matn": "وكذا إذا خاف فوت الوقت لو توضأ لم يتيمم ويتوضأ ويقضي ما فاته",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 29,
+    "page_end": 29,
+    "lib_page_start": 30,
+    "lib_page_end": 30
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 13,
+   "matched_tokens": 13,
+   "bid_id": "BID.01.07.0023",
+   "bid_text": "وَكَذَا إِذا خَافَ فَوت الْوَقْت لَو تَوَضَّأ لم يتَيَمَّم وَيتَوَضَّأ وَيَقْضِي مَا فَاتَهُ",
+   "concat_char_start": 7479,
+   "concat_char_end": 7571,
+   "bid_ref": {
+    "lib_page_start": 6,
+    "lib_page_end": 6,
+    "printed_page_start": 7,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0024",
+   "hid_matn": "والمسافر إذا نسي الماء في رحله فتيمم وصلى ثم ذكر الماء لم يعدها عند أبي حنيفة ومحمد رحمهما الله تعالى وقال أبو يوسف رحمه الله تعالى: يعيدها",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 29,
+    "page_end": 30,
+    "lib_page_start": 30,
+    "lib_page_end": 31
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 27,
+   "matched_tokens": 27,
+   "bid_id": "BID.01.07.0024",
+   "bid_text": "وَالْمُسَافر إِذا نسي المَاء فِي رَحْله فَتَيَمم وَصلى ثمَّ ذكر المَاء لم يعدها عِنْد أبي حنيفَة وَمُحَمّد رحمهمَا الله تَعَالَى وَقَالَ أَبُو يُوسُف رَحمَه الله تَعَالَى يُعِيدهَا",
+   "concat_char_start": 7572,
+   "concat_char_end": 7752,
+   "bid_ref": {
+    "lib_page_start": 6,
+    "lib_page_end": 6,
+    "printed_page_start": 7,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0025",
+   "hid_matn": "وليس على المتيمم طلب الماء إذا لم يغلب على ظنه أن بقربه ماء",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 30,
+    "page_end": 30,
+    "lib_page_start": 31,
+    "lib_page_end": 31
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 13,
+   "matched_tokens": 13,
+   "bid_id": "BID.01.07.0025",
+   "bid_text": "وَلَيْسَ على الْمُتَيَمم طلب المَاء إِذا لم يغلب على ظَنّه أَن بِقُرْبِهِ مَاء",
+   "concat_char_start": 7753,
+   "concat_char_end": 7831,
+   "bid_ref": {
+    "lib_page_start": 6,
+    "lib_page_end": 6,
+    "printed_page_start": 7,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0026",
+   "hid_matn": "وإن غلب على ظنه أن هناك ماء لم يجز له أن يتيمم حتى يطلبه",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 30,
+    "page_end": 30,
+    "lib_page_start": 31,
+    "lib_page_end": 31
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 14,
+   "matched_tokens": 14,
+   "bid_id": "BID.01.07.0026",
+   "bid_text": "وَإِن غلب على ظَنّه أَن هُنَاكَ مَاء لم يجز لَهُ أَن يتَيَمَّم حَتَّى يَطْلُبهُ",
+   "concat_char_start": 7832,
+   "concat_char_end": 7911,
+   "bid_ref": {
+    "lib_page_start": 6,
+    "lib_page_end": 6,
+    "printed_page_start": 7,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0027",
+   "hid_matn": "وإن كان مع رفيقه ماء طلب منه قبل أن يتيمم",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 30,
+    "page_end": 30,
+    "lib_page_start": 31,
+    "lib_page_end": 31
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 10,
+   "matched_tokens": 10,
+   "bid_id": "BID.01.07.0027",
+   "bid_text": "وَإِن كَانَ مَعَ رَفِيقه مَاء طلب مِنْهُ قبل أَن يتَيَمَّم",
+   "concat_char_start": 7912,
+   "concat_char_end": 7970,
+   "bid_ref": {
+    "lib_page_start": 6,
+    "lib_page_end": 6,
+    "printed_page_start": 7,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0028",
+   "hid_matn": "ولو تيمم قبل الطلب أجزأه عند أبي حنيفة رحمه الله تعالى",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 30,
+    "page_end": 30,
+    "lib_page_start": 31,
+    "lib_page_end": 31
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 11,
+   "matched_tokens": 11,
+   "bid_id": "BID.01.07.0028",
+   "bid_text": "وَلَو تيَمّم قبل الطّلب أَجزَأَهُ عِنْد أبي حنيفَة رَحمَه الله تَعَالَى",
+   "concat_char_start": 7971,
+   "concat_char_end": 8042,
+   "bid_ref": {
+    "lib_page_start": 6,
+    "lib_page_end": 6,
+    "printed_page_start": 7,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.07.0029",
+   "hid_matn": "ولو أبي أن يعطيه إلا بثمن المثل وعنده ثمنه لا يجزئه التيمم",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 30,
+    "page_end": 30,
+    "lib_page_start": 31,
+    "lib_page_end": 31
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 12,
+   "matched_tokens": 12,
+   "bid_id": "BID.01.07.0029",
+   "bid_text": "وَلَو أَبى أَن يُعْطِيهِ إِلَّا بِثمن الْمثل وَعِنْده ثمنه لَا يُجزئهُ التَّيَمُّم",
+   "concat_char_start": 8043,
+   "concat_char_end": 8125,
+   "bid_ref": {
+    "lib_page_start": 6,
+    "lib_page_end": 6,
+    "printed_page_start": 7,
+    "printed_page_end": 7
+   }
+  },
+  {
+   "hid_id": "HID.01.08.0001",
+   "hid_matn": "وفرض ذلك مقدار ثلاث أصابع من أصابع اليد",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 31,
+    "page_end": 31,
+    "lib_page_start": 32,
+    "lib_page_end": 32
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 8,
+   "matched_tokens": 8,
+   "bid_id": "BID.01.08.0002",
+   "bid_text": "وَفرض ذَلِك مِقْدَار ثَلَاث أَصَابِع من أَصَابِع الْيَد",
+   "concat_char_start": 8438,
+   "concat_char_end": 8493,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.08.0002",
+   "hid_matn": "ولا يجوز المسح على خف فيه خرق كبير يبين منه قدر ثلاث أصابع من أصابع الرجل فإن كان أقل من ذلك جاز",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 31,
+    "page_end": 31,
+    "lib_page_start": 32,
+    "lib_page_end": 32
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 22,
+   "matched_tokens": 22,
+   "bid_id": "BID.01.08.0003",
+   "bid_text": "وَلَا يجوز الْمسْح على خف فِيهِ خرق كَبِير يبين مِنْهُ قدر ثَلَاث أَصَابِع من أَصَابِع الرجل فَإِن كَانَ أقل من ذَلِك جَازَ",
+   "concat_char_start": 8494,
+   "concat_char_end": 8617,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.08.0003",
+   "hid_matn": "ولا يجوز المسح لمن وجب عليه الغسل",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 31,
+    "page_end": 31,
+    "lib_page_start": 32,
+    "lib_page_end": 32
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 7,
+   "matched_tokens": 7,
+   "bid_id": "BID.01.08.0004",
+   "bid_text": "وَلَا يجوز الْمسْح لمن وَجب عَلَيْهِ الْغسْل",
+   "concat_char_start": 8618,
+   "concat_char_end": 8662,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.08.0004",
+   "hid_matn": "وينقض المسح كل شيء ينقض الوضوء",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 31,
+    "page_end": 31,
+    "lib_page_start": 32,
+    "lib_page_end": 32
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 6,
+   "matched_tokens": 6,
+   "bid_id": "BID.01.08.0005",
+   "bid_text": "وينقض الْمسْح كل شَيْء ينْقض الْوضُوء",
+   "concat_char_start": 8663,
+   "concat_char_end": 8700,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.08.0005",
+   "hid_matn": "وينقضه أيضا نزع الخف",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 31,
+    "page_end": 31,
+    "lib_page_start": 32,
+    "lib_page_end": 32
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 4,
+   "matched_tokens": 4,
+   "bid_id": "BID.01.08.0006",
+   "bid_text": "وينقضه أَيْضا نزع الْخُف",
+   "concat_char_start": 8701,
+   "concat_char_end": 8725,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.08.0006",
+   "hid_matn": "وكذا نزع أحدهما",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 31,
+    "page_end": 31,
+    "lib_page_start": 32,
+    "lib_page_end": 32
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 3,
+   "matched_tokens": 3,
+   "bid_id": "BID.01.08.0007",
+   "bid_text": "وَكَذَا نزع أَحدهمَا",
+   "concat_char_start": 8726,
+   "concat_char_end": 8746,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.08.0007",
+   "hid_matn": "وكذا مضي المدة",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 31,
+    "page_end": 31,
+    "lib_page_start": 32,
+    "lib_page_end": 32
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 3,
+   "matched_tokens": 3,
+   "bid_id": "BID.01.08.0008",
+   "bid_text": "وَكَذَا مُضِيّ الْمدَّة",
+   "concat_char_start": 8747,
+   "concat_char_end": 8770,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.08.0008",
+   "hid_matn": "وإذا تمت المدة نزع خفيه وغسل رجليه وصلى وليس عليه إعادة بقية الوضوء",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 31,
+    "page_end": 31,
+    "lib_page_start": 32,
+    "lib_page_end": 32
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 13,
+   "matched_tokens": 13,
+   "bid_id": "BID.01.08.0009",
+   "bid_text": "وَإِذا تمت الْمدَّة نزع خفيه وَغسل رجلَيْهِ وَصلى وَلَيْسَ عَلَيْهِ إِعَادَة بَقِيَّة الْوضُوء",
+   "concat_char_start": 8771,
+   "concat_char_end": 8865,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.08.0009",
+   "hid_matn": "ومن ابتدأ المسح وهو مقيم فسافر قبل تمام يوم وليلة مسح ثلاثة أيام ولياليها",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 31,
+    "page_end": 31,
+    "lib_page_start": 32,
+    "lib_page_end": 32
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 14,
+   "matched_tokens": 14,
+   "bid_id": "BID.01.08.0010",
+   "bid_text": "وَمن ابْتَدَأَ الْمسْح وَهُوَ مُقيم فسافر قبل تَمام يَوْم وَلَيْلَة مسح ثَلَاثَة أَيَّام ولياليها",
+   "concat_char_start": 8866,
+   "concat_char_end": 8963,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.08.0010",
+   "hid_matn": "ولو أقام وهو مسافر إن استكمل مدة الاقامة نزع",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 31,
+    "page_end": 31,
+    "lib_page_start": 32,
+    "lib_page_end": 32
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 9,
+   "matched_tokens": 9,
+   "bid_id": "BID.01.08.0011",
+   "bid_text": "وَلَو أَقَامَ وَهُوَ مُسَافر إِن اسْتكْمل مُدَّة الْإِقَامَة نزع",
+   "concat_char_start": 8964,
+   "concat_char_end": 9028,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.08.0011",
+   "hid_matn": "وإن لم يستكمل أتمها",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 31,
+    "page_end": 31,
+    "lib_page_start": 32,
+    "lib_page_end": 32
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 4,
+   "matched_tokens": 4,
+   "bid_id": "BID.01.08.0012",
+   "bid_text": "وَإِن لم يستكمل أتمهَا",
+   "concat_char_start": 9029,
+   "concat_char_end": 9051,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.08.0012",
+   "hid_matn": "ومن لبس الجرموق فوق الخف مسح عليه",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 31,
+    "page_end": 32,
+    "lib_page_start": 32,
+    "lib_page_end": 33
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 7,
+   "matched_tokens": 7,
+   "bid_id": "BID.01.08.0013",
+   "bid_text": "وَمن لبس الجرموق فَوق الْخُف مسح عَلَيْهِ",
+   "concat_char_start": 9052,
+   "concat_char_end": 9093,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.08.0013",
+   "hid_matn": "ولا يجوز المسح على الجوربين عند أبي حنيفة إلا أن يكونا مجلدين أو منعلين وقالا يجوز إذا كانا ثخينين لا يشفان",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 32,
+    "page_end": 32,
+    "lib_page_start": 33,
+    "lib_page_end": 33
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 21,
+   "matched_tokens": 21,
+   "bid_id": "BID.01.08.0014",
+   "bid_text": "وَلَا يجوز الْمسْح على الجوربين عِنْد أبي حنيفَة إِلَّا أَن يَكُونَا مجلدين أَو منعلين وَقَالا يجوز إِذا كَانَا ثخينين لَا يشفان",
+   "concat_char_start": 9094,
+   "concat_char_end": 9222,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.08.0014",
+   "hid_matn": "ولا يجوز المسح على العمامة والقلنسوة والبرقع والقفازين",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 32,
+    "page_end": 32,
+    "lib_page_start": 33,
+    "lib_page_end": 33
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 8,
+   "matched_tokens": 8,
+   "bid_id": "BID.01.08.0015",
+   "bid_text": "وَلَا يجوز الْمسْح على الْعِمَامَة والقلنسوة والبرقع والقفازين",
+   "concat_char_start": 9223,
+   "concat_char_end": 9285,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.08.0015",
+   "hid_matn": "ولا يجوز المسح على الجبائر وإن شدها على غير وضوء",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 32,
+    "page_end": 32,
+    "lib_page_start": 33,
+    "lib_page_end": 33
+   },
+   "status": "approx",
+   "score": 0.9046,
+   "tok_ratio": 0.8421,
+   "char_ratio": 0.967,
+   "hid_tokens": 10,
+   "matched_tokens": 8,
+   "bid_id": "BID.01.08.0016",
+   "bid_text": "وَيجوز الْمسْح على الجبائر وَإِن شدها على غير وضوء",
+   "concat_char_start": 9286,
+   "concat_char_end": 9336,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.08.0016",
+   "hid_matn": "وإن سقطت الجبيرة عن غير برء لا يبطل المسح",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 32,
+    "page_end": 32,
+    "lib_page_start": 33,
+    "lib_page_end": 33
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 9,
+   "matched_tokens": 9,
+   "bid_id": "BID.01.08.0017",
+   "bid_text": "وَإِن سَقَطت الْجَبِيرَة عَن غير برْء لَا يبطل الْمسْح",
+   "concat_char_start": 9337,
+   "concat_char_end": 9391,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.09.0001",
+   "hid_matn": "أقل الحيض ثلاثة ايام ولياليها وما نقص من ذلك فهو استحاضة",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 32,
+    "page_end": 32,
+    "lib_page_start": 34,
+    "lib_page_end": 34
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 11,
+   "matched_tokens": 11,
+   "bid_id": "BID.01.09.0001",
+   "bid_text": "أقل الْحيض ثَلَاثَة أَيَّام ولياليها وَمَا نقص من ذَلِك فَهُوَ اسْتِحَاضَة",
+   "concat_char_start": 9442,
+   "concat_char_end": 9516,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.09.0002",
+   "hid_matn": "وأكثره عشرة أيام ولياليها والزائد استحاضة",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 32,
+    "page_end": 32,
+    "lib_page_start": 34,
+    "lib_page_end": 34
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 6,
+   "matched_tokens": 6,
+   "bid_id": "BID.01.09.0002",
+   "bid_text": "وَأَكْثَره عشرَة أَيَّام ولياليها وَالزَّائِد اسْتِحَاضَة",
+   "concat_char_start": 9517,
+   "concat_char_end": 9574,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.09.0003",
+   "hid_matn": "وما تراه المرأة من الحمرة والصفرة والكدرة في أيام الحيض حيض … وقال أبو يوسف ﵀: لا تكون الكدرة حيضا إلا بعد الدم",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 32,
+    "page_end": 33,
+    "lib_page_start": 34,
+    "lib_page_end": 35
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 21,
+   "matched_tokens": 21,
+   "bid_id": "BID.01.09.0003",
+   "bid_text": "وَمَا ترَاهُ الْمَرْأَة من الْحمرَة والصفرة والكدرة فِي أَيَّام الْحيض حيض وَقَالَ أَبُو يُوسُف ﵀ لَا تكون الكدرة حيضا إِلَّا بعد الدَّم",
+   "concat_char_start": 9575,
+   "concat_char_end": 9711,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.09.0004",
+   "hid_matn": "والحيض يسقط عن الحائض الصلاة ويحرم عليها الصوم وتقضي الصوم ولا تقضي الصلاة",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 33,
+    "page_end": 33,
+    "lib_page_start": 35,
+    "lib_page_end": 35
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 13,
+   "matched_tokens": 13,
+   "bid_id": "BID.01.09.0004",
+   "bid_text": "وَالْحيض يسْقط عَن الْحَائِض الصَّلَاة وَيحرم عَلَيْهَا الصَّوْم وتقضى الصَّوْم وَلَا تقضي الصَّلَاة",
+   "concat_char_start": 9712,
+   "concat_char_end": 9812,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.09.0005",
+   "hid_matn": "ولا تدخل المسجد",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 33,
+    "page_end": 33,
+    "lib_page_start": 35,
+    "lib_page_end": 35
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 3,
+   "matched_tokens": 3,
+   "bid_id": "BID.01.09.0005",
+   "bid_text": "وَلَا تدخل الْمَسْجِد",
+   "concat_char_start": 9813,
+   "concat_char_end": 9834,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.09.0006",
+   "hid_matn": "ولا تطوف بالبيت",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 33,
+    "page_end": 33,
+    "lib_page_start": 35,
+    "lib_page_end": 35
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 3,
+   "matched_tokens": 3,
+   "bid_id": "BID.01.09.0006",
+   "bid_text": "وَلَا تَطوف بِالْبَيْتِ",
+   "concat_char_start": 9835,
+   "concat_char_end": 9858,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.09.0007",
+   "hid_matn": "ولا يأتيها زوجها",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 33,
+    "page_end": 33,
+    "lib_page_start": 35,
+    "lib_page_end": 35
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 3,
+   "matched_tokens": 3,
+   "bid_id": "BID.01.09.0007",
+   "bid_text": "وَلَا يَأْتِيهَا زَوجهَا",
+   "concat_char_start": 9859,
+   "concat_char_end": 9883,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.09.0008",
+   "hid_matn": "وليس للحائض والجنب والنفساء قراءة القرآن",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 33,
+    "page_end": 33,
+    "lib_page_start": 35,
+    "lib_page_end": 35
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 6,
+   "matched_tokens": 6,
+   "bid_id": "BID.01.09.0008",
+   "bid_text": "وَلَيْسَ للحائض وَالْجنب وَالنُّفَسَاء قِرَاءَة الْقُرْآن",
+   "concat_char_start": 9884,
+   "concat_char_end": 9941,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.09.0009",
+   "hid_matn": "وليس لهم مس المصحف إلا بغلافه ولا أخذ درهم فيه سورة من القرآن إلا بصرته وكذا المحدث لا يمس المصحف إلا بغلافه",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 33,
+    "page_end": 33,
+    "lib_page_start": 35,
+    "lib_page_end": 35
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 22,
+   "matched_tokens": 22,
+   "bid_id": "BID.01.09.0009",
+   "bid_text": "وَلَيْسَ لَهُم مس الْمُصحف إِلَّا بغلافه وَلَا أَخذ دِرْهَم فِيهِ سُورَة من الْقُرْآن إِلَّا بصرته وَكَذَا الْمُحدث لَا يمس الْمُصحف إِلَّا بغلافه",
+   "concat_char_start": 9942,
+   "concat_char_end": 10088,
+   "bid_ref": {
+    "lib_page_start": 7,
+    "lib_page_end": 7,
+    "printed_page_start": 8,
+    "printed_page_end": 8
+   }
+  },
+  {
+   "hid_id": "HID.01.09.0010",
+   "hid_matn": "وإذا انقطع دم الحيض لأقل من عشرة أيام لم يحل وطؤها حتى تغتسل",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 33,
+    "page_end": 33,
+    "lib_page_start": 35,
+    "lib_page_end": 35
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 13,
+   "matched_tokens": 13,
+   "bid_id": "BID.01.09.0010",
+   "bid_text": "وَإِذا انْقَطع دم الْحيض لأَقل من عشرَة أَيَّام لم يحل وَطْؤُهَا حَتَّى تَغْتَسِل",
+   "concat_char_start": 10089,
+   "concat_char_end": 10170,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.09.0011",
+   "hid_matn": "ولو لم تغتسل ومضى عليها أدنى وقت الصلاة بقدر أن تقدر على الاغتسال والتحريمة حل وطؤها",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 33,
+    "page_end": 33,
+    "lib_page_start": 35,
+    "lib_page_end": 35
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 16,
+   "matched_tokens": 16,
+   "bid_id": "BID.01.09.0011",
+   "bid_text": "وَلَو لم تَغْتَسِل وَمضى عَلَيْهَا أدنى وَقت الصَّلَاة بِقدر أَن تقدر على الِاغْتِسَال والتحريمة حل وَطْؤُهَا",
+   "concat_char_start": 10171,
+   "concat_char_end": 10280,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.09.0012",
+   "hid_matn": "ولو كان انقطع الدم دون عادتها فوق الثلاث لم يقربها حتى تمضي عادتها وإن إغتسلت",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 33,
+    "page_end": 33,
+    "lib_page_start": 35,
+    "lib_page_end": 35
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 15,
+   "matched_tokens": 15,
+   "bid_id": "BID.01.09.0012",
+   "bid_text": "وَلَو كَانَ انْقَطع الدَّم دون عَادَتهَا فَوق الثَّلَاث لم يقربهَا حَتَّى تمْضِي عَادَتهَا وَإِن اغْتَسَلت",
+   "concat_char_start": 10281,
+   "concat_char_end": 10387,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.09.0013",
+   "hid_matn": "وإن انقطع الدم لعشرة أيام حل وطؤها قبل الغسل",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 33,
+    "page_end": 33,
+    "lib_page_start": 35,
+    "lib_page_end": 35
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 9,
+   "matched_tokens": 9,
+   "bid_id": "BID.01.09.0013",
+   "bid_text": "وَإِن انْقَطع الدَّم لعشرة أَيَّام حل وَطْؤُهَا قبل الْغسْل",
+   "concat_char_start": 10388,
+   "concat_char_end": 10447,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.09.0014",
+   "hid_matn": "والطهر إذا تخلل بين الدمين في مدة الحيض فهو كالدم المتوالي",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 33,
+    "page_end": 34,
+    "lib_page_start": 35,
+    "lib_page_end": 36
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 11,
+   "matched_tokens": 11,
+   "bid_id": "BID.01.09.0014",
+   "bid_text": "وَالطُّهْر إِذا تخَلّل بَين الدمين فِي مُدَّة الْحيض فَهُوَ كَالدَّمِ المتوالي",
+   "concat_char_start": 10448,
+   "concat_char_end": 10526,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.09.0015",
+   "hid_matn": "وأقل الطهر خمسة عشر يوما",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 34,
+    "page_end": 34,
+    "lib_page_start": 36,
+    "lib_page_end": 36
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 5,
+   "matched_tokens": 5,
+   "bid_id": "BID.01.09.0015",
+   "bid_text": "وَأَقل الطُّهْر خَمْسَة عشر يَوْمًا",
+   "concat_char_start": 10527,
+   "concat_char_end": 10562,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.09.0016",
+   "hid_matn": "ولا غاية لأكثره",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 34,
+    "page_end": 34,
+    "lib_page_start": 36,
+    "lib_page_end": 36
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 3,
+   "matched_tokens": 3,
+   "bid_id": "BID.01.09.0016",
+   "bid_text": "وَلَا غَايَة لأكثره",
+   "concat_char_start": 10563,
+   "concat_char_end": 10582,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.09.0017",
+   "hid_matn": "ودم الاستحاضة كالرعاف الدائم لا يمنع الصوم ولا الصلاة ولا الوطء",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 34,
+    "page_end": 34,
+    "lib_page_start": 36,
+    "lib_page_end": 36
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 11,
+   "matched_tokens": 11,
+   "bid_id": "BID.01.09.0017",
+   "bid_text": "وَدم الِاسْتِحَاضَة كالرعاف الدَّائِم لَا يمْنَع الصَّوْم وَلَا الصَّلَاة وَلَا الْوَطْء",
+   "concat_char_start": 10583,
+   "concat_char_end": 10671,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.09.0018",
+   "hid_matn": "ولو زاد الدم على عشرة أيام ولها عادة معروفة دونها ردت إلى أيام عادتها والذي زاد استحاضة",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 34,
+    "page_end": 34,
+    "lib_page_start": 36,
+    "lib_page_end": 36
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 17,
+   "matched_tokens": 17,
+   "bid_id": "BID.01.09.0018",
+   "bid_text": "وَلَو زَاد الدَّم على عشرَة أَيَّام وَلها عَادَة مَعْرُوفَة دونهَا ردَّتْ إِلَى أَيَّام عَادَتهَا وَالَّذِي زَاد اسْتِحَاضَة",
+   "concat_char_start": 10672,
+   "concat_char_end": 10796,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.10.0001",
+   "hid_matn": "والمستحاضة ومن به سلس البول والرعاف الدائم والجرح الذي لا يرقأ يتوضئون لوقت كل صلاة فيصلون بذلك الوضوء في الوقت ما شاءوا من الفرائض والنوافل",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 34,
+    "page_end": 34,
+    "lib_page_start": 37,
+    "lib_page_end": 37
+   },
+   "status": "approx",
+   "score": 0.9782,
+   "tok_ratio": 0.96,
+   "char_ratio": 0.9964,
+   "hid_tokens": 25,
+   "matched_tokens": 24,
+   "bid_id": "BID.01.10.0001",
+   "bid_text": "والمستحاضة وَمن بِهِ سَلس الْبَوْل والرعاف الدَّائِم وَالْجرْح الَّذِي لَا يرقأ يتوضؤن لوقت كل صَلَاة فيصلون بذلك الْوضُوء فِي الْوَقْت مَا شَاءُوا من الْفَرَائِض والنوافل",
+   "concat_char_start": 10834,
+   "concat_char_end": 11005,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.10.0002",
+   "hid_matn": "وإذا خرج الوقت بطل وضوؤهم واستأنفوا الوضوء لصلاة أخرى",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 34,
+    "page_end": 34,
+    "lib_page_start": 37,
+    "lib_page_end": 37
+   },
+   "status": "approx",
+   "score": 0.9396,
+   "tok_ratio": 0.8889,
+   "char_ratio": 0.9903,
+   "hid_tokens": 9,
+   "matched_tokens": 8,
+   "bid_id": "BID.01.10.0002",
+   "bid_text": "وَإِذا خرج الْوَقْت بَطل وضوءهم واستأنفوا الْوضُوء لصَلَاة أُخْرَى",
+   "concat_char_start": 11006,
+   "concat_char_end": 11072,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.10.0003",
+   "hid_matn": "فإن توضئوا حين تطلع الشمس أجزأهم عن فرض الوقت حتى يذهب وقت الظهر",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 34,
+    "page_end": 35,
+    "lib_page_start": 37,
+    "lib_page_end": 38
+   },
+   "status": "approx",
+   "score": 0.9576,
+   "tok_ratio": 0.9231,
+   "char_ratio": 0.9921,
+   "hid_tokens": 13,
+   "matched_tokens": 12,
+   "bid_id": "BID.01.10.0003",
+   "bid_text": "فَإِن توضؤا حِين تطلع الشَّمْس أجزأهم عَن فرض الْوَقْت حَتَّى يذهب وَقت الظّهْر",
+   "concat_char_start": 11073,
+   "concat_char_end": 11159,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.11.0001",
+   "hid_matn": "النفاس هو الدم الخارج عقيب الولادة",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 35,
+    "page_end": 35,
+    "lib_page_start": 39,
+    "lib_page_end": 39
+   },
+   "status": "approx",
+   "score": 0.9092,
+   "tok_ratio": 0.8333,
+   "char_ratio": 0.9851,
+   "hid_tokens": 6,
+   "matched_tokens": 5,
+   "bid_id": "BID.01.11.0001",
+   "bid_text": "النّفاس هُوَ الدَّم الْخَارِج عقب الْولادَة",
+   "concat_char_start": 11176,
+   "concat_char_end": 11219,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.11.0002",
+   "hid_matn": "والدم الذي تراه الحامل ابتداء أو حال ولادتها قبل خروج الولد استحاضة",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 35,
+    "page_end": 35,
+    "lib_page_start": 39,
+    "lib_page_end": 39
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 12,
+   "matched_tokens": 12,
+   "bid_id": "BID.01.11.0002",
+   "bid_text": "وَالدَّم الَّذِي ترَاهُ الْحَامِل ابْتِدَاء أَو حَال وِلَادَتهَا قبل خُرُوج الْوَلَد اسْتِحَاضَة",
+   "concat_char_start": 11220,
+   "concat_char_end": 11316,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.11.0003",
+   "hid_matn": "والسقط الذي استبان بعد خلقه ولد",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 35,
+    "page_end": 35,
+    "lib_page_start": 39,
+    "lib_page_end": 39
+   },
+   "status": "approx",
+   "score": 0.9005,
+   "tok_ratio": 0.8333,
+   "char_ratio": 0.9677,
+   "hid_tokens": 6,
+   "matched_tokens": 5,
+   "bid_id": "BID.01.11.0003",
+   "bid_text": "والسقط الَّذِي استبان بعض خلقه ولد",
+   "concat_char_start": 11317,
+   "concat_char_end": 11351,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.11.0004",
+   "hid_matn": "وأقل النفاس لا حد له",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 35,
+    "page_end": 35,
+    "lib_page_start": 39,
+    "lib_page_end": 39
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 5,
+   "matched_tokens": 5,
+   "bid_id": "BID.01.11.0004",
+   "bid_text": "وَأَقل النّفاس لَا حد لَهُ",
+   "concat_char_start": 11352,
+   "concat_char_end": 11378,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.11.0005",
+   "hid_matn": "وأكثره أربعون يوما والزائد عليه استحاضة",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 35,
+    "page_end": 35,
+    "lib_page_start": 39,
+    "lib_page_end": 39
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 6,
+   "matched_tokens": 6,
+   "bid_id": "BID.01.11.0005",
+   "bid_text": "وَأَكْثَره أَرْبَعُونَ يَوْمًا وَالزَّائِد عَلَيْهِ اسْتِحَاضَة",
+   "concat_char_start": 11379,
+   "concat_char_end": 11442,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.11.0006",
+   "hid_matn": "فإن جاوز الدم الأربعين وقد كانت ولدت قبل ذلك ولها عادة في النفاس ردت إلى أيام عادتها",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 35,
+    "page_end": 35,
+    "lib_page_start": 39,
+    "lib_page_end": 39
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 17,
+   "matched_tokens": 17,
+   "bid_id": "BID.01.11.0006",
+   "bid_text": "فَإِن جَاوز الدَّم الْأَرْبَعين وَقد كَانَت ولدت قبل ذَلِك وَلها عَادَة فِي النّفاس ردَّتْ إِلَى أَيَّام عَادَتهَا",
+   "concat_char_start": 11443,
+   "concat_char_end": 11557,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.11.0007",
+   "hid_matn": "وإن لم تكن لها عادة فابتداء نفاسها أربعون يوما",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 35,
+    "page_end": 35,
+    "lib_page_start": 39,
+    "lib_page_end": 39
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 9,
+   "matched_tokens": 9,
+   "bid_id": "BID.01.11.0007",
+   "bid_text": "وَإِن لم تكن لَهَا عَادَة فابتداء نفَاسهَا أَرْبَعُونَ يَوْمًا",
+   "concat_char_start": 11558,
+   "concat_char_end": 11620,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.11.0008",
+   "hid_matn": "فإن ولدت ولدين في بطن واحد فنفاسها من الولد الأول عند أبي حنيفة وأبي يوسف رحمهما الله وإن كان بين الولدين اربعون يوما وقال محمد ﵀ من الولد الأخير",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 35,
+    "page_end": 36,
+    "lib_page_start": 39,
+    "lib_page_end": 40
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 28,
+   "matched_tokens": 28,
+   "bid_id": "BID.01.11.0008",
+   "bid_text": "فَإِن ولدت وَلدين فِي بطن وَاحِد فنفاسها من الْوَلَد الأول عِنْد أبي حنيفَة وَأبي يُوسُف رحمهمَا الله وَأَن كَانَ بَين الْوَلَدَيْنِ أَرْبَعُونَ يَوْمًا وَقَالَ مُحَمَّد ﵀ من الْوَلَد الْأَخير",
+   "concat_char_start": 11621,
+   "concat_char_end": 11813,
+   "bid_ref": {
+    "lib_page_start": 8,
+    "lib_page_end": 8,
+    "printed_page_start": 9,
+    "printed_page_end": 9
+   }
+  },
+  {
+   "hid_id": "HID.01.12.0001",
+   "hid_matn": "تطهير النجاسة واجب من بدن المصلي وثوبه والمكان الذي يصلي عليه",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 36,
+    "page_end": 36,
+    "lib_page_start": 41,
+    "lib_page_end": 41
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 11,
+   "matched_tokens": 11,
+   "bid_id": "BID.01.12.0001",
+   "bid_text": "تَطْهِير النَّجَاسَة وَاجِب من بدن الْمُصَلِّي وثوبه وَالْمَكَان الَّذِي يُصَلِّي عَلَيْهِ",
+   "concat_char_start": 11836,
+   "concat_char_end": 11926,
+   "bid_ref": {
+    "lib_page_start": 9,
+    "lib_page_end": 9,
+    "printed_page_start": 10,
+    "printed_page_end": 10
+   }
+  },
+  {
+   "hid_id": "HID.01.12.0002",
+   "hid_matn": "ويجوز تطهيرها بالماء وبكل مائع طاهر يمكن إزالتها به كالخل وماء الورد ونحوه مما إذا عصر إنعصر",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 36,
+    "page_end": 36,
+    "lib_page_start": 41,
+    "lib_page_end": 41
+   },
+   "status": "approx",
+   "score": 0.9094,
+   "tok_ratio": 0.8571,
+   "char_ratio": 0.9617,
+   "hid_tokens": 17,
+   "matched_tokens": 15,
+   "bid_id": "BID.01.12.0002",
+   "bid_text": "وَيجوز تطهيرها بِالْمَاءِ وَبِكُل مَائِع طَاهِر يُمكن إِزَالَتهَا بِهِ كالخل وَمَاء الْورْد وَنَحْو ذَلِك بِمَا إِذا عصر انعصر",
+   "concat_char_start": 11927,
+   "concat_char_end": 12053,
+   "bid_ref": {
+    "lib_page_start": 9,
+    "lib_page_end": 9,
+    "printed_page_start": 10,
+    "printed_page_end": 10
+   }
+  },
+  {
+   "hid_id": "HID.01.12.0003",
+   "hid_matn": "وإذا أصاب الخف نجاسة لها جرم كالروث والعذرة والدم والمني فجفت فدلكه بالأرض جاز … وقال محمد ﵀: لا يجوز … إلا في المني خاصة",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 36,
+    "page_end": 36,
+    "lib_page_start": 41,
+    "lib_page_end": 41
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 22,
+   "matched_tokens": 22,
+   "bid_id": "BID.01.12.0003",
+   "bid_text": "وَإِذا أصَاب الْخُف نَجَاسَة لَهَا جرم كالروث والعذرة وَالدَّم والمني فجفت فدلكه بِالْأَرْضِ جَازَ وَقَالَ مُحَمَّد ﵀ لَا يجوز إِلَّا فِي المنى خَاصَّة",
+   "concat_char_start": 12054,
+   "concat_char_end": 12205,
+   "bid_ref": {
+    "lib_page_start": 9,
+    "lib_page_end": 9,
+    "printed_page_start": 10,
+    "printed_page_end": 10
+   }
+  },
+  {
+   "hid_id": "HID.01.12.0004",
+   "hid_matn": "وفي الرطب لا يجوز حتى يغسله",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 36,
+    "page_end": 36,
+    "lib_page_start": 41,
+    "lib_page_end": 41
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 6,
+   "matched_tokens": 6,
+   "bid_id": "BID.01.12.0004",
+   "bid_text": "وَفِي الرطب لَا يجوز حَتَّى يغسلهُ",
+   "concat_char_start": 12206,
+   "concat_char_end": 12240,
+   "bid_ref": {
+    "lib_page_start": 9,
+    "lib_page_end": 9,
+    "printed_page_start": 10,
+    "printed_page_end": 10
+   }
+  },
+  {
+   "hid_id": "HID.01.12.0005",
+   "hid_matn": "فإن أصابه بول فيبس لم يجز حتى يغسله",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 36,
+    "page_end": 36,
+    "lib_page_start": 41,
+    "lib_page_end": 41
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 8,
+   "matched_tokens": 8,
+   "bid_id": "BID.01.12.0005",
+   "bid_text": "فَإِن أَصَابَهُ بَوْل فيبس لم يجز حَتَّى يغسلهُ",
+   "concat_char_start": 12241,
+   "concat_char_end": 12288,
+   "bid_ref": {
+    "lib_page_start": 9,
+    "lib_page_end": 9,
+    "printed_page_start": 10,
+    "printed_page_end": 10
+   }
+  },
+  {
+   "hid_id": "HID.01.12.0006",
+   "hid_matn": "والثوب لا يجزي فيه إلا الغسل وإن يبس",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 36,
+    "page_end": 36,
+    "lib_page_start": 41,
+    "lib_page_end": 41
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 8,
+   "matched_tokens": 8,
+   "bid_id": "BID.01.12.0006",
+   "bid_text": "وَالثَّوْب لَا يجزى فِيهِ إِلَّا الْغسْل وَإِن يبس",
+   "concat_char_start": 12289,
+   "concat_char_end": 12339,
+   "bid_ref": {
+    "lib_page_start": 9,
+    "lib_page_end": 9,
+    "printed_page_start": 10,
+    "printed_page_end": 10
+   }
+  },
+  {
+   "hid_id": "HID.01.12.0007",
+   "hid_matn": "والمني نجس يجب غسله إن كان رطبا فإذا جف على الثوب أجزأ فيه الفرك",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 36,
+    "page_end": 37,
+    "lib_page_start": 41,
+    "lib_page_end": 42
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 14,
+   "matched_tokens": 14,
+   "bid_id": "BID.01.12.0007",
+   "bid_text": "والمنى نجس يجب غسله إِن كَانَ رطبا فَإِذا جف على الثَّوْب أَجْزَأَ فِيهِ الفرك",
+   "concat_char_start": 12340,
+   "concat_char_end": 12418,
+   "bid_ref": {
+    "lib_page_start": 9,
+    "lib_page_end": 9,
+    "printed_page_start": 10,
+    "printed_page_end": 10
+   }
+  },
+  {
+   "hid_id": "HID.01.12.0008",
+   "hid_matn": "والنجاسة إذا أصابت المرآة أو السيف إكتفى بمسحهما",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 37,
+    "page_end": 37,
+    "lib_page_start": 42,
+    "lib_page_end": 42
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 8,
+   "matched_tokens": 8,
+   "bid_id": "BID.01.12.0008",
+   "bid_text": "والنجاسة إِذا أَصَابَت الْمرْآة أَو السَّيْف اكْتفى بمسحهما",
+   "concat_char_start": 12419,
+   "concat_char_end": 12478,
+   "bid_ref": {
+    "lib_page_start": 9,
+    "lib_page_end": 9,
+    "printed_page_start": 10,
+    "printed_page_end": 10
+   }
+  },
+  {
+   "hid_id": "HID.01.12.0009",
+   "hid_matn": "وإن أصابت الأرض نجاسة فجفت بالشمس وذهب أثرها جازت الصلاة على مكانها … و … لا يجوز التيمم به",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 37,
+    "page_end": 37,
+    "lib_page_start": 42,
+    "lib_page_end": 42
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 16,
+   "matched_tokens": 16,
+   "bid_id": "BID.01.12.0009",
+   "bid_text": "وَإِن أَصَابَت الأَرْض نَجَاسَة فجفت بالشمس وَذهب أَثَرهَا جَازَت الصَّلَاة على مَكَانهَا وَلَا يجوز التَّيَمُّم بِهِ",
+   "concat_char_start": 12479,
+   "concat_char_end": 12596,
+   "bid_ref": {
+    "lib_page_start": 9,
+    "lib_page_end": 9,
+    "printed_page_start": 10,
+    "printed_page_end": 10
+   }
+  },
+  {
+   "hid_id": "HID.01.12.0010",
+   "hid_matn": "وقدر الدرهم وما دونه من النجس المغلظ كالدم والبول والخمر وخرء الدجاجة وبول الحمار جازت الصلاة معه وإن زاد لم تجز",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 37,
+    "page_end": 37,
+    "lib_page_start": 42,
+    "lib_page_end": 42
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 21,
+   "matched_tokens": 21,
+   "bid_id": "BID.01.12.0010",
+   "bid_text": "وَقدر الدِّرْهَم وَمَا دونه من النَّجس المغلظ كَالدَّمِ وَالْبَوْل وَالْخمر وخرء الدَّجَاجَة وَبَوْل الْحمار جَازَت الصَّلَاة مَعَه وَإِن زَاد لم تجز",
+   "concat_char_start": 12597,
+   "concat_char_end": 12746,
+   "bid_ref": {
+    "lib_page_start": 9,
+    "lib_page_end": 9,
+    "printed_page_start": 10,
+    "printed_page_end": 10
+   }
+  },
+  {
+   "hid_id": "HID.01.12.0011",
+   "hid_matn": "وإن كانت مخففة كبول ما يؤكل لحمه جازت الصلاة معه حتى يبلغ ربع الثوب",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 37,
+    "page_end": 37,
+    "lib_page_start": 42,
+    "lib_page_end": 42
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 14,
+   "matched_tokens": 14,
+   "bid_id": "BID.01.12.0011",
+   "bid_text": "وَإِن كَانَت مُخَفّفَة كبول مَا يُؤْكَل لَحْمه جَازَت الصَّلَاة مَعَه حَتَّى يبلغ ربع الثَّوْب",
+   "concat_char_start": 12747,
+   "concat_char_end": 12841,
+   "bid_ref": {
+    "lib_page_start": 9,
+    "lib_page_end": 9,
+    "printed_page_start": 10,
+    "printed_page_end": 10
+   }
+  },
+  {
+   "hid_id": "HID.01.12.0012",
+   "hid_matn": "وإذا أصاب الثوب من الروث أو … أخثاء البقر أكثر من قدر الدرهم لم تجز الصلاة فيه عند أبي حنيفة ﵀ … وقالا يجزئه حتى يفحش",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 37,
+    "page_end": 38,
+    "lib_page_start": 42,
+    "lib_page_end": 43
+   },
+   "status": "approx",
+   "score": 0.9826,
+   "tok_ratio": 0.9787,
+   "char_ratio": 0.9865,
+   "hid_tokens": 23,
+   "matched_tokens": 23,
+   "bid_id": "BID.01.12.0012",
+   "bid_text": "وَإِذا أصَاب الثَّوْب من الروث أَو من أخثاء الْبَقر أَكثر من قدر الدِّرْهَم لم تجز الصَّلَاة فِيهِ عِنْد أبي حنيفَة وَقَالا يُجزئهُ حَتَّى يفحش",
+   "concat_char_start": 12842,
+   "concat_char_end": 12985,
+   "bid_ref": {
+    "lib_page_start": 9,
+    "lib_page_end": 9,
+    "printed_page_start": 10,
+    "printed_page_end": 10
+   }
+  },
+  {
+   "hid_id": "HID.01.12.0013",
+   "hid_matn": "وإن أصابه بول الفرس لم يفسده حتى يفحش عند أبي حنيفة وأبي يوسف رحمهما الله وعند محد ﵀ لا يمنع وإن فحش",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 38,
+    "page_end": 38,
+    "lib_page_start": 43,
+    "lib_page_end": 43
+   },
+   "status": "approx",
+   "score": 0.9737,
+   "tok_ratio": 0.9524,
+   "char_ratio": 0.9949,
+   "hid_tokens": 21,
+   "matched_tokens": 20,
+   "bid_id": "BID.01.12.0013",
+   "bid_text": "وَإِن أَصَابَهُ بَوْل الْفرس لم يُفْسِدهُ حَتَّى يفحش عِنْد أبي حنيفَة وَأبي يُوسُف رحمهمَا الله وَعند مُحَمَّد ﵀ لَا يمْنَع وَإِن فحش",
+   "concat_char_start": 12986,
+   "concat_char_end": 13120,
+   "bid_ref": {
+    "lib_page_start": 9,
+    "lib_page_end": 9,
+    "printed_page_start": 10,
+    "printed_page_end": 10
+   }
+  },
+  {
+   "hid_id": "HID.01.12.0014",
+   "hid_matn": "وإن أصابه خرء مالا يؤكل لحمه من الطيور أكثر من قدر الدرهم جازت الصلاة فيه عند أبي حنيفة وأبي يوسف رحمهما الله تعالى وقال محمد رحمه الله تعالى لا تجوز",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 38,
+    "page_end": 38,
+    "lib_page_start": 43,
+    "lib_page_end": 43
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 30,
+   "matched_tokens": 30,
+   "bid_id": "BID.01.12.0014",
+   "bid_text": "وَإِن أَصَابَهُ خرء مَالا يُؤْكَل لَحْمه من الطُّيُور أَكثر من قدر الدِّرْهَم جَازَت الصَّلَاة فِيهِ عِنْد أبي حنيفَة وَأبي يُوسُف رحمهمَا الله تَعَالَى وَقَالَ مُحَمَّد رَحمَه الله تَعَالَى لَا تجوز",
+   "concat_char_start": 13121,
+   "concat_char_end": 13320,
+   "bid_ref": {
+    "lib_page_start": 9,
+    "lib_page_end": 9,
+    "printed_page_start": 10,
+    "printed_page_end": 10
+   }
+  },
+  {
+   "hid_id": "HID.01.12.0015",
+   "hid_matn": "وإن أصابه من دم السمك أو … لعاب البغل أو الحمار أكثر من قدر الدرهم أجزأت الصلاة فيه",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 38,
+    "page_end": 38,
+    "lib_page_start": 43,
+    "lib_page_end": 43
+   },
+   "status": "approx",
+   "score": 0.9766,
+   "tok_ratio": 0.9714,
+   "char_ratio": 0.9818,
+   "hid_tokens": 17,
+   "matched_tokens": 17,
+   "bid_id": "BID.01.12.0015",
+   "bid_text": "وَإِن أَصَابَهُ من دم السّمك أَو من لعاب الْبَغْل أَو الْحمار أَكثر من قدر الدِّرْهَم أَجْزَأت الصَّلَاة فِيهِ",
+   "concat_char_start": 13321,
+   "concat_char_end": 13431,
+   "bid_ref": {
+    "lib_page_start": 9,
+    "lib_page_end": 9,
+    "printed_page_start": 10,
+    "printed_page_end": 10
+   }
+  },
+  {
+   "hid_id": "HID.01.12.0016",
+   "hid_matn": "فإن انتضح عليه البول مثل رءوس الإبر فذلك ليس بشيء",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 38,
+    "page_end": 38,
+    "lib_page_start": 43,
+    "lib_page_end": 43
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 10,
+   "matched_tokens": 10,
+   "bid_id": "BID.01.12.0016",
+   "bid_text": "فَإِن انتضح عَلَيْهِ الْبَوْل مثل رُؤْس الأبر فَذَلِك لَيْسَ بِشَيْء",
+   "concat_char_start": 13432,
+   "concat_char_end": 13500,
+   "bid_ref": {
+    "lib_page_start": 9,
+    "lib_page_end": 9,
+    "printed_page_start": 10,
+    "printed_page_end": 10
+   }
+  },
+  {
+   "hid_id": "HID.01.12.0017",
+   "hid_matn": "والنجاسة ضربان مرئية وغير مرئية فما كان منها مرئيا فطهارته زوال عينها … إلا أن يبقى من أثرها ما تشق إزالته",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 38,
+    "page_end": 38,
+    "lib_page_start": 43,
+    "lib_page_end": 43
+   },
+   "status": "approx",
+   "score": 0.9428,
+   "tok_ratio": 0.9,
+   "char_ratio": 0.9856,
+   "hid_tokens": 20,
+   "matched_tokens": 18,
+   "bid_id": "BID.01.12.0017",
+   "bid_text": "والنجاسة ضَرْبَان مرئية وَغير مرئية فَمَا كَانَ مِنْهَا مرئيا فطهارته بِزَوَال عينهَا إِلَّا أَن يبْقى من أَثَرهَا مَا يشق إِزَالَته",
+   "concat_char_start": 13501,
+   "concat_char_end": 13633,
+   "bid_ref": {
+    "lib_page_start": 10,
+    "lib_page_end": 10,
+    "printed_page_start": 11,
+    "printed_page_end": 11
+   }
+  },
+  {
+   "hid_id": "HID.01.12.0018",
+   "hid_matn": "وما ليس بمرئي فطهارته أن يغسل حتى يغلب على ظن الغاسل أنه قد طهر",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 38,
+    "page_end": 38,
+    "lib_page_start": 43,
+    "lib_page_end": 43
+   },
+   "status": "approx",
+   "score": 0.9603,
+   "tok_ratio": 0.9286,
+   "char_ratio": 0.9921,
+   "hid_tokens": 14,
+   "matched_tokens": 13,
+   "bid_id": "BID.01.12.0018",
+   "bid_text": "وَمَال لَيْسَ بمرئي فطهارته أَن يغسل حَتَّى يغلب على ظن الْغَاسِل أَنه قد طهر",
+   "concat_char_start": 13634,
+   "concat_char_end": 13711,
+   "bid_ref": {
+    "lib_page_start": 10,
+    "lib_page_end": 10,
+    "printed_page_start": 11,
+    "printed_page_end": 11
+   }
+  },
+  {
+   "hid_id": "HID.01.13.0001",
+   "hid_matn": "الاستنجاء سنة",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 38,
+    "page_end": 38,
+    "lib_page_start": 44,
+    "lib_page_end": 44
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 2,
+   "matched_tokens": 2,
+   "bid_id": "BID.01.13.0001",
+   "bid_text": "الِاسْتِنْجَاء سنة",
+   "concat_char_start": 13775,
+   "concat_char_end": 13793,
+   "bid_ref": {
+    "lib_page_start": 10,
+    "lib_page_end": 10,
+    "printed_page_start": 11,
+    "printed_page_end": 11
+   }
+  },
+  {
+   "hid_id": "HID.01.13.0002",
+   "hid_matn": "ويجوز فيه الحجر وما قام مقامه يمسحه حتى ينقيه",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 38,
+    "page_end": 38,
+    "lib_page_start": 44,
+    "lib_page_end": 44
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 9,
+   "matched_tokens": 9,
+   "bid_id": "BID.01.13.0002",
+   "bid_text": "وَيجوز فِيهِ الْحجر وَمَا قَامَ مقَامه يمسحه حَتَّى ينقيه",
+   "concat_char_start": 13794,
+   "concat_char_end": 13851,
+   "bid_ref": {
+    "lib_page_start": 10,
+    "lib_page_end": 10,
+    "printed_page_start": 11,
+    "printed_page_end": 11
+   }
+  },
+  {
+   "hid_id": "HID.01.13.0003",
+   "hid_matn": "وليس فيه عدد مسنون",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 38,
+    "page_end": 39,
+    "lib_page_start": 44,
+    "lib_page_end": 45
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 4,
+   "matched_tokens": 4,
+   "bid_id": "BID.01.13.0003",
+   "bid_text": "وَلَيْسَ فِيهِ عدد مسنون",
+   "concat_char_start": 13852,
+   "concat_char_end": 13876,
+   "bid_ref": {
+    "lib_page_start": 10,
+    "lib_page_end": 10,
+    "printed_page_start": 11,
+    "printed_page_end": 11
+   }
+  },
+  {
+   "hid_id": "HID.01.13.0004",
+   "hid_matn": "وغسله بالماء أفضل",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 39,
+    "page_end": 39,
+    "lib_page_start": 45,
+    "lib_page_end": 45
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 3,
+   "matched_tokens": 3,
+   "bid_id": "BID.01.13.0004",
+   "bid_text": "وغسله بِالْمَاءِ أفضل",
+   "concat_char_start": 13877,
+   "concat_char_end": 13898,
+   "bid_ref": {
+    "lib_page_start": 10,
+    "lib_page_end": 10,
+    "printed_page_start": 11,
+    "printed_page_end": 11
+   }
+  },
+  {
+   "hid_id": "HID.01.13.0005",
+   "hid_matn": "ولو جاوزت النجاسة مخرجها لم يجز فيه إلا الماء",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 39,
+    "page_end": 39,
+    "lib_page_start": 45,
+    "lib_page_end": 45
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 9,
+   "matched_tokens": 9,
+   "bid_id": "BID.01.13.0005",
+   "bid_text": "وَلَو جَاوَزت النَّجَاسَة مخرجها لم يجز فِيهِ إِلَّا المَاء",
+   "concat_char_start": 13899,
+   "concat_char_end": 13958,
+   "bid_ref": {
+    "lib_page_start": 10,
+    "lib_page_end": 10,
+    "printed_page_start": 11,
+    "printed_page_end": 11
+   }
+  },
+  {
+   "hid_id": "HID.01.13.0006",
+   "hid_matn": "ولا يستنجى بعظم ولا بروث",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 39,
+    "page_end": 39,
+    "lib_page_start": 45,
+    "lib_page_end": 45
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 5,
+   "matched_tokens": 5,
+   "bid_id": "BID.01.13.0006",
+   "bid_text": "وَلَا يستنجى بِعظم وَلَا بروث",
+   "concat_char_start": 13959,
+   "concat_char_end": 13988,
+   "bid_ref": {
+    "lib_page_start": 10,
+    "lib_page_end": 10,
+    "printed_page_start": 11,
+    "printed_page_end": 11
+   }
+  },
+  {
+   "hid_id": "HID.01.13.0007",
+   "hid_matn": "ولا … بطعام",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 39,
+    "page_end": 39,
+    "lib_page_start": 45,
+    "lib_page_end": 45
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 2,
+   "matched_tokens": 2,
+   "bid_id": "BID.01.13.0007",
+   "bid_text": "وَلَا بِطَعَام",
+   "concat_char_start": 13989,
+   "concat_char_end": 14003,
+   "bid_ref": {
+    "lib_page_start": 10,
+    "lib_page_end": 10,
+    "printed_page_start": 11,
+    "printed_page_end": 11
+   }
+  },
+  {
+   "hid_id": "HID.01.13.0008",
+   "hid_matn": "ولا بيمينه",
+   "hid_ref": {
+    "vol": "1",
+    "page_start": 39,
+    "page_end": 39,
+    "lib_page_start": 45,
+    "lib_page_end": 45
+   },
+   "status": "exact",
+   "score": 1.0,
+   "tok_ratio": 1.0,
+   "char_ratio": 1.0,
+   "hid_tokens": 2,
+   "matched_tokens": 2,
+   "bid_id": "BID.01.13.0008",
+   "bid_text": "وَلَا بِيَمِينِهِ",
+   "concat_char_start": 14004,
+   "concat_char_end": 14021,
+   "bid_ref": {
+    "lib_page_start": 10,
+    "lib_page_end": 10,
+    "printed_page_start": 11,
+    "printed_page_end": 11
+   }
+  }
+ ]
+}
