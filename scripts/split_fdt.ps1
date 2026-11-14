@@ -18,4 +18,4 @@ while ($in.Position -lt $in.Length) {
   $out.Close(); $i++
 }
 $in.Close()
-Write-Host "تم: $i أجزاء في $dst"
+Write-Host "Done: $i parts in $dst"
