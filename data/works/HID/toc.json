@@ -1,0 +1,5647 @@
+{
+ "source": "S1",
+ "book_id": 11820,
+ "n_titles": 448,
+ "kutub": [
+  {
+   "no": 1,
+   "title": "كتاب الطهارات",
+   "title_id": 12,
+   "page_id": 11,
+   "vol": "1",
+   "printed_page": 15,
+   "page_end": 45
+  },
+  {
+   "no": 2,
+   "title": "كتاب الصلاة",
+   "title_id": 26,
+   "page_id": 46,
+   "vol": "1",
+   "printed_page": 40,
+   "page_end": 132
+  },
+  {
+   "no": 3,
+   "title": "كتاب الزكاة",
+   "title_id": 63,
+   "page_id": 133,
+   "vol": "1",
+   "printed_page": 95,
+   "page_end": 166
+  },
+  {
+   "no": 4,
+   "title": "كتاب الصوم",
+   "title_id": 81,
+   "page_id": 167,
+   "vol": "1",
+   "printed_page": 116,
+   "page_end": 186
+  },
+  {
+   "no": 5,
+   "title": "كتاب الحج",
+   "title_id": 88,
+   "page_id": 187,
+   "vol": "1",
+   "printed_page": 132,
+   "page_end": 253
+  },
+  {
+   "no": 6,
+   "title": "كتاب النكاح",
+   "title_id": 106,
+   "page_id": 254,
+   "vol": "1",
+   "printed_page": 185,
+   "page_end": 294
+  },
+  {
+   "no": 7,
+   "title": "كتاب الرضاع",
+   "title_id": 117,
+   "page_id": 295,
+   "vol": "1",
+   "printed_page": 217,
+   "page_end": 298
+  },
+  {
+   "no": 8,
+   "title": "كتاب الطلاق",
+   "title_id": 119,
+   "page_id": 299,
+   "vol": "1",
+   "printed_page": 221,
+   "page_end": 395
+  },
+  {
+   "no": 9,
+   "title": "كتاب العتاق",
+   "title_id": 154,
+   "page_id": 396,
+   "vol": "2",
+   "printed_page": 296,
+   "page_end": 423
+  },
+  {
+   "no": 10,
+   "title": "كتاب الأيمان",
+   "title_id": 163,
+   "page_id": 424,
+   "vol": "2",
+   "printed_page": 317,
+   "page_end": 457
+  },
+  {
+   "no": 11,
+   "title": "كتاب الحدود",
+   "title_id": 179,
+   "page_id": 458,
+   "vol": "2",
+   "printed_page": 339,
+   "page_end": 485
+  },
+  {
+   "no": 12,
+   "title": "كتاب السرقة",
+   "title_id": 187,
+   "page_id": 486,
+   "vol": "2",
+   "printed_page": 362,
+   "page_end": 506
+  },
+  {
+   "no": 13,
+   "title": "كتاب السير",
+   "title_id": 194,
+   "page_id": 507,
+   "vol": "2",
+   "printed_page": 378,
+   "page_end": 556
+  },
+  {
+   "no": 14,
+   "title": "كتاب اللقيط",
+   "title_id": 211,
+   "page_id": 557,
+   "vol": "2",
+   "printed_page": 415,
+   "page_end": 558
+  },
+  {
+   "no": 15,
+   "title": "كتاب اللقطة",
+   "title_id": 212,
+   "page_id": 559,
+   "vol": "2",
+   "printed_page": 417,
+   "page_end": 562
+  },
+  {
+   "no": 16,
+   "title": "كتاب الإباق",
+   "title_id": 213,
+   "page_id": 563,
+   "vol": "2",
+   "printed_page": 421,
+   "page_end": 564
+  },
+  {
+   "no": 17,
+   "title": "كتاب المفقود",
+   "title_id": 214,
+   "page_id": 565,
+   "vol": "2",
+   "printed_page": 423,
+   "page_end": 567
+  },
+  {
+   "no": 18,
+   "title": "كتاب الشركة",
+   "title_id": 215,
+   "page_id": 568,
+   "vol": "3",
+   "printed_page": 5,
+   "page_end": 579
+  },
+  {
+   "no": 19,
+   "title": "كتاب الوقف",
+   "title_id": 220,
+   "page_id": 580,
+   "vol": "3",
+   "printed_page": 15,
+   "page_end": 588
+  },
+  {
+   "no": 20,
+   "title": "كتاب البيوع",
+   "title_id": 223,
+   "page_id": 589,
+   "vol": "3",
+   "printed_page": 23,
+   "page_end": 660
+  },
+  {
+   "no": 21,
+   "title": "كتاب الصرف",
+   "title_id": 241,
+   "page_id": 661,
+   "vol": "3",
+   "printed_page": 81,
+   "page_end": 666
+  },
+  {
+   "no": 22,
+   "title": "كتاب الكفالة",
+   "title_id": 243,
+   "page_id": 667,
+   "vol": "3",
+   "printed_page": 87,
+   "page_end": 681
+  },
+  {
+   "no": 23,
+   "title": "كتاب الحوالة",
+   "title_id": 248,
+   "page_id": 682,
+   "vol": "3",
+   "printed_page": 99,
+   "page_end": 683
+  },
+  {
+   "no": 24,
+   "title": "كتاب أدب القاضي",
+   "title_id": 250,
+   "page_id": 684,
+   "vol": "3",
+   "printed_page": 101,
+   "page_end": 704
+  },
+  {
+   "no": 25,
+   "title": "كتاب الشهادات",
+   "title_id": 259,
+   "page_id": 705,
+   "vol": "3",
+   "printed_page": 116,
+   "page_end": 725
+  },
+  {
+   "no": 26,
+   "title": "كتاب الرجوع عن الشهادة",
+   "title_id": 267,
+   "page_id": 726,
+   "vol": "3",
+   "printed_page": 132,
+   "page_end": 729
+  },
+  {
+   "no": 27,
+   "title": "كتاب الوكالة",
+   "title_id": 269,
+   "page_id": 730,
+   "vol": "3",
+   "printed_page": 136,
+   "page_end": 751
+  },
+  {
+   "no": 28,
+   "title": "كتاب الدعوى",
+   "title_id": 277,
+   "page_id": 752,
+   "vol": "3",
+   "printed_page": 154,
+   "page_end": 781
+  },
+  {
+   "no": 29,
+   "title": "كتاب الإقرار",
+   "title_id": 286,
+   "page_id": 782,
+   "vol": "3",
+   "printed_page": 178,
+   "page_end": 796
+  },
+  {
+   "no": 30,
+   "title": "كتاب الصلح",
+   "title_id": 292,
+   "page_id": 797,
+   "vol": "3",
+   "printed_page": 190,
+   "page_end": 811
+  },
+  {
+   "no": 31,
+   "title": "كتاب المضاربة",
+   "title_id": 299,
+   "page_id": 812,
+   "vol": "3",
+   "printed_page": 200,
+   "page_end": 830
+  },
+  {
+   "no": 32,
+   "title": "كتاب الوديعة",
+   "title_id": 307,
+   "page_id": 831,
+   "vol": "3",
+   "printed_page": 213,
+   "page_end": 835
+  },
+  {
+   "no": 33,
+   "title": "كتاب العارية",
+   "title_id": 309,
+   "page_id": 836,
+   "vol": "3",
+   "printed_page": 218,
+   "page_end": 839
+  },
+  {
+   "no": 34,
+   "title": "كتاب الهبة",
+   "title_id": 311,
+   "page_id": 840,
+   "vol": "3",
+   "printed_page": 222,
+   "page_end": 850
+  },
+  {
+   "no": 35,
+   "title": "كتاب الإجارات",
+   "title_id": 316,
+   "page_id": 851,
+   "vol": "3",
+   "printed_page": 230,
+   "page_end": 878
+  },
+  {
+   "no": 36,
+   "title": "كتاب المكاتب",
+   "title_id": 328,
+   "page_id": 879,
+   "vol": "3",
+   "printed_page": 250,
+   "page_end": 902
+  },
+  {
+   "no": 37,
+   "title": "كتاب الولاء",
+   "title_id": 337,
+   "page_id": 903,
+   "vol": "3",
+   "printed_page": 267,
+   "page_end": 908
+  },
+  {
+   "no": 38,
+   "title": "كتاب الإكراه",
+   "title_id": 340,
+   "page_id": 909,
+   "vol": "3",
+   "printed_page": 272,
+   "page_end": 914
+  },
+  {
+   "no": 39,
+   "title": "كتاب الحجر",
+   "title_id": 343,
+   "page_id": 915,
+   "vol": "3",
+   "printed_page": 277,
+   "page_end": 925
+  },
+  {
+   "no": 40,
+   "title": "كتاب المأذون",
+   "title_id": 348,
+   "page_id": 926,
+   "vol": "4",
+   "printed_page": 287,
+   "page_end": 935
+  },
+  {
+   "no": 41,
+   "title": "كتاب الغصب",
+   "title_id": 351,
+   "page_id": 936,
+   "vol": "4",
+   "printed_page": 296,
+   "page_end": 950
+  },
+  {
+   "no": 42,
+   "title": "كتاب الشفعة",
+   "title_id": 356,
+   "page_id": 951,
+   "vol": "4",
+   "printed_page": 308,
+   "page_end": 974
+  },
+  {
+   "no": 43,
+   "title": "كتاب القسمة",
+   "title_id": 366,
+   "page_id": 975,
+   "vol": "4",
+   "printed_page": 325,
+   "page_end": 991
+  },
+  {
+   "no": 44,
+   "title": "كتاب المزارعة",
+   "title_id": 373,
+   "page_id": 992,
+   "vol": "4",
+   "printed_page": 337,
+   "page_end": 997
+  },
+  {
+   "no": 45,
+   "title": "كتاب المساقاة",
+   "title_id": 375,
+   "page_id": 998,
+   "vol": "4",
+   "printed_page": 343,
+   "page_end": 1000
+  },
+  {
+   "no": 46,
+   "title": "كتاب الذبائح",
+   "title_id": 377,
+   "page_id": 1001,
+   "vol": "4",
+   "printed_page": 346,
+   "page_end": 1010
+  },
+  {
+   "no": 47,
+   "title": "كتاب الأضحية",
+   "title_id": 380,
+   "page_id": 1011,
+   "vol": "4",
+   "printed_page": 355,
+   "page_end": 1018
+  },
+  {
+   "no": 48,
+   "title": "كتاب الكراهية",
+   "title_id": 382,
+   "page_id": 1019,
+   "vol": "4",
+   "printed_page": 363,
+   "page_end": 1043
+  },
+  {
+   "no": 49,
+   "title": "كتاب إحياء الموات",
+   "title_id": 389,
+   "page_id": 1044,
+   "vol": "4",
+   "printed_page": 383,
+   "page_end": 1056
+  },
+  {
+   "no": 50,
+   "title": "كتاب الأشربة",
+   "title_id": 395,
+   "page_id": 1057,
+   "vol": "4",
+   "printed_page": 393,
+   "page_end": 1065
+  },
+  {
+   "no": 51,
+   "title": "كتاب الصيد",
+   "title_id": 398,
+   "page_id": 1066,
+   "vol": "4",
+   "printed_page": 401,
+   "page_end": 1078
+  },
+  {
+   "no": 52,
+   "title": "كتاب الرهن",
+   "title_id": 402,
+   "page_id": 1079,
+   "vol": "4",
+   "printed_page": 412,
+   "page_end": 1113
+  },
+  {
+   "no": 53,
+   "title": "كتاب الجنايات",
+   "title_id": 409,
+   "page_id": 1114,
+   "vol": "4",
+   "printed_page": 442,
+   "page_end": 1137
+  },
+  {
+   "no": 54,
+   "title": "كتاب الديات",
+   "title_id": 418,
+   "page_id": 1138,
+   "vol": "4",
+   "printed_page": 460,
+   "page_end": 1192
+  },
+  {
+   "no": 55,
+   "title": "كتاب المعاقل",
+   "title_id": 432,
+   "page_id": 1193,
+   "vol": "4",
+   "printed_page": 506,
+   "page_end": 1199
+  },
+  {
+   "no": 56,
+   "title": "كتاب الوصايا",
+   "title_id": 434,
+   "page_id": 1200,
+   "vol": "4",
+   "printed_page": 513,
+   "page_end": 1239
+  },
+  {
+   "no": 57,
+   "title": "كتاب الخنثى",
+   "title_id": 445,
+   "page_id": 1240,
+   "vol": "4",
+   "printed_page": 546,
+   "page_end": 1246
+  }
+ ],
+ "tree": [
+  {
+   "title_id": 1,
+   "title": "كلمة دار إحياء التراث العربي",
+   "page_id": 1,
+   "vol": "1",
+   "printed_page": 5,
+   "parent": 0,
+   "children": [],
+   "kind": "other",
+   "depth": 1
+  },
+  {
+   "title_id": 2,
+   "title": "ترجمة مؤلف الهداية",
+   "page_id": 3,
+   "vol": "1",
+   "printed_page": 7,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 3,
+     "title": "نسبه",
+     "page_id": 3,
+     "vol": "1",
+     "printed_page": 7,
+     "parent": 2,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 4,
+     "title": "مولده ووفاته",
+     "page_id": 3,
+     "vol": "1",
+     "printed_page": 7,
+     "parent": 2,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 5,
+     "title": "شيوخه",
+     "page_id": 3,
+     "vol": "1",
+     "printed_page": 7,
+     "parent": 2,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 6,
+     "title": "كلام أهل عصره في شأنه",
+     "page_id": 4,
+     "vol": "1",
+     "printed_page": 8,
+     "parent": 2,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 7,
+     "title": "مؤلفاته",
+     "page_id": 4,
+     "vol": "1",
+     "printed_page": 8,
+     "parent": 2,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 8,
+     "title": "درجته بين علماء المذهب",
+     "page_id": 5,
+     "vol": "1",
+     "printed_page": 9,
+     "parent": 2,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 9,
+     "title": "آدابه وعاداته في كتابه",
+     "page_id": 6,
+     "vol": "1",
+     "printed_page": 10,
+     "parent": 2,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 10,
+     "title": "المسامحات التي وقعت في النصف الأخير من كتابه",
+     "page_id": 8,
+     "vol": "1",
+     "printed_page": 12,
+     "parent": 2,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "other",
+   "depth": 1
+  },
+  {
+   "title_id": 11,
+   "title": "مقدمة المؤلف",
+   "page_id": 10,
+   "vol": "1",
+   "printed_page": 14,
+   "parent": 0,
+   "children": [],
+   "kind": "other",
+   "depth": 1
+  },
+  {
+   "title_id": 12,
+   "title": "كتاب الطهارات",
+   "page_id": 11,
+   "vol": "1",
+   "printed_page": 15,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 13,
+     "title": "باب: الوضوء",
+     "page_id": 11,
+     "vol": "1",
+     "printed_page": 15,
+     "parent": 12,
+     "children": [
+      {
+       "title_id": 14,
+       "title": "فصل: في نواقض الوضوء",
+       "page_id": 14,
+       "vol": "1",
+       "printed_page": 17,
+       "parent": 13,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 15,
+       "title": "فصل: في الغسل",
+       "page_id": 17,
+       "vol": "1",
+       "printed_page": 19,
+       "parent": 13,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 16,
+     "title": "باب: الماء الذي يجوز به الوضوء وما لا يجوز",
+     "page_id": 19,
+     "vol": "1",
+     "printed_page": 20,
+     "parent": 12,
+     "children": [
+      {
+       "title_id": 17,
+       "title": "فصل: في البئر",
+       "page_id": 23,
+       "vol": "1",
+       "printed_page": 24,
+       "parent": 16,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 18,
+       "title": "فصل: في الأسآر وغيرها",
+       "page_id": 25,
+       "vol": "1",
+       "printed_page": 25,
+       "parent": 16,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 19,
+     "title": "باب: التيمم",
+     "page_id": 28,
+     "vol": "1",
+     "printed_page": 27,
+     "parent": 12,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 20,
+     "title": "باب: المسح على الخفين",
+     "page_id": 32,
+     "vol": "1",
+     "printed_page": 31,
+     "parent": 12,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 21,
+     "title": "باب: الحيض والاستحاضة",
+     "page_id": 34,
+     "vol": "1",
+     "printed_page": 32,
+     "parent": 12,
+     "children": [
+      {
+       "title_id": 22,
+       "title": "فصل: في الاستحاضة",
+       "page_id": 37,
+       "vol": "1",
+       "printed_page": 34,
+       "parent": 21,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 23,
+       "title": "فصل: في النفاس",
+       "page_id": 39,
+       "vol": "1",
+       "printed_page": 35,
+       "parent": 21,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 24,
+     "title": "باب: الأنجاس وتطهيرها",
+     "page_id": 41,
+     "vol": "1",
+     "printed_page": 36,
+     "parent": 12,
+     "children": [
+      {
+       "title_id": 25,
+       "title": "فصل: في الاستنجاء",
+       "page_id": 44,
+       "vol": "1",
+       "printed_page": 38,
+       "parent": 24,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 1
+  },
+  {
+   "title_id": 26,
+   "title": "كتاب الصلاة",
+   "page_id": 46,
+   "vol": "1",
+   "printed_page": 40,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 27,
+     "title": "باب: المواقيت",
+     "page_id": 46,
+     "vol": "1",
+     "printed_page": 40,
+     "parent": 26,
+     "children": [
+      {
+       "title_id": 28,
+       "title": "فصل",
+       "page_id": 48,
+       "vol": "1",
+       "printed_page": 41,
+       "parent": 27,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 29,
+       "title": "فصل: في الأوقات التي تكره فيها الصلاة",
+       "page_id": 50,
+       "vol": "1",
+       "printed_page": 42,
+       "parent": 27,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 30,
+     "title": "باب: الأذان",
+     "page_id": 52,
+     "vol": "1",
+     "printed_page": 43,
+     "parent": 26,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 31,
+     "title": "باب: شروط الصلاة التي تتقدمها",
+     "page_id": 55,
+     "vol": "1",
+     "printed_page": 45,
+     "parent": 26,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 32,
+     "title": "باب: صفة الصلاة",
+     "page_id": 58,
+     "vol": "1",
+     "printed_page": 47,
+     "parent": 26,
+     "children": [
+      {
+       "title_id": 33,
+       "title": "فصل: في القراءة",
+       "page_id": 66,
+       "vol": "1",
+       "printed_page": 54,
+       "parent": 32,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 34,
+     "title": "باب: الإمامة",
+     "page_id": 69,
+     "vol": "1",
+     "printed_page": 56,
+     "parent": 26,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 35,
+     "title": "باب: الحدث في الصلاة",
+     "page_id": 73,
+     "vol": "1",
+     "printed_page": 59,
+     "parent": 26,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 36,
+     "title": "باب: ما يفسد الصلاة وما يكره فيها",
+     "page_id": 77,
+     "vol": "1",
+     "printed_page": 62,
+     "parent": 26,
+     "children": [
+      {
+       "title_id": 37,
+       "title": "فصل: ويكره للمصلي إلخ",
+       "page_id": 80,
+       "vol": "1",
+       "printed_page": 64,
+       "parent": 36,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 38,
+       "title": "فصل: ويكره استقبال القبلة بالفرج في الخلاء",
+       "page_id": 82,
+       "vol": "1",
+       "printed_page": 65,
+       "parent": 36,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 39,
+     "title": "باب: صلاة الوتر",
+     "page_id": 84,
+     "vol": "1",
+     "printed_page": 66,
+     "parent": 26,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 40,
+     "title": "باب: النوافل",
+     "page_id": 86,
+     "vol": "1",
+     "printed_page": 67,
+     "parent": 26,
+     "children": [
+      {
+       "title_id": 41,
+       "title": "فصل: في القراءة",
+       "page_id": 87,
+       "vol": "1",
+       "printed_page": 67,
+       "parent": 40,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 42,
+       "title": "فصل: في قيام شهر رمضان",
+       "page_id": 91,
+       "vol": "1",
+       "printed_page": 70,
+       "parent": 40,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 43,
+     "title": "باب: إدراك الفريضة",
+     "page_id": 92,
+     "vol": "1",
+     "printed_page": 71,
+     "parent": 26,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 44,
+     "title": "باب: قضاء الفوائت",
+     "page_id": 94,
+     "vol": "1",
+     "printed_page": 72,
+     "parent": 26,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 45,
+     "title": "باب: سجود السهو",
+     "page_id": 97,
+     "vol": "1",
+     "printed_page": 74,
+     "parent": 26,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 46,
+     "title": "باب: صلاة المريض",
+     "page_id": 100,
+     "vol": "1",
+     "printed_page": 76,
+     "parent": 26,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 47,
+     "title": "باب: سجود التلاوة",
+     "page_id": 103,
+     "vol": "1",
+     "printed_page": 78,
+     "parent": 26,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 48,
+     "title": "باب: صلاة المسافر",
+     "page_id": 106,
+     "vol": "1",
+     "printed_page": 80,
+     "parent": 26,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 49,
+     "title": "باب: صلاة الجمعة",
+     "page_id": 108,
+     "vol": "1",
+     "printed_page": 82,
+     "parent": 26,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 50,
+     "title": "باب: صلاة العيدين",
+     "page_id": 111,
+     "vol": "1",
+     "printed_page": 84,
+     "parent": 26,
+     "children": [
+      {
+       "title_id": 51,
+       "title": "فصل: في تكبيرات التشريق",
+       "page_id": 114,
+       "vol": "1",
+       "printed_page": 86,
+       "parent": 50,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 52,
+     "title": "باب: صلاة الكسوف",
+     "page_id": 115,
+     "vol": "1",
+     "printed_page": 86,
+     "parent": 26,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 53,
+     "title": "باب: الاستسقاء",
+     "page_id": 117,
+     "vol": "1",
+     "printed_page": 87,
+     "parent": 26,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 54,
+     "title": "باب: صلاة الخوف",
+     "page_id": 118,
+     "vol": "1",
+     "printed_page": 87,
+     "parent": 26,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 55,
+     "title": "باب: الجنائز",
+     "page_id": 120,
+     "vol": "1",
+     "printed_page": 88,
+     "parent": 26,
+     "children": [
+      {
+       "title_id": 56,
+       "title": "فصل: في الغسل",
+       "page_id": 121,
+       "vol": "1",
+       "printed_page": 88,
+       "parent": 55,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 57,
+       "title": "فصل: في التكفين",
+       "page_id": 123,
+       "vol": "1",
+       "printed_page": 89,
+       "parent": 55,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 58,
+       "title": "فصل: في الصلاة على الميت",
+       "page_id": 124,
+       "vol": "1",
+       "printed_page": 90,
+       "parent": 55,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 59,
+       "title": "فصل: في حمل الجنازة",
+       "page_id": 126,
+       "vol": "1",
+       "printed_page": 91,
+       "parent": 55,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 60,
+       "title": "فصل: في الدفن",
+       "page_id": 127,
+       "vol": "1",
+       "printed_page": 91,
+       "parent": 55,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 61,
+     "title": "باب: الشهيد",
+     "page_id": 129,
+     "vol": "1",
+     "printed_page": 92,
+     "parent": 26,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 62,
+     "title": "باب: الصلاة في الكعبة",
+     "page_id": 131,
+     "vol": "1",
+     "printed_page": 93,
+     "parent": 26,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 2
+  },
+  {
+   "title_id": 63,
+   "title": "كتاب الزكاة",
+   "page_id": 133,
+   "vol": "1",
+   "printed_page": 95,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 64,
+     "title": "التكليف",
+     "page_id": 133,
+     "vol": "1",
+     "printed_page": 95,
+     "parent": 63,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 65,
+     "title": "باب: صدقة السوائم",
+     "page_id": 136,
+     "vol": "1",
+     "printed_page": 97,
+     "parent": 63,
+     "children": [
+      {
+       "title_id": 66,
+       "title": "فصل: في الإبل",
+       "page_id": 136,
+       "vol": "1",
+       "printed_page": 97,
+       "parent": 65,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 67,
+       "title": "فصل: في البقر",
+       "page_id": 138,
+       "vol": "1",
+       "printed_page": 98,
+       "parent": 65,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 68,
+       "title": "فصل: في الغنم",
+       "page_id": 139,
+       "vol": "1",
+       "printed_page": 98,
+       "parent": 65,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 69,
+       "title": "فصل: في الخيل",
+       "page_id": 141,
+       "vol": "1",
+       "printed_page": 99,
+       "parent": 65,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 70,
+       "title": "فصل: وليس في الفصلان والحملان والعجاجيل صدقة",
+       "page_id": 142,
+       "vol": "1",
+       "printed_page": 99,
+       "parent": 65,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 71,
+     "title": "باب: زكاة المال",
+     "page_id": 145,
+     "vol": "1",
+     "printed_page": 102,
+     "parent": 63,
+     "children": [
+      {
+       "title_id": 72,
+       "title": "فصل: في الفضة",
+       "page_id": 145,
+       "vol": "1",
+       "printed_page": 102,
+       "parent": 71,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 73,
+       "title": "فصل: في الذهب",
+       "page_id": 146,
+       "vol": "1",
+       "printed_page": 102,
+       "parent": 71,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 74,
+       "title": "فصل: في العروض",
+       "page_id": 148,
+       "vol": "1",
+       "printed_page": 103,
+       "parent": 71,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 75,
+     "title": "باب: فيمن يمر على العاشر",
+     "page_id": 150,
+     "vol": "1",
+     "printed_page": 104,
+     "parent": 63,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 76,
+     "title": "باب: في المعادن والركاز",
+     "page_id": 153,
+     "vol": "1",
+     "printed_page": 106,
+     "parent": 63,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 77,
+     "title": "باب: زكاة الزروع والثمار",
+     "page_id": 155,
+     "vol": "1",
+     "printed_page": 107,
+     "parent": 63,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 78,
+     "title": "باب: من يجوز دفع الصدقة إليه ومن لا يجوز",
+     "page_id": 159,
+     "vol": "1",
+     "printed_page": 110,
+     "parent": 63,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 79,
+     "title": "باب: صدقة الفطر",
+     "page_id": 163,
+     "vol": "1",
+     "printed_page": 113,
+     "parent": 63,
+     "children": [
+      {
+       "title_id": 80,
+       "title": "فصل: في مقدار الواجب ووقته",
+       "page_id": 165,
+       "vol": "1",
+       "printed_page": 114,
+       "parent": 79,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 3
+  },
+  {
+   "title_id": 81,
+   "title": "كتاب الصوم",
+   "page_id": 167,
+   "vol": "1",
+   "printed_page": 116,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 82,
+     "title": "ضروب الصوم",
+     "page_id": 167,
+     "vol": "1",
+     "printed_page": 116,
+     "parent": 81,
+     "children": [
+      {
+       "title_id": 83,
+       "title": "فصل في رؤية الهلال",
+       "page_id": 169,
+       "vol": "1",
+       "printed_page": 117,
+       "parent": 82,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 84,
+     "title": "باب ما يوجب القضاء والكفارة",
+     "page_id": 173,
+     "vol": "1",
+     "printed_page": 120,
+     "parent": 81,
+     "children": [
+      {
+       "title_id": 85,
+       "title": "فصل في من كان مريضا في رمضان إلخ",
+       "page_id": 177,
+       "vol": "1",
+       "printed_page": 123,
+       "parent": 84,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 86,
+       "title": "فصل فيما يوجبه على نفسه",
+       "page_id": 182,
+       "vol": "1",
+       "printed_page": 128,
+       "parent": 84,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 87,
+     "title": "باب الاعتكاف",
+     "page_id": 184,
+     "vol": "1",
+     "printed_page": 129,
+     "parent": 81,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 4
+  },
+  {
+   "title_id": 88,
+   "title": "كتاب الحج",
+   "page_id": 187,
+   "vol": "1",
+   "printed_page": 132,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 89,
+     "title": "وجوب الحج",
+     "page_id": 187,
+     "vol": "1",
+     "printed_page": 132,
+     "parent": 88,
+     "children": [
+      {
+       "title_id": 90,
+       "title": "فصل في المواقيت التي لا يجوز أن يجاوزها الإنسان إلا محرما",
+       "page_id": 189,
+       "vol": "1",
+       "printed_page": 133,
+       "parent": 89,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 91,
+     "title": "باب الإحرام",
+     "page_id": 191,
+     "vol": "1",
+     "printed_page": 134,
+     "parent": 88,
+     "children": [
+      {
+       "title_id": 92,
+       "title": "فصل وإذا لم يدخل المحرم مكة وتوجه إلى عرفات",
+       "page_id": 206,
+       "vol": "1",
+       "printed_page": 148,
+       "parent": 91,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 93,
+     "title": "باب القران",
+     "page_id": 209,
+     "vol": "1",
+     "printed_page": 150,
+     "parent": 88,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 94,
+     "title": "باب التمتع",
+     "page_id": 212,
+     "vol": "1",
+     "printed_page": 153,
+     "parent": 88,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 95,
+     "title": "باب الجنايات",
+     "page_id": 216,
+     "vol": "1",
+     "printed_page": 156,
+     "parent": 88,
+     "children": [
+      {
+       "title_id": 96,
+       "title": "فصل فإن نظر إلى فرج امرأته بشهوة إلخ",
+       "page_id": 221,
+       "vol": "1",
+       "printed_page": 160,
+       "parent": 95,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 97,
+       "title": "فصل ومن طاف طواف القدوم محدثا فعليه صدقة",
+       "page_id": 223,
+       "vol": "1",
+       "printed_page": 161,
+       "parent": 95,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 98,
+       "title": "فصل جزاء الصيد",
+       "page_id": 227,
+       "vol": "1",
+       "printed_page": 165,
+       "parent": 95,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 99,
+     "title": "باب مجاوزة الوقت بغير إحرام",
+     "page_id": 235,
+     "vol": "1",
+     "printed_page": 172,
+     "parent": 88,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 100,
+     "title": "باب إضافة الإحرام إلى الإحرام",
+     "page_id": 237,
+     "vol": "1",
+     "printed_page": 173,
+     "parent": 88,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 101,
+     "title": "باب الإحصار",
+     "page_id": 240,
+     "vol": "1",
+     "printed_page": 175,
+     "parent": 88,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 102,
+     "title": "باب الفوات",
+     "page_id": 243,
+     "vol": "1",
+     "printed_page": 177,
+     "parent": 88,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 103,
+     "title": "باب الحج عن الغير",
+     "page_id": 245,
+     "vol": "1",
+     "printed_page": 178,
+     "parent": 88,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 104,
+     "title": "باب الهدي",
+     "page_id": 248,
+     "vol": "1",
+     "printed_page": 180,
+     "parent": 88,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 105,
+     "title": "مسائل منثورة",
+     "page_id": 252,
+     "vol": "1",
+     "printed_page": 183,
+     "parent": 88,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 5
+  },
+  {
+   "title_id": 106,
+   "title": "كتاب النكاح",
+   "page_id": 254,
+   "vol": "1",
+   "printed_page": 185,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 107,
+     "title": "العقد",
+     "page_id": 254,
+     "vol": "1",
+     "printed_page": 185,
+     "parent": 106,
+     "children": [
+      {
+       "title_id": 108,
+       "title": "فصل في بيان المحرمات",
+       "page_id": 256,
+       "vol": "1",
+       "printed_page": 186,
+       "parent": 107,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 109,
+     "title": "باب في الأولياء والأكفاء",
+     "page_id": 262,
+     "vol": "1",
+     "printed_page": 191,
+     "parent": 106,
+     "children": [
+      {
+       "title_id": 110,
+       "title": "فصل في الكفاءة",
+       "page_id": 267,
+       "vol": "1",
+       "printed_page": 195,
+       "parent": 109,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 111,
+       "title": "فصل في الوكالة بالنكاح وغيرها",
+       "page_id": 270,
+       "vol": "1",
+       "printed_page": 197,
+       "parent": 109,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 112,
+     "title": "باب المهر",
+     "page_id": 272,
+     "vol": "1",
+     "printed_page": 198,
+     "parent": 106,
+     "children": [
+      {
+       "title_id": 113,
+       "title": "فصل إذا تزوج النصراني النصرانية على ميتة وغيرها",
+       "page_id": 283,
+       "vol": "1",
+       "printed_page": 208,
+       "parent": 112,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 114,
+     "title": "باب نكاح الرقيق",
+     "page_id": 285,
+     "vol": "1",
+     "printed_page": 209,
+     "parent": 106,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 115,
+     "title": "باب نكاح أهل الشرك",
+     "page_id": 289,
+     "vol": "1",
+     "printed_page": 212,
+     "parent": 106,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 116,
+     "title": "باب القسم",
+     "page_id": 293,
+     "vol": "1",
+     "printed_page": 215,
+     "parent": 106,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 6
+  },
+  {
+   "title_id": 117,
+   "title": "كتاب الرضاع",
+   "page_id": 295,
+   "vol": "1",
+   "printed_page": 217,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 118,
+     "title": "ما يحرم بالرضاع",
+     "page_id": 295,
+     "vol": "1",
+     "printed_page": 217,
+     "parent": 117,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 7
+  },
+  {
+   "title_id": 119,
+   "title": "كتاب الطلاق",
+   "page_id": 299,
+   "vol": "1",
+   "printed_page": 221,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 120,
+     "title": "باب طلاق السنة",
+     "page_id": 299,
+     "vol": "1",
+     "printed_page": 221,
+     "parent": 119,
+     "children": [
+      {
+       "title_id": 121,
+       "title": "فصل ويقع طلاق كل زوج ألخ",
+       "page_id": 303,
+       "vol": "1",
+       "printed_page": 224,
+       "parent": 120,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 122,
+     "title": "باب ايقاع الطلاق",
+     "page_id": 304,
+     "vol": "1",
+     "printed_page": 225,
+     "parent": 119,
+     "children": [
+      {
+       "title_id": 123,
+       "title": "فصل في إضافة الطلاق الى الزمان",
+       "page_id": 308,
+       "vol": "1",
+       "printed_page": 228,
+       "parent": 122,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 124,
+       "title": "فصل ومن قال لامرأته أنا منك طالق",
+       "page_id": 311,
+       "vol": "1",
+       "printed_page": 230,
+       "parent": 122,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 125,
+       "title": "فصل في تشبيه الطلاق ووصفه",
+       "page_id": 314,
+       "vol": "1",
+       "printed_page": 232,
+       "parent": 122,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 126,
+       "title": "فصل في الطلاق قبل الدخول",
+       "page_id": 316,
+       "vol": "1",
+       "printed_page": 233,
+       "parent": 122,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 127,
+     "title": "باب تفويض الطلاق",
+     "page_id": 320,
+     "vol": "1",
+     "printed_page": 236,
+     "parent": 119,
+     "children": [
+      {
+       "title_id": 128,
+       "title": "فصل في الاختيار",
+       "page_id": 320,
+       "vol": "1",
+       "printed_page": 236,
+       "parent": 127,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 129,
+       "title": "فصل في الأمر باليد",
+       "page_id": 323,
+       "vol": "1",
+       "printed_page": 238,
+       "parent": 127,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 130,
+       "title": "فصل في المشيئة",
+       "page_id": 326,
+       "vol": "1",
+       "printed_page": 240,
+       "parent": 127,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 131,
+     "title": "باب الأيمان في الطلاق",
+     "page_id": 330,
+     "vol": "1",
+     "printed_page": 243,
+     "parent": 119,
+     "children": [
+      {
+       "title_id": 132,
+       "title": "فصل في الاستثناء",
+       "page_id": 335,
+       "vol": "1",
+       "printed_page": 247,
+       "parent": 131,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 8
+  },
+  {
+   "title_id": 133,
+   "title": "تابع كتاب الطلاق",
+   "page_id": 336,
+   "vol": "2",
+   "printed_page": 251,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 134,
+     "title": "باب طلاق المريض",
+     "page_id": 336,
+     "vol": "2",
+     "printed_page": 251,
+     "parent": 133,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 135,
+     "title": "باب الرجعة",
+     "page_id": 340,
+     "vol": "2",
+     "printed_page": 254,
+     "parent": 133,
+     "children": [
+      {
+       "title_id": 136,
+       "title": "فصل فيما تحل به المطلقة",
+       "page_id": 344,
+       "vol": "2",
+       "printed_page": 257,
+       "parent": 135,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 137,
+     "title": "باب الإيلاء",
+     "page_id": 347,
+     "vol": "2",
+     "printed_page": 259,
+     "parent": 133,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 138,
+     "title": "باب الخلع",
+     "page_id": 350,
+     "vol": "2",
+     "printed_page": 261,
+     "parent": 133,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 139,
+     "title": "باب الظهار",
+     "page_id": 354,
+     "vol": "2",
+     "printed_page": 265,
+     "parent": 133,
+     "children": [
+      {
+       "title_id": 140,
+       "title": "فصل في الكفارة",
+       "page_id": 356,
+       "vol": "2",
+       "printed_page": 266,
+       "parent": 139,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 141,
+     "title": "باب اللعان",
+     "page_id": 361,
+     "vol": "2",
+     "printed_page": 270,
+     "parent": 133,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 142,
+     "title": "باب العنين وغيره",
+     "page_id": 364,
+     "vol": "2",
+     "printed_page": 273,
+     "parent": 133,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 143,
+     "title": "باب العدة",
+     "page_id": 366,
+     "vol": "2",
+     "printed_page": 274,
+     "parent": 133,
+     "children": [
+      {
+       "title_id": 144,
+       "title": "فصل وعلى المبتونة والمتوفى عنها زوجها إذا كانت بالغة مسلمة الحداد",
+       "page_id": 370,
+       "vol": "2",
+       "printed_page": 278,
+       "parent": 143,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 145,
+     "title": "باب ثبوت النسب",
+     "page_id": 373,
+     "vol": "2",
+     "printed_page": 280,
+     "parent": 133,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 146,
+     "title": "باب الولد من أحق به",
+     "page_id": 377,
+     "vol": "2",
+     "printed_page": 283,
+     "parent": 133,
+     "children": [
+      {
+       "title_id": 147,
+       "title": "فصل وإذا أرادت المطلقة أن تخرج بولدها من المصر فليس لها ذلك",
+       "page_id": 379,
+       "vol": "2",
+       "printed_page": 285,
+       "parent": 146,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 148,
+     "title": "باب النفقة",
+     "page_id": 380,
+     "vol": "2",
+     "printed_page": 285,
+     "parent": 133,
+     "children": [
+      {
+       "title_id": 149,
+       "title": "فصل وعلى الزوج أن يسكنها في دار مفردة ليس فيها أحد من أهله ألا أن تختار ذلك",
+       "page_id": 384,
+       "vol": "2",
+       "printed_page": 288,
+       "parent": 148,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 150,
+       "title": "فصل: وإذا طلق الرجل امرأته فلها النفقة والسكنى في عدتها رجعيا كان أو بائنا",
+       "page_id": 387,
+       "vol": "2",
+       "printed_page": 290,
+       "parent": 148,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 151,
+       "title": "فصل: ونفقة الأولاد الصغار على الأب لا يشاركه فيها أحد كما لا يشاركه في نفقة الزوجة",
+       "page_id": 389,
+       "vol": "2",
+       "printed_page": 291,
+       "parent": 148,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 152,
+       "title": "فصل: وعلى الرجل أن ينفق على أبويه وأجداده وجدته إذا كانوا فقراء وإن خالفوه في دينه",
+       "page_id": 391,
+       "vol": "2",
+       "printed_page": 292,
+       "parent": 148,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 153,
+       "title": "فصل وعلى المولى أن ينفق على أمته وعبده",
+       "page_id": 394,
+       "vol": "2",
+       "printed_page": 294,
+       "parent": 148,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "other",
+   "depth": 1
+  },
+  {
+   "title_id": 154,
+   "title": "كتاب العتاق",
+   "page_id": 396,
+   "vol": "2",
+   "printed_page": 296,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 155,
+     "title": "شروط الاعتاق",
+     "page_id": 396,
+     "vol": "2",
+     "printed_page": 296,
+     "parent": 154,
+     "children": [
+      {
+       "title_id": 156,
+       "title": "فصل: ومن ملك ذا رحم محرم منه عتق عليه",
+       "page_id": 400,
+       "vol": "2",
+       "printed_page": 299,
+       "parent": 155,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 157,
+     "title": "باب العبد يعتق بعضه",
+     "page_id": 403,
+     "vol": "2",
+     "printed_page": 301,
+     "parent": 154,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 158,
+     "title": "باب عتق أحد العبدين",
+     "page_id": 409,
+     "vol": "2",
+     "printed_page": 306,
+     "parent": 154,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 159,
+     "title": "باب الحلف بالعتق",
+     "page_id": 413,
+     "vol": "2",
+     "printed_page": 309,
+     "parent": 154,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 160,
+     "title": "باب العتق على جعل",
+     "page_id": 415,
+     "vol": "2",
+     "printed_page": 310,
+     "parent": 154,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 161,
+     "title": "باب التدبير",
+     "page_id": 418,
+     "vol": "2",
+     "printed_page": 312,
+     "parent": 154,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 162,
+     "title": "باب الاستيلاد",
+     "page_id": 420,
+     "vol": "2",
+     "printed_page": 313,
+     "parent": 154,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 9
+  },
+  {
+   "title_id": 163,
+   "title": "كتاب الأيمان",
+   "page_id": 424,
+   "vol": "2",
+   "printed_page": 317,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 164,
+     "title": "أضرب الأيمان",
+     "page_id": 424,
+     "vol": "2",
+     "printed_page": 317,
+     "parent": 163,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 165,
+     "title": "باب ما يكون يمينا وما لا يكون يمينا",
+     "page_id": 425,
+     "vol": "2",
+     "printed_page": 318,
+     "parent": 163,
+     "children": [
+      {
+       "title_id": 166,
+       "title": "فصل في الكفارة",
+       "page_id": 427,
+       "vol": "2",
+       "printed_page": 319,
+       "parent": 165,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 167,
+     "title": "باب اليمين في الدخول والسكنى",
+     "page_id": 430,
+     "vol": "2",
+     "printed_page": 321,
+     "parent": 163,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 168,
+     "title": "باب اليمين في الخروج والإتيان والركوب وغير ذلك",
+     "page_id": 433,
+     "vol": "2",
+     "printed_page": 323,
+     "parent": 163,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 169,
+     "title": "باب اليمين في الأكل والشرب",
+     "page_id": 435,
+     "vol": "2",
+     "printed_page": 324,
+     "parent": 163,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 170,
+     "title": "باب اليمين في الكلام",
+     "page_id": 440,
+     "vol": "2",
+     "printed_page": 328,
+     "parent": 163,
+     "children": [
+      {
+       "title_id": 171,
+       "title": "فصل ومن حلف لا يكلمه حينا ولا زمنا إلخ",
+       "page_id": 443,
+       "vol": "2",
+       "printed_page": 330,
+       "parent": 170,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 172,
+     "title": "باب اليمين في العتق والطلاق",
+     "page_id": 445,
+     "vol": "2",
+     "printed_page": 331,
+     "parent": 163,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 173,
+     "title": "باب اليمين في البيع والشراء والتزوج وغير ذلك",
+     "page_id": 448,
+     "vol": "2",
+     "printed_page": 333,
+     "parent": 163,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 174,
+     "title": "باب اليمين في الحج والصلاة والصوم",
+     "page_id": 450,
+     "vol": "2",
+     "printed_page": 335,
+     "parent": 163,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 175,
+     "title": "باب اليمين في لبس الثياب والحلي وغير ذلك",
+     "page_id": 452,
+     "vol": "2",
+     "printed_page": 336,
+     "parent": 163,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 176,
+     "title": "باب اليمين في القتل والضرب وغيره",
+     "page_id": 453,
+     "vol": "2",
+     "printed_page": 336,
+     "parent": 163,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 177,
+     "title": "باب اليمين في تقاضي الدراهم",
+     "page_id": 455,
+     "vol": "2",
+     "printed_page": 337,
+     "parent": 163,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 178,
+     "title": "مسائل متفرقة",
+     "page_id": 457,
+     "vol": "2",
+     "printed_page": 338,
+     "parent": 163,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 10
+  },
+  {
+   "title_id": 179,
+   "title": "كتاب الحدود",
+   "page_id": 458,
+   "vol": "2",
+   "printed_page": 339,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 180,
+     "title": "حد الزنا",
+     "page_id": 458,
+     "vol": "2",
+     "printed_page": 339,
+     "parent": 179,
+     "children": [
+      {
+       "title_id": 181,
+       "title": "فصل في كيفية الحد وإقامته",
+       "page_id": 460,
+       "vol": "2",
+       "printed_page": 341,
+       "parent": 180,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 182,
+     "title": "باب الوطء الذي يوجب الحد والذي لا يوجبه",
+     "page_id": 464,
+     "vol": "2",
+     "printed_page": 344,
+     "parent": 179,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 183,
+     "title": "باب الشهادة على الزنا والرجوع عنها",
+     "page_id": 470,
+     "vol": "2",
+     "printed_page": 349,
+     "parent": 179,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 184,
+     "title": "باب حد الشرب",
+     "page_id": 476,
+     "vol": "2",
+     "printed_page": 354,
+     "parent": 179,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 185,
+     "title": "باب حد القذف",
+     "page_id": 478,
+     "vol": "2",
+     "printed_page": 355,
+     "parent": 179,
+     "children": [
+      {
+       "title_id": 186,
+       "title": "فصل في التعزير",
+       "page_id": 484,
+       "vol": "2",
+       "printed_page": 360,
+       "parent": 185,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 11
+  },
+  {
+   "title_id": 187,
+   "title": "كتاب السرقة",
+   "page_id": 486,
+   "vol": "2",
+   "printed_page": 362,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 188,
+     "title": "جزاء السارق",
+     "page_id": 486,
+     "vol": "2",
+     "printed_page": 362,
+     "parent": 187,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 189,
+     "title": "باب ما يقطع فيه ومالا يقطع",
+     "page_id": 488,
+     "vol": "2",
+     "printed_page": 363,
+     "parent": 187,
+     "children": [
+      {
+       "title_id": 190,
+       "title": "فصل في الحرز والأخذ منه",
+       "page_id": 492,
+       "vol": "2",
+       "printed_page": 366,
+       "parent": 189,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 191,
+       "title": "فصل في كيفية القطع وإثباته",
+       "page_id": 496,
+       "vol": "2",
+       "printed_page": 369,
+       "parent": 189,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 192,
+     "title": "باب ما يحدث للسارق في السرقة",
+     "page_id": 502,
+     "vol": "2",
+     "printed_page": 374,
+     "parent": 187,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 193,
+     "title": "باب قطع الطريق",
+     "page_id": 504,
+     "vol": "2",
+     "printed_page": 375,
+     "parent": 187,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 12
+  },
+  {
+   "title_id": 194,
+   "title": "كتاب السير",
+   "page_id": 507,
+   "vol": "2",
+   "printed_page": 378,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 195,
+     "title": "الجهاد",
+     "page_id": 507,
+     "vol": "2",
+     "printed_page": 378,
+     "parent": 194,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 196,
+     "title": "باب كيفية القتال",
+     "page_id": 509,
+     "vol": "2",
+     "printed_page": 379,
+     "parent": 194,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 197,
+     "title": "باب الموادعة ومن يجوز أمانه",
+     "page_id": 512,
+     "vol": "2",
+     "printed_page": 381,
+     "parent": 194,
+     "children": [
+      {
+       "title_id": 198,
+       "title": "فصل في الأمان",
+       "page_id": 514,
+       "vol": "2",
+       "printed_page": 382,
+       "parent": 197,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 199,
+     "title": "باب الغنائم وقسمتها",
+     "page_id": 516,
+     "vol": "2",
+     "printed_page": 384,
+     "parent": 194,
+     "children": [
+      {
+       "title_id": 200,
+       "title": "فصل في كيفية القسمة",
+       "page_id": 521,
+       "vol": "2",
+       "printed_page": 388,
+       "parent": 199,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 201,
+       "title": "فصل في التنفيل",
+       "page_id": 525,
+       "vol": "2",
+       "printed_page": 391,
+       "parent": 199,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 202,
+     "title": "باب استيلاء الكفار",
+     "page_id": 527,
+     "vol": "2",
+     "printed_page": 392,
+     "parent": 194,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 203,
+     "title": "باب المستأمن",
+     "page_id": 530,
+     "vol": "2",
+     "printed_page": 395,
+     "parent": 194,
+     "children": [
+      {
+       "title_id": 204,
+       "title": "فصل وإذا دخل الحربي إلينا مستأمنا إلخ",
+       "page_id": 532,
+       "vol": "2",
+       "printed_page": 396,
+       "parent": 203,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 205,
+     "title": "باب العشر والخراج",
+     "page_id": 535,
+     "vol": "2",
+     "printed_page": 398,
+     "parent": 194,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 206,
+     "title": "باب الجزية",
+     "page_id": 539,
+     "vol": "2",
+     "printed_page": 401,
+     "parent": 194,
+     "children": [
+      {
+       "title_id": 207,
+       "title": "فصل ولا يجوز إحداث بيعة ولا كنيسة في دار الإسلام",
+       "page_id": 543,
+       "vol": "2",
+       "printed_page": 404,
+       "parent": 206,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 208,
+       "title": "فصل ونصارى بني تغلب يؤخذ من أمواهم ضعف ما يؤخذ من المسلمين من الزكاة",
+       "page_id": 545,
+       "vol": "2",
+       "printed_page": 405,
+       "parent": 206,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 209,
+     "title": "باب أحكام المرتدين",
+     "page_id": 547,
+     "vol": "2",
+     "printed_page": 406,
+     "parent": 194,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 210,
+     "title": "باب البغاة",
+     "page_id": 553,
+     "vol": "2",
+     "printed_page": 411,
+     "parent": 194,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 13
+  },
+  {
+   "title_id": 211,
+   "title": "كتاب اللقيط",
+   "page_id": 557,
+   "vol": "2",
+   "printed_page": 415,
+   "parent": 0,
+   "children": [],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 14
+  },
+  {
+   "title_id": 212,
+   "title": "كتاب اللقطة",
+   "page_id": 559,
+   "vol": "2",
+   "printed_page": 417,
+   "parent": 0,
+   "children": [],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 15
+  },
+  {
+   "title_id": 213,
+   "title": "كتاب الإباق",
+   "page_id": 563,
+   "vol": "2",
+   "printed_page": 421,
+   "parent": 0,
+   "children": [],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 16
+  },
+  {
+   "title_id": 214,
+   "title": "كتاب المفقود",
+   "page_id": 565,
+   "vol": "2",
+   "printed_page": 423,
+   "parent": 0,
+   "children": [],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 17
+  },
+  {
+   "title_id": 215,
+   "title": "كتاب الشركة",
+   "page_id": 568,
+   "vol": "3",
+   "printed_page": 5,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 216,
+     "title": "ضروب الشركة",
+     "page_id": 568,
+     "vol": "3",
+     "printed_page": 5,
+     "parent": 215,
+     "children": [
+      {
+       "title_id": 217,
+       "title": "فصل: و لا تنعقد الشركة إلا بالدراهم و الدنانير و الفلوس النافقة",
+       "page_id": 571,
+       "vol": "3",
+       "printed_page": 7,
+       "parent": 216,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 218,
+       "title": "فصل: في الشركة الفاسدة",
+       "page_id": 578,
+       "vol": "3",
+       "printed_page": 13,
+       "parent": 216,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 219,
+       "title": "فصل: ليس لأحد الشريكين أن يؤدي زكاة مال الآخر إلا بإذنه",
+       "page_id": 579,
+       "vol": "3",
+       "printed_page": 14,
+       "parent": 216,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 18
+  },
+  {
+   "title_id": 220,
+   "title": "كتاب الوقف",
+   "page_id": 580,
+   "vol": "3",
+   "printed_page": 15,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 221,
+     "title": "شروط الوقف",
+     "page_id": 580,
+     "vol": "3",
+     "printed_page": 15,
+     "parent": 220,
+     "children": [
+      {
+       "title_id": 222,
+       "title": "فصل: و إذا بنى مسجدا لم يزل ملكه عنه حتى يفرزه عن ملكه الخ",
+       "page_id": 586,
+       "vol": "3",
+       "printed_page": 20,
+       "parent": 221,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 19
+  },
+  {
+   "title_id": 223,
+   "title": "كتاب البيوع",
+   "page_id": 589,
+   "vol": "3",
+   "printed_page": 23,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 224,
+     "title": "كيفية انعقاد البيع",
+     "page_id": 589,
+     "vol": "3",
+     "printed_page": 23,
+     "parent": 223,
+     "children": [
+      {
+       "title_id": 225,
+       "title": "فصل: و من باع دارا دخل بناؤها في البيع و إن لم يسمه",
+       "page_id": 593,
+       "vol": "3",
+       "printed_page": 26,
+       "parent": 224,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 226,
+     "title": "باب خيار الشرط",
+     "page_id": 597,
+     "vol": "3",
+     "printed_page": 29,
+     "parent": 223,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 227,
+     "title": "باب خيار الرؤية",
+     "page_id": 603,
+     "vol": "3",
+     "printed_page": 34,
+     "parent": 223,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 228,
+     "title": "باب خيار العيب",
+     "page_id": 606,
+     "vol": "3",
+     "printed_page": 36,
+     "parent": 223,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 229,
+     "title": "باب البيع الفاسد",
+     "page_id": 613,
+     "vol": "3",
+     "printed_page": 42,
+     "parent": 223,
+     "children": [
+      {
+       "title_id": 230,
+       "title": "فصل: في أحكامه",
+       "page_id": 623,
+       "vol": "3",
+       "printed_page": 51,
+       "parent": 229,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 231,
+       "title": "فصل فيما يكره",
+       "page_id": 626,
+       "vol": "3",
+       "printed_page": 53,
+       "parent": 229,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 232,
+     "title": "باب الإقالة",
+     "page_id": 628,
+     "vol": "3",
+     "printed_page": 55,
+     "parent": 223,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 233,
+     "title": "باب المرابحة و التولية",
+     "page_id": 630,
+     "vol": "3",
+     "printed_page": 56,
+     "parent": 223,
+     "children": [
+      {
+       "title_id": 234,
+       "title": "فصل: ومن اشترى شيئا مما ينقل ويحول لم يجز له بيعه حتى يقبضه",
+       "page_id": 634,
+       "vol": "3",
+       "printed_page": 59,
+       "parent": 233,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 235,
+     "title": "باب الربا",
+     "page_id": 636,
+     "vol": "3",
+     "printed_page": 60,
+     "parent": 223,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 236,
+     "title": "باب الحقوق",
+     "page_id": 643,
+     "vol": "3",
+     "printed_page": 66,
+     "parent": 223,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 237,
+     "title": "باب الاستحقاق",
+     "page_id": 644,
+     "vol": "3",
+     "printed_page": 66,
+     "parent": 223,
+     "children": [
+      {
+       "title_id": 238,
+       "title": "فصل: في بيع الفضولي",
+       "page_id": 646,
+       "vol": "3",
+       "printed_page": 68,
+       "parent": 237,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 239,
+     "title": "باب السلم",
+     "page_id": 649,
+     "vol": "3",
+     "printed_page": 70,
+     "parent": 223,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 240,
+     "title": "مسائل منثورة",
+     "page_id": 657,
+     "vol": "3",
+     "printed_page": 77,
+     "parent": 223,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 20
+  },
+  {
+   "title_id": 241,
+   "title": "كتاب الصرف",
+   "page_id": 661,
+   "vol": "3",
+   "printed_page": 81,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 242,
+     "title": "تعريفه",
+     "page_id": 661,
+     "vol": "3",
+     "printed_page": 81,
+     "parent": 241,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 21
+  },
+  {
+   "title_id": 243,
+   "title": "كتاب الكفالة",
+   "page_id": 667,
+   "vol": "3",
+   "printed_page": 87,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 244,
+     "title": "ضروب الكفالة",
+     "page_id": 667,
+     "vol": "3",
+     "printed_page": 87,
+     "parent": 243,
+     "children": [
+      {
+       "title_id": 245,
+       "title": "فصل: في الضمان",
+       "page_id": 676,
+       "vol": "3",
+       "printed_page": 95,
+       "parent": 244,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 246,
+     "title": "باب كفالة الرجلين",
+     "page_id": 678,
+     "vol": "3",
+     "printed_page": 96,
+     "parent": 243,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 247,
+     "title": "باب كفالة العبد و عنه",
+     "page_id": 680,
+     "vol": "3",
+     "printed_page": 97,
+     "parent": 243,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 22
+  },
+  {
+   "title_id": 248,
+   "title": "كتاب الحوالة",
+   "page_id": 682,
+   "vol": "3",
+   "printed_page": 99,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 249,
+     "title": "حكمها و شروطها",
+     "page_id": 682,
+     "vol": "3",
+     "printed_page": 99,
+     "parent": 248,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 23
+  },
+  {
+   "title_id": 250,
+   "title": "كتاب أدب القاضي",
+   "page_id": 684,
+   "vol": "3",
+   "printed_page": 101,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 251,
+     "title": "شروط صحة ولاية القاضي",
+     "page_id": 684,
+     "vol": "3",
+     "printed_page": 101,
+     "parent": 250,
+     "children": [
+      {
+       "title_id": 252,
+       "title": "فصل: في الحبس",
+       "page_id": 688,
+       "vol": "3",
+       "printed_page": 104,
+       "parent": 251,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 253,
+     "title": "باب كتاب القاضي إلى القاضي",
+     "page_id": 690,
+     "vol": "3",
+     "printed_page": 105,
+     "parent": 250,
+     "children": [
+      {
+       "title_id": 254,
+       "title": "فصل: و يجوز قضاء المرأة في كل شيء إلا في الحدود و القصاص",
+       "page_id": 692,
+       "vol": "3",
+       "printed_page": 106,
+       "parent": 253,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 255,
+     "title": "باب التحكيم",
+     "page_id": 694,
+     "vol": "3",
+     "printed_page": 108,
+     "parent": 250,
+     "children": [
+      {
+       "title_id": 256,
+       "title": "مسائل شتى من كتاب القضاء",
+       "page_id": 695,
+       "vol": "3",
+       "printed_page": 108,
+       "parent": 255,
+       "children": [],
+       "kind": "other",
+       "depth": 3
+      },
+      {
+       "title_id": 257,
+       "title": "فصل: في القضاء بالمواريث",
+       "page_id": 699,
+       "vol": "3",
+       "printed_page": 111,
+       "parent": 255,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 258,
+       "title": "فصل: و إذا قال القاضي قد قضيت على هذا بالرجم فارجمه الخ",
+       "page_id": 703,
+       "vol": "3",
+       "printed_page": 114,
+       "parent": 255,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 24
+  },
+  {
+   "title_id": 259,
+   "title": "كتاب الشهادات",
+   "page_id": 705,
+   "vol": "3",
+   "printed_page": 116,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 260,
+     "title": "مراتب الشهادات",
+     "page_id": 705,
+     "vol": "3",
+     "printed_page": 116,
+     "parent": 259,
+     "children": [
+      {
+       "title_id": 261,
+       "title": "فصل: وما يتحمله الشاهد على ضربين الخ",
+       "page_id": 709,
+       "vol": "3",
+       "printed_page": 119,
+       "parent": 260,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 262,
+     "title": "باب من تقبل شهادته ومن لا تقبل",
+     "page_id": 712,
+     "vol": "3",
+     "printed_page": 121,
+     "parent": 259,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 263,
+     "title": "باب الاختلاف في الشهادة",
+     "page_id": 717,
+     "vol": "3",
+     "printed_page": 125,
+     "parent": 259,
+     "children": [
+      {
+       "title_id": 264,
+       "title": "فصل: في الشهادة على الإرث",
+       "page_id": 721,
+       "vol": "3",
+       "printed_page": 128,
+       "parent": 263,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 265,
+     "title": "باب الشهادة على الشهادة",
+     "page_id": 722,
+     "vol": "3",
+     "printed_page": 129,
+     "parent": 259,
+     "children": [
+      {
+       "title_id": 266,
+       "title": "فصل: قال أبو حنيفة ﵀: شاهد الزور أشهره في السوق ولا أعزره.",
+       "page_id": 725,
+       "vol": "3",
+       "printed_page": 131,
+       "parent": 265,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 25
+  },
+  {
+   "title_id": 267,
+   "title": "كتاب الرجوع عن الشهادة",
+   "page_id": 726,
+   "vol": "3",
+   "printed_page": 132,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 268,
+     "title": "شروط صحة الرجوع",
+     "page_id": 726,
+     "vol": "3",
+     "printed_page": 132,
+     "parent": 267,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 26
+  },
+  {
+   "title_id": 269,
+   "title": "كتاب الوكالة",
+   "page_id": 730,
+   "vol": "3",
+   "printed_page": 136,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 270,
+     "title": "باب الوكالة في البيع والشراء",
+     "page_id": 733,
+     "vol": "3",
+     "printed_page": 138,
+     "parent": 269,
+     "children": [
+      {
+       "title_id": 271,
+       "title": "فصل: في الشراء",
+       "page_id": 733,
+       "vol": "3",
+       "printed_page": 138,
+       "parent": 270,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 272,
+       "title": "فصل: في التوكيل بشراء نفس العبد",
+       "page_id": 740,
+       "vol": "3",
+       "printed_page": 144,
+       "parent": 270,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 273,
+       "title": "فصل: في البيع",
+       "page_id": 741,
+       "vol": "3",
+       "printed_page": 145,
+       "parent": 270,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 274,
+       "title": "فصل: و إذا وكل و كيلين فليس لأحدهما أن يتصرف فيما وكلا به دون الآخر",
+       "page_id": 744,
+       "vol": "3",
+       "printed_page": 147,
+       "parent": 270,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 275,
+     "title": "باب الوكالة بالخصومة و القبض",
+     "page_id": 746,
+     "vol": "3",
+     "printed_page": 149,
+     "parent": 269,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 276,
+     "title": "باب عزل الوكيل",
+     "page_id": 750,
+     "vol": "3",
+     "printed_page": 152,
+     "parent": 269,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 27
+  },
+  {
+   "title_id": 277,
+   "title": "كتاب الدعوى",
+   "page_id": 752,
+   "vol": "3",
+   "printed_page": 154,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 278,
+     "title": "شروط قبول الدعوى",
+     "page_id": 752,
+     "vol": "3",
+     "printed_page": 154,
+     "parent": 277,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 279,
+     "title": "باب اليمين",
+     "page_id": 754,
+     "vol": "3",
+     "printed_page": 155,
+     "parent": 277,
+     "children": [
+      {
+       "title_id": 280,
+       "title": "فصل: في كيفية اليمين و الاستحلاف",
+       "page_id": 758,
+       "vol": "3",
+       "printed_page": 158,
+       "parent": 279,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 281,
+     "title": "باب التحالف",
+     "page_id": 761,
+     "vol": "3",
+     "printed_page": 160,
+     "parent": 277,
+     "children": [
+      {
+       "title_id": 282,
+       "title": "فصل: فيمن لا يكون خصما",
+       "page_id": 767,
+       "vol": "3",
+       "printed_page": 166,
+       "parent": 281,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 283,
+     "title": "باب ما يدعيه الرجلان",
+     "page_id": 769,
+     "vol": "3",
+     "printed_page": 167,
+     "parent": 277,
+     "children": [
+      {
+       "title_id": 284,
+       "title": "فصل: في التنازع بالأيدي",
+       "page_id": 775,
+       "vol": "3",
+       "printed_page": 172,
+       "parent": 283,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 285,
+     "title": "باب دعوى النسب",
+     "page_id": 777,
+     "vol": "3",
+     "printed_page": 173,
+     "parent": 277,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 28
+  },
+  {
+   "title_id": 286,
+   "title": "كتاب الإقرار",
+   "page_id": 782,
+   "vol": "3",
+   "printed_page": 178,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 287,
+     "title": "كيفية الإقرار",
+     "page_id": 782,
+     "vol": "3",
+     "printed_page": 178,
+     "parent": 286,
+     "children": [
+      {
+       "title_id": 288,
+       "title": "فصل: ومن قال: لحمل فلانة علي ألف درهم الخ",
+       "page_id": 786,
+       "vol": "3",
+       "printed_page": 181,
+       "parent": 287,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 289,
+     "title": "باب الاستثناء و ما في معناه",
+     "page_id": 788,
+     "vol": "3",
+     "printed_page": 182,
+     "parent": 286,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 290,
+     "title": "باب إقرار المريض",
+     "page_id": 793,
+     "vol": "3",
+     "printed_page": 186,
+     "parent": 286,
+     "children": [
+      {
+       "title_id": 291,
+       "title": "فصل: و من أقر بغلام يولد مثله لمثله و ليس له نسب معروف الخ",
+       "page_id": 795,
+       "vol": "3",
+       "printed_page": 188,
+       "parent": 290,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 29
+  },
+  {
+   "title_id": 292,
+   "title": "كتاب الصلح",
+   "page_id": 797,
+   "vol": "3",
+   "printed_page": 190,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 293,
+     "title": "أضرب الصلح",
+     "page_id": 797,
+     "vol": "3",
+     "printed_page": 190,
+     "parent": 292,
+     "children": [
+      {
+       "title_id": 294,
+       "title": "فصل: و الصلح جائز عن دعوى الأموال و المنافع",
+       "page_id": 799,
+       "vol": "3",
+       "printed_page": 191,
+       "parent": 293,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 295,
+     "title": "باب التبرع بالصلح و التوكيل به",
+     "page_id": 802,
+     "vol": "3",
+     "printed_page": 193,
+     "parent": 292,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 296,
+     "title": "باب الصلح في الدين",
+     "page_id": 804,
+     "vol": "3",
+     "printed_page": 194,
+     "parent": 292,
+     "children": [
+      {
+       "title_id": 297,
+       "title": "فصل: في الدين المشترك",
+       "page_id": 807,
+       "vol": "3",
+       "printed_page": 196,
+       "parent": 296,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 298,
+       "title": "فصل: في التخارج",
+       "page_id": 810,
+       "vol": "3",
+       "printed_page": 198,
+       "parent": 296,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 30
+  },
+  {
+   "title_id": 299,
+   "title": "كتاب المضاربة",
+   "page_id": 812,
+   "vol": "3",
+   "printed_page": 200,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 300,
+     "title": "تعريفها و شروطها",
+     "page_id": 812,
+     "vol": "3",
+     "printed_page": 200,
+     "parent": 299,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 301,
+     "title": "باب المضارب يضارب",
+     "page_id": 817,
+     "vol": "3",
+     "printed_page": 204,
+     "parent": 299,
+     "children": [
+      {
+       "title_id": 302,
+       "title": "فصل: و إذا شرط المضارب لرب المال ثلث الربح الخ",
+       "page_id": 820,
+       "vol": "3",
+       "printed_page": 206,
+       "parent": 301,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 303,
+       "title": "فصل: في العزل و القسمة",
+       "page_id": 821,
+       "vol": "3",
+       "printed_page": 206,
+       "parent": 301,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 304,
+       "title": "فصل: فيما يفعله المضارب",
+       "page_id": 823,
+       "vol": "3",
+       "printed_page": 207,
+       "parent": 301,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 305,
+       "title": "فصل: فإن كان معه ألف بالنصف فاشترى بها بزا فباعه بألفين الخ",
+       "page_id": 827,
+       "vol": "3",
+       "printed_page": 210,
+       "parent": 301,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 306,
+       "title": "فصل: في الاختلاف",
+       "page_id": 829,
+       "vol": "3",
+       "printed_page": 211,
+       "parent": 301,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 31
+  },
+  {
+   "title_id": 307,
+   "title": "كتاب الوديعة",
+   "page_id": 831,
+   "vol": "3",
+   "printed_page": 213,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 308,
+     "title": "تعريفها و حالاتها",
+     "page_id": 831,
+     "vol": "3",
+     "printed_page": 213,
+     "parent": 307,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 32
+  },
+  {
+   "title_id": 309,
+   "title": "كتاب العارية",
+   "page_id": 836,
+   "vol": "3",
+   "printed_page": 218,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 310,
+     "title": "حكمها و صحتها",
+     "page_id": 836,
+     "vol": "3",
+     "printed_page": 218,
+     "parent": 309,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 33
+  },
+  {
+   "title_id": 311,
+   "title": "كتاب الهبة",
+   "page_id": 840,
+   "vol": "3",
+   "printed_page": 222,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 312,
+     "title": "حكمها و كيفية انعقادها",
+     "page_id": 840,
+     "vol": "3",
+     "printed_page": 222,
+     "parent": 311,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 313,
+     "title": "باب الرجوع في الهبة",
+     "page_id": 844,
+     "vol": "3",
+     "printed_page": 225,
+     "parent": 311,
+     "children": [
+      {
+       "title_id": 314,
+       "title": "فصل: و من وهب جارية إلا حملها صحت الهبة و بطل الاستثناء",
+       "page_id": 847,
+       "vol": "3",
+       "printed_page": 227,
+       "parent": 313,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 315,
+       "title": "فصل: في الصدقة",
+       "page_id": 849,
+       "vol": "3",
+       "printed_page": 228,
+       "parent": 313,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 34
+  },
+  {
+   "title_id": 316,
+   "title": "كتاب الإجارات",
+   "page_id": 851,
+   "vol": "3",
+   "printed_page": 230,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 317,
+     "title": "تعريفها",
+     "page_id": 851,
+     "vol": "3",
+     "printed_page": 230,
+     "parent": 316,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 318,
+     "title": "باب الأجر متى يستحق",
+     "page_id": 853,
+     "vol": "3",
+     "printed_page": 231,
+     "parent": 316,
+     "children": [
+      {
+       "title_id": 319,
+       "title": "فصل: و من استأجر رجلا ليذهب إلى البصرة فيجيء بعياله الخ",
+       "page_id": 856,
+       "vol": "3",
+       "printed_page": 233,
+       "parent": 318,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 320,
+     "title": "باب ما يجوز من الإجارة و ما يكون خلافا فيها",
+     "page_id": 857,
+     "vol": "3",
+     "printed_page": 233,
+     "parent": 316,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 321,
+     "title": "باب الإجارة الفاسدة",
+     "page_id": 861,
+     "vol": "3",
+     "printed_page": 237,
+     "parent": 316,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 322,
+     "title": "باب ضمان الأجير",
+     "page_id": 867,
+     "vol": "3",
+     "printed_page": 242,
+     "parent": 316,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 323,
+     "title": "باب الإجارة على أحد الشرطين",
+     "page_id": 869,
+     "vol": "3",
+     "printed_page": 244,
+     "parent": 316,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 324,
+     "title": "باب إجارة العبد",
+     "page_id": 871,
+     "vol": "3",
+     "printed_page": 245,
+     "parent": 316,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 325,
+     "title": "باب الاختلاف في الإجارة",
+     "page_id": 873,
+     "vol": "3",
+     "printed_page": 246,
+     "parent": 316,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 326,
+     "title": "باب فسخ الإجارة",
+     "page_id": 874,
+     "vol": "3",
+     "printed_page": 246,
+     "parent": 316,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 327,
+     "title": "مسائل منثورة",
+     "page_id": 878,
+     "vol": "3",
+     "printed_page": 249,
+     "parent": 316,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 35
+  },
+  {
+   "title_id": 328,
+   "title": "كتاب المكاتب",
+   "page_id": 879,
+   "vol": "3",
+   "printed_page": 250,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 329,
+     "title": "كيفية المكاتبة",
+     "page_id": 879,
+     "vol": "3",
+     "printed_page": 250,
+     "parent": 328,
+     "children": [
+      {
+       "title_id": 330,
+       "title": "فصل: في الكتابة الفاسدة",
+       "page_id": 881,
+       "vol": "3",
+       "printed_page": 251,
+       "parent": 329,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 331,
+     "title": "باب ما يجوز للمكاتب أن يفعله",
+     "page_id": 885,
+     "vol": "3",
+     "printed_page": 254,
+     "parent": 328,
+     "children": [
+      {
+       "title_id": 332,
+       "title": "فصل: و إذا اشترى المكاتب أباه أو ابنه دخل في كتابته",
+       "page_id": 887,
+       "vol": "3",
+       "printed_page": 255,
+       "parent": 331,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 333,
+       "title": "فصل: و إذا ولدت المكاتبة من المولى فهي بالخيار الخ",
+       "page_id": 890,
+       "vol": "3",
+       "printed_page": 257,
+       "parent": 331,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 334,
+     "title": "باب من يكاتب عن العبد",
+     "page_id": 893,
+     "vol": "3",
+     "printed_page": 259,
+     "parent": 328,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 335,
+     "title": "باب كتاب العبد المشترك",
+     "page_id": 895,
+     "vol": "3",
+     "printed_page": 260,
+     "parent": 328,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 336,
+     "title": "باب موت المكاتب و عجزه و موت المولى",
+     "page_id": 899,
+     "vol": "3",
+     "printed_page": 263,
+     "parent": 328,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 36
+  },
+  {
+   "title_id": 337,
+   "title": "كتاب الولاء",
+   "page_id": 903,
+   "vol": "3",
+   "printed_page": 267,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 338,
+     "title": "أنواعه",
+     "page_id": 903,
+     "vol": "3",
+     "printed_page": 267,
+     "parent": 337,
+     "children": [
+      {
+       "title_id": 339,
+       "title": "فصل: في ولاء الموالاة",
+       "page_id": 907,
+       "vol": "3",
+       "printed_page": 270,
+       "parent": 338,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 37
+  },
+  {
+   "title_id": 340,
+   "title": "كتاب الإكراه",
+   "page_id": 909,
+   "vol": "3",
+   "printed_page": 272,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 341,
+     "title": "كيف يثبت حكمه",
+     "page_id": 909,
+     "vol": "3",
+     "printed_page": 272,
+     "parent": 340,
+     "children": [
+      {
+       "title_id": 342,
+       "title": "فصل: و إن أكره على أن يأكل الميتة أو يشرب الخمر الخ",
+       "page_id": 911,
+       "vol": "3",
+       "printed_page": 273,
+       "parent": 341,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 38
+  },
+  {
+   "title_id": 343,
+   "title": "كتاب الحجر",
+   "page_id": 915,
+   "vol": "3",
+   "printed_page": 277,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 344,
+     "title": "الأسباب الموجبة للحجر",
+     "page_id": 915,
+     "vol": "3",
+     "printed_page": 277,
+     "parent": 343,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 345,
+     "title": "باب الحجر للفساد",
+     "page_id": 917,
+     "vol": "3",
+     "printed_page": 278,
+     "parent": 343,
+     "children": [
+      {
+       "title_id": 346,
+       "title": "فصل: في حد البلوغ",
+       "page_id": 921,
+       "vol": "3",
+       "printed_page": 281,
+       "parent": 345,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 347,
+     "title": "باب الحجر بسبب الدين",
+     "page_id": 923,
+     "vol": "3",
+     "printed_page": 282,
+     "parent": 343,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 39
+  },
+  {
+   "title_id": 348,
+   "title": "كتاب المأذون",
+   "page_id": 926,
+   "vol": "4",
+   "printed_page": 287,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 349,
+     "title": "تعريف الإذن",
+     "page_id": 926,
+     "vol": "4",
+     "printed_page": 287,
+     "parent": 348,
+     "children": [
+      {
+       "title_id": 350,
+       "title": "فصل: و إذا أذن ولي الصبي للصبي في التجارة فهو في البيع و الشراء الخ",
+       "page_id": 934,
+       "vol": "4",
+       "printed_page": 294,
+       "parent": 349,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 40
+  },
+  {
+   "title_id": 351,
+   "title": "كتاب الغصب",
+   "page_id": 936,
+   "vol": "4",
+   "printed_page": 296,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 352,
+     "title": "تعريفه و على الغاصب رد العين",
+     "page_id": 936,
+     "vol": "4",
+     "printed_page": 296,
+     "parent": 351,
+     "children": [
+      {
+       "title_id": 353,
+       "title": "فصل: فيما يتغير بفعل الغاصب",
+       "page_id": 940,
+       "vol": "4",
+       "printed_page": 299,
+       "parent": 352,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 354,
+       "title": "فصل: ومن غصب عينا فغيبها فضمنه المالك قيمتها ملكها",
+       "page_id": 944,
+       "vol": "4",
+       "printed_page": 302,
+       "parent": 352,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 355,
+       "title": "فصل: في غصب ما لا يتقوم",
+       "page_id": 947,
+       "vol": "4",
+       "printed_page": 304,
+       "parent": 352,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 41
+  },
+  {
+   "title_id": 356,
+   "title": "كتاب الشفعة",
+   "page_id": 951,
+   "vol": "4",
+   "printed_page": 308,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 357,
+     "title": "تعريف الشفعة و حكمها",
+     "page_id": 951,
+     "vol": "4",
+     "printed_page": 308,
+     "parent": 356,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 358,
+     "title": "باب طلب الشفعة و الخصومة فيها",
+     "page_id": 954,
+     "vol": "4",
+     "printed_page": 310,
+     "parent": 356,
+     "children": [
+      {
+       "title_id": 359,
+       "title": "فصل: في الاختلاف",
+       "page_id": 958,
+       "vol": "4",
+       "printed_page": 314,
+       "parent": 358,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 360,
+       "title": "فصل: فيما يؤخذ به المشفوع",
+       "page_id": 960,
+       "vol": "4",
+       "printed_page": 315,
+       "parent": 358,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 361,
+       "title": "فصل: و إذا بنى المشتري فيها أو غرس الخ",
+       "page_id": 962,
+       "vol": "4",
+       "printed_page": 316,
+       "parent": 358,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 362,
+     "title": "باب ما تجب فيه الشفعة و ما لا تجب",
+     "page_id": 965,
+     "vol": "4",
+     "printed_page": 318,
+     "parent": 356,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 363,
+     "title": "باب ما يبطل به الشفعة",
+     "page_id": 969,
+     "vol": "4",
+     "printed_page": 321,
+     "parent": 356,
+     "children": [
+      {
+       "title_id": 364,
+       "title": "فصل: و إذا باع دارا إلا مقدار ذراع منها في طول الحد الذي يلي الشفيع فلا شفعة له",
+       "page_id": 971,
+       "vol": "4",
+       "printed_page": 322,
+       "parent": 363,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 365,
+     "title": "مسائل متفرقة",
+     "page_id": 973,
+     "vol": "4",
+     "printed_page": 323,
+     "parent": 356,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 42
+  },
+  {
+   "title_id": 366,
+   "title": "كتاب القسمة",
+   "page_id": 975,
+   "vol": "4",
+   "printed_page": 325,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 367,
+     "title": "ينبغي للقاضي أن ينصب قاسما",
+     "page_id": 975,
+     "vol": "4",
+     "printed_page": 325,
+     "parent": 366,
+     "children": [
+      {
+       "title_id": 368,
+       "title": "فصل: فيما يقسم و ما لا يقسم",
+       "page_id": 978,
+       "vol": "4",
+       "printed_page": 327,
+       "parent": 367,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 369,
+       "title": "فصل: في كيفية القسمة",
+       "page_id": 981,
+       "vol": "4",
+       "printed_page": 329,
+       "parent": 367,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 370,
+     "title": "باب دعوى الغلط في القسمة و الاستحقاق فيها",
+     "page_id": 985,
+     "vol": "4",
+     "printed_page": 332,
+     "parent": 366,
+     "children": [
+      {
+       "title_id": 371,
+       "title": "فصل: و إذا استحق بعض نصيب أحدهما بعينه الخ",
+       "page_id": 987,
+       "vol": "4",
+       "printed_page": 333,
+       "parent": 370,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 372,
+       "title": "فصل: في المهايأة",
+       "page_id": 989,
+       "vol": "4",
+       "printed_page": 334,
+       "parent": 370,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 43
+  },
+  {
+   "title_id": 373,
+   "title": "كتاب المزارعة",
+   "page_id": 992,
+   "vol": "4",
+   "printed_page": 337,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 374,
+     "title": "شروطها",
+     "page_id": 992,
+     "vol": "4",
+     "printed_page": 337,
+     "parent": 373,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 44
+  },
+  {
+   "title_id": 375,
+   "title": "كتاب المساقاة",
+   "page_id": 998,
+   "vol": "4",
+   "printed_page": 343,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 376,
+     "title": "يشترط تسمية الجزء مشاعا",
+     "page_id": 998,
+     "vol": "4",
+     "printed_page": 343,
+     "parent": 375,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 45
+  },
+  {
+   "title_id": 377,
+   "title": "كتاب الذبائح",
+   "page_id": 1001,
+   "vol": "4",
+   "printed_page": 346,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 378,
+     "title": "من تحل ذبيحته و من لا تحل",
+     "page_id": 1001,
+     "vol": "4",
+     "printed_page": 346,
+     "parent": 377,
+     "children": [
+      {
+       "title_id": 379,
+       "title": "فصل: فيما يحل أكله و ما لا يحل",
+       "page_id": 1007,
+       "vol": "4",
+       "printed_page": 351,
+       "parent": 378,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 46
+  },
+  {
+   "title_id": 380,
+   "title": "كتاب الأضحية",
+   "page_id": 1011,
+   "vol": "4",
+   "printed_page": 355,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 381,
+     "title": "على من تجب الأضحية",
+     "page_id": 1011,
+     "vol": "4",
+     "printed_page": 355,
+     "parent": 380,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 47
+  },
+  {
+   "title_id": 382,
+   "title": "كتاب الكراهية",
+   "page_id": 1019,
+   "vol": "4",
+   "printed_page": 363,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 383,
+     "title": "فصل: في الأكل و الشرب",
+     "page_id": 1019,
+     "vol": "4",
+     "printed_page": 363,
+     "parent": 382,
+     "children": [],
+     "kind": "فصل",
+     "depth": 2
+    },
+    {
+     "title_id": 384,
+     "title": "فصل: في اللبس",
+     "page_id": 1022,
+     "vol": "4",
+     "printed_page": 365,
+     "parent": 382,
+     "children": [],
+     "kind": "فصل",
+     "depth": 2
+    },
+    {
+     "title_id": 385,
+     "title": "فصل: في الوطء و النظر و اللمس",
+     "page_id": 1026,
+     "vol": "4",
+     "printed_page": 368,
+     "parent": 382,
+     "children": [],
+     "kind": "فصل",
+     "depth": 2
+    },
+    {
+     "title_id": 386,
+     "title": "فصل: في الاستبراء و غيره",
+     "page_id": 1031,
+     "vol": "4",
+     "printed_page": 372,
+     "parent": 382,
+     "children": [],
+     "kind": "فصل",
+     "depth": 2
+    },
+    {
+     "title_id": 387,
+     "title": "فصل: في البيع",
+     "page_id": 1035,
+     "vol": "4",
+     "printed_page": 375,
+     "parent": 382,
+     "children": [],
+     "kind": "فصل",
+     "depth": 2
+    },
+    {
+     "title_id": 388,
+     "title": "مسائل متفرقة",
+     "page_id": 1040,
+     "vol": "4",
+     "printed_page": 379,
+     "parent": 382,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 48
+  },
+  {
+   "title_id": 389,
+   "title": "كتاب إحياء الموات",
+   "page_id": 1044,
+   "vol": "4",
+   "printed_page": 383,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 390,
+     "title": "تعريف الموات من يملكه",
+     "page_id": 1044,
+     "vol": "4",
+     "printed_page": 383,
+     "parent": 389,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 391,
+     "title": "فصول في مسائل الشرب",
+     "page_id": 1049,
+     "vol": "4",
+     "printed_page": 387,
+     "parent": 389,
+     "children": [
+      {
+       "title_id": 392,
+       "title": "فصل: في المياه",
+       "page_id": 1049,
+       "vol": "4",
+       "printed_page": 387,
+       "parent": 391,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 393,
+       "title": "فصل: في كري الأنهار",
+       "page_id": 1052,
+       "vol": "4",
+       "printed_page": 389,
+       "parent": 391,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 394,
+       "title": "فصل: في الدعوى و الاختلاف و التصرف فيه",
+       "page_id": 1054,
+       "vol": "4",
+       "printed_page": 390,
+       "parent": 391,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 49
+  },
+  {
+   "title_id": 395,
+   "title": "كتاب الأشربة",
+   "page_id": 1057,
+   "vol": "4",
+   "printed_page": 393,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 396,
+     "title": "أنواع الأشربة المحرمة",
+     "page_id": 1057,
+     "vol": "4",
+     "printed_page": 393,
+     "parent": 395,
+     "children": [
+      {
+       "title_id": 397,
+       "title": "فصل: في طبخ العصير",
+       "page_id": 1064,
+       "vol": "4",
+       "printed_page": 399,
+       "parent": 396,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 50
+  },
+  {
+   "title_id": 398,
+   "title": "كتاب الصيد",
+   "page_id": 1066,
+   "vol": "4",
+   "printed_page": 401,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 399,
+     "title": "تعريفه",
+     "page_id": 1066,
+     "vol": "4",
+     "printed_page": 401,
+     "parent": 398,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 400,
+     "title": "فصل: في الجوارح",
+     "page_id": 1067,
+     "vol": "4",
+     "printed_page": 401,
+     "parent": 398,
+     "children": [],
+     "kind": "فصل",
+     "depth": 2
+    },
+    {
+     "title_id": 401,
+     "title": "فصل: في الرمي",
+     "page_id": 1073,
+     "vol": "4",
+     "printed_page": 406,
+     "parent": 398,
+     "children": [],
+     "kind": "فصل",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 51
+  },
+  {
+   "title_id": 402,
+   "title": "كتاب الرهن",
+   "page_id": 1079,
+   "vol": "4",
+   "printed_page": 412,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 403,
+     "title": "كيفية انعقاد الرهن",
+     "page_id": 1079,
+     "vol": "4",
+     "printed_page": 412,
+     "parent": 402,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 404,
+     "title": "باب ما يجوز ارتهانه و الارتهان به و ما لا يجوز",
+     "page_id": 1085,
+     "vol": "4",
+     "printed_page": 417,
+     "parent": 402,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 405,
+     "title": "فصل: و من رهن عبدين بألف فقضى حصة أحدهما لم يكن له أن يقبضه حتى يؤدي باقي الدين",
+     "page_id": 1093,
+     "vol": "4",
+     "printed_page": 424,
+     "parent": 402,
+     "children": [],
+     "kind": "فصل",
+     "depth": 2
+    },
+    {
+     "title_id": 406,
+     "title": "باب الرهن يوضع على يد العدل",
+     "page_id": 1096,
+     "vol": "4",
+     "printed_page": 426,
+     "parent": 402,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 407,
+     "title": "باب التصرف في الرهن و الجناية عليه و جنايته على غيره",
+     "page_id": 1100,
+     "vol": "4",
+     "printed_page": 429,
+     "parent": 402,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 408,
+     "title": "فصل: و من رهن عصيرا بعشرة قيمته عشرة فتخمر ثم صار خلا يساوي عشرة فهو رهن بعشرة",
+     "page_id": 1111,
+     "vol": "4",
+     "printed_page": 439,
+     "parent": 402,
+     "children": [],
+     "kind": "فصل",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 52
+  },
+  {
+   "title_id": 409,
+   "title": "كتاب الجنايات",
+   "page_id": 1114,
+   "vol": "4",
+   "printed_page": 442,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 410,
+     "title": "أوجه القتل",
+     "page_id": 1114,
+     "vol": "4",
+     "printed_page": 442,
+     "parent": 409,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 411,
+     "title": "باب ما يوجب القصاص و ما لا يوجبه",
+     "page_id": 1117,
+     "vol": "4",
+     "printed_page": 444,
+     "parent": 409,
+     "children": [
+      {
+       "title_id": 412,
+       "title": "فصل: و من شهر على المسلمين سيفا فعليهم أن يقتلوه",
+       "page_id": 1122,
+       "vol": "4",
+       "printed_page": 448,
+       "parent": 411,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 413,
+     "title": "باب القصاص فيما دون النفس",
+     "page_id": 1124,
+     "vol": "4",
+     "printed_page": 449,
+     "parent": 409,
+     "children": [
+      {
+       "title_id": 414,
+       "title": "فصل: و إذا اصطلح القاتل و أولياء القتيل على مال سقط القصاص و وجب المال قليلا كان أو كثيرا",
+       "page_id": 1126,
+       "vol": "4",
+       "printed_page": 451,
+       "parent": 413,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 415,
+       "title": "فصل: و من قطع يد رجل خطأ ثم قتله عمدا قبل أن تبرأ يده الخ",
+       "page_id": 1129,
+       "vol": "4",
+       "printed_page": 453,
+       "parent": 413,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 416,
+     "title": "باب الشهادة في القتل",
+     "page_id": 1133,
+     "vol": "4",
+     "printed_page": 456,
+     "parent": 409,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 417,
+     "title": "باب في اعتبار حالة القتل",
+     "page_id": 1136,
+     "vol": "4",
+     "printed_page": 458,
+     "parent": 409,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 53
+  },
+  {
+   "title_id": 418,
+   "title": "كتاب الديات",
+   "page_id": 1138,
+   "vol": "4",
+   "printed_page": 460,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 419,
+     "title": "قتل الخطأ تجب به الدية",
+     "page_id": 1138,
+     "vol": "4",
+     "printed_page": 460,
+     "parent": 418,
+     "children": [
+      {
+       "title_id": 420,
+       "title": "فصل: فيما دون النفس",
+       "page_id": 1140,
+       "vol": "4",
+       "printed_page": 462,
+       "parent": 419,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 421,
+       "title": "فصل: في الشجاج",
+       "page_id": 1143,
+       "vol": "4",
+       "printed_page": 464,
+       "parent": 419,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 422,
+       "title": "فصل: و في أصابع اليد نصف الدية",
+       "page_id": 1146,
+       "vol": "4",
+       "printed_page": 466,
+       "parent": 419,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 423,
+       "title": "فصل: في الجنين",
+       "page_id": 1152,
+       "vol": "4",
+       "printed_page": 471,
+       "parent": 419,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "other",
+     "depth": 2
+    },
+    {
+     "title_id": 424,
+     "title": "باب ما يحدث الرجل في الطريق",
+     "page_id": 1154,
+     "vol": "4",
+     "printed_page": 473,
+     "parent": 418,
+     "children": [
+      {
+       "title_id": 425,
+       "title": "فصل: في الحائط المائل",
+       "page_id": 1159,
+       "vol": "4",
+       "printed_page": 477,
+       "parent": 424,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 426,
+     "title": "باب جناية البهيمة و الجناية عليها",
+     "page_id": 1162,
+     "vol": "4",
+     "printed_page": 479,
+     "parent": 418,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 427,
+     "title": "باب جناية المملوك و الجناية عليه",
+     "page_id": 1168,
+     "vol": "4",
+     "printed_page": 484,
+     "parent": 418,
+     "children": [
+      {
+       "title_id": 428,
+       "title": "فصل: و من قتل عبدا خطأ فعليه قيمته لا تزاد على عشرة آلاف درهم الخ",
+       "page_id": 1175,
+       "vol": "4",
+       "printed_page": 491,
+       "parent": 427,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      },
+      {
+       "title_id": 429,
+       "title": "فصل: في جناية المدبر و أم الولد",
+       "page_id": 1178,
+       "vol": "4",
+       "printed_page": 493,
+       "parent": 427,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 430,
+     "title": "باب غصب العبد و المدبر و الصبي و الجناية في ذلك",
+     "page_id": 1180,
+     "vol": "4",
+     "printed_page": 494,
+     "parent": 418,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 431,
+     "title": "باب القسامة",
+     "page_id": 1184,
+     "vol": "4",
+     "printed_page": 497,
+     "parent": 418,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 54
+  },
+  {
+   "title_id": 432,
+   "title": "كتاب المعاقل",
+   "page_id": 1193,
+   "vol": "4",
+   "printed_page": 506,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 433,
+     "title": "و العاقلة أهل الديوان إن كان القاتل من أهل الديوان الخ",
+     "page_id": 1193,
+     "vol": "4",
+     "printed_page": 506,
+     "parent": 432,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 55
+  },
+  {
+   "title_id": 434,
+   "title": "كتاب الوصايا",
+   "page_id": 1200,
+   "vol": "4",
+   "printed_page": 513,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 435,
+     "title": "باب في صفة الوصية ما يجوز من ذاك و ما يستحب منه و ما يكون رجوعا عنه",
+     "page_id": 1200,
+     "vol": "4",
+     "printed_page": 513,
+     "parent": 434,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 436,
+     "title": "باب الوصية بثلث المال",
+     "page_id": 1206,
+     "vol": "4",
+     "printed_page": 518,
+     "parent": 434,
+     "children": [
+      {
+       "title_id": 437,
+       "title": "فصل: في اعتبار حالة الوصية",
+       "page_id": 1214,
+       "vol": "4",
+       "printed_page": 525,
+       "parent": 436,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 438,
+     "title": "باب العتق في مرض الموت",
+     "page_id": 1215,
+     "vol": "4",
+     "printed_page": 526,
+     "parent": 434,
+     "children": [
+      {
+       "title_id": 439,
+       "title": "فصل: و من أوصى بوصايا من حقوق الله تعالى قدمت الفرائض منها قدمها الموصي أو أخرها",
+       "page_id": 1218,
+       "vol": "4",
+       "printed_page": 528,
+       "parent": 438,
+       "children": [],
+       "kind": "فصل",
+       "depth": 3
+      }
+     ],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 440,
+     "title": "باب الوصية للأقارب و غيرهم",
+     "page_id": 1220,
+     "vol": "4",
+     "printed_page": 529,
+     "parent": 434,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 441,
+     "title": "باب الوصية بالسكنى و الخدمة و الثمرة",
+     "page_id": 1224,
+     "vol": "4",
+     "printed_page": 532,
+     "parent": 434,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 442,
+     "title": "باب وصية الذمي",
+     "page_id": 1229,
+     "vol": "4",
+     "printed_page": 536,
+     "parent": 434,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 443,
+     "title": "باب الوصي و ما يملكه",
+     "page_id": 1231,
+     "vol": "4",
+     "printed_page": 538,
+     "parent": 434,
+     "children": [],
+     "kind": "باب",
+     "depth": 2
+    },
+    {
+     "title_id": 444,
+     "title": "فصل: في الشهادة",
+     "page_id": 1238,
+     "vol": "4",
+     "printed_page": 544,
+     "parent": 434,
+     "children": [],
+     "kind": "فصل",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 56
+  },
+  {
+   "title_id": 445,
+   "title": "كتاب الخنثى",
+   "page_id": 1240,
+   "vol": "4",
+   "printed_page": 546,
+   "parent": 0,
+   "children": [
+    {
+     "title_id": 446,
+     "title": "فصل في بيانه",
+     "page_id": 1240,
+     "vol": "4",
+     "printed_page": 546,
+     "parent": 445,
+     "children": [],
+     "kind": "فصل",
+     "depth": 2
+    },
+    {
+     "title_id": 447,
+     "title": "فصل: في أحكامه",
+     "page_id": 1241,
+     "vol": "4",
+     "printed_page": 546,
+     "parent": 445,
+     "children": [],
+     "kind": "فصل",
+     "depth": 2
+    },
+    {
+     "title_id": 448,
+     "title": "مسائل شتى",
+     "page_id": 1244,
+     "vol": "4",
+     "printed_page": 548,
+     "parent": 445,
+     "children": [],
+     "kind": "other",
+     "depth": 2
+    }
+   ],
+   "kind": "كتاب",
+   "depth": 1,
+   "kitab_no": 57
+  }
+ ]
+}
